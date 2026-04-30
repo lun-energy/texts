@@ -1,0 +1,1999 @@
+<EnergyLabel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.ens.dk/EnergyLabel" xsi:schemaLocation="http://www.ens.dk/EnergyLabel xsd/EnergyLabel.xsd">
+  <SchemaVersion>2.0.1</SchemaVersion>
+  <EnergyLabelType>
+    <BasedOn>CalculatedConsumption</BasedOn>
+    <Usage>SingleFamily</Usage>
+    <IsNewBuild>false</IsNewBuild>
+    <IsMixedUsage>false</IsMixedUsage>
+  </EnergyLabelType>
+  <EnergyLabelSoftware>
+    <Name>Plans</Name>
+    <Version>1</Version>
+  </EnergyLabelSoftware>
+  <CalculationSoftware>
+    <Name>Be18</Name>
+    <Version>10.19.7.22</Version>
+  </CalculationSoftware>
+  <Submitter>
+    <Company>
+      <Number>000000</Number>
+      <Name>Botjek</Name>
+      <Address>
+        <StreetName xmlns="http://www.ens.dk/Globals">Thriges Plads</StreetName>
+        <HouseNumber xmlns="http://www.ens.dk/Globals">10</HouseNumber>
+        <PostalCode xmlns="http://www.ens.dk/Globals">5000</PostalCode>
+        <PostalCity xmlns="http://www.ens.dk/Globals">Odense C</PostalCity>
+      </Address>
+      <PhoneNumber>24403349</PhoneNumber>
+      <Email>glo@botjek.dk</Email>
+    </Company>
+    <Consultant>
+      <ID>000000</ID>
+      <Name>cal </Name>
+      <Email>cal@botjek.dk</Email>
+    </Consultant>
+  </Submitter>
+  <EnergyLabelSerialIdentifier>100103025</EnergyLabelSerialIdentifier>
+  <ValidFrom>2026-04-30</ValidFrom>
+  <ValidTo>2036-04-30</ValidTo>
+  <InputData xmlns="http://www.ens.dk/InputData">
+    <Label>
+      <Address>
+        <Name xmlns="http://www.ens.dk/Globals"></Name>
+        <StreetName xmlns="http://www.ens.dk/Globals">Kirkegyden</StreetName>
+        <HouseNumber xmlns="http://www.ens.dk/Globals">15</HouseNumber>
+        <PostalCode xmlns="http://www.ens.dk/Globals">5270</PostalCode>
+        <PostalCity xmlns="http://www.ens.dk/Globals">Odense N</PostalCity>
+        <Floor xmlns="http://www.ens.dk/Globals"></Floor>
+        <StreetCode xmlns="http://www.ens.dk/Globals">4240</StreetCode>
+      </Address>
+      <BBR>
+        <MunicipalityNumber>0461</MunicipalityNumber>
+        <PropertyNumber>202691</PropertyNumber>
+        <BFENumber>10236408</BFENumber>
+      </BBR>
+      <ReviewDate>2024-10-11</ReviewDate>
+      <Ownership>Private</Ownership>
+      <ProposalGroups>
+        <ProposalGroup ID="0">
+          <ShortText>Udskiftning af eksisterende flerfagsvinduer</ShortText>
+          <LongText>Eksisterende flerfagsvinduer foreslås udskiftet til nye vinduer med energiruder, energiklasse A.</LongText>
+          <IsRecommended>false</IsRecommended>
+          <Investment>139722</Investment>
+          <IsInvestmentOverridden>false</IsInvestmentOverridden>
+          <BIClassification>1-3-1-0</BIClassification>
+          <ProposalReferences>
+            <ProposalReference ProposalID="3835ea1c-786a-465f-bacc-07e006cec26b"></ProposalReference>
+            <ProposalReference ProposalID="849245dd-32dc-4800-aa03-01de89b58d08"></ProposalReference>
+            <ProposalReference ProposalID="e702e67d-10b5-4e80-b094-073cfdc74226"></ProposalReference>
+            <ProposalReference ProposalID="1b931e10-3a33-4c00-b292-b6926422b92f"></ProposalReference>
+            <ProposalReference ProposalID="641197ae-dbc0-46ef-ae6a-d5b94a2336a8"></ProposalReference>
+            <ProposalReference ProposalID="d96ccea6-9c8c-43b9-9cb6-318d1d302240"></ProposalReference>
+            <ProposalReference ProposalID="8880054e-3ae9-4457-803e-c3d6e7868da5"></ProposalReference>
+            <ProposalReference ProposalID="f72a98e8-d3d9-48af-a026-92477339b9b9"></ProposalReference>
+            <ProposalReference ProposalID="09a68de0-bb37-4da7-8637-6e6d84496472"></ProposalReference>
+            <ProposalReference ProposalID="097dc03c-3c41-437d-937b-a50ce9dd8774"></ProposalReference>
+            <ProposalReference ProposalID="40658a1b-80df-47c7-996a-759539be0f80"></ProposalReference>
+            <ProposalReference ProposalID="9160c5cd-2605-4efd-9f2e-ea0c47e24ad5"></ProposalReference>
+          </ProposalReferences>
+        </ProposalGroup>
+      </ProposalGroups>
+      <Comments>
+        <Additional>Bygningsdelenes isoleringsevne er baseret på skøn ud fra registrerede isoleringstykkelser, og er heraf fastlagt ud fra tabeller i gældende håndbog for energikonsulenter, som sammen med gældende DS 418 og f.eks Rockwool Energy Design danner grundlag for beregninger af yderligere konstruktioner.
+
+Der gøres opmærksom på, at forslag vedr. efterisolering af bygningskonstruktioner som f.eks. gulve, lofter og vægge alene er beregnet ud fra et energimæssigt hensyn. Der er i forslagene ikke taget højde for byggetekniske konsekvenser af forslagene. 
+
+Det anbefales generelt at kontakte en rådgiver/fagmand, for at få udarbejdet en detaljeret projektbeskrivelse før isolerings- og/eller ombygningsarbejder igangsættes. I forbindelse med rapportens forslag om energiforbedring af tekniske installationer, bør man altid søge teknisk sparring med en professionel rådgiver eller leverandør. I forhold til energimærkets gyldighedsperiode, vil både prisgrundlag og produktudviklingen kunne ændre sig en del, år for år.
+
+Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema. XXX
+Ved bygningsgennemgangen forelå ikke et udfyldt ejeroplysningsskema. Det forudsættes hermed, at der ikke er givet tilladelse til destruktive undersøgelser. XXX
+
+Følgende materiale var til rådighed for udarbejdelsen af energimærket:
+Bygningstegninger XXX
+Tidligere energimærkningsrapport af den XX-XX-XX, med energimærkningsnummer: XXX
+Andet XXX
+
+Renoveringstider, som fremgår ved &quot;Rentable forslag&quot;, er estimerede tider.
+
+Det er vigtigt at være opmærksom på, at energimæssige forbedringer ikke kun har betydning for bygningens energiforbrug, men også for den daglige komfort, samt for en eventuel gensalgsværdi for ejendommen.  
+                                                                                                                                                                                                                                                               
+Svingende energipriser har ikke betydning for bygningers energimærke, men har indflydelse på energiøkonomien. 
+
+Ved høje energipriser kan værdien af besparelsesforslag blive større, hvilket betyder, at det kan give økonomisk mening at gennemføre flere forslag inklusiv forslag der kan være rentable, hvis de udføres sammen med andre renoveringer.
+
+Ved lave energipriser kan værdien af besparelsesforslag blive mindre og/eller umiddelbart ikke økonomisk rentable. I forbindelse hermed, er det vigtigt at være opmærksom på, at energimæssige forbedringer ikke kun har betydning for bygningens energiforbrug, men også for den daglige komfort, samt for en eventuel gensalgsværdi for ejendommen.</Additional>
+        <OnEnergyPrices>Der er i energimærket anvendt aktuelle energipriser for alle brændselstyper fx olie, naturgas, brænde og træpiller.
+
+Rapportens elpris er anvendt ud fra en gennemsnitsvurdering, da energipriserne varierer dagligt og i forhold til valg af leverandør.
+ 
+Til beregning af rapportens forbedringsforslag er der anvendt estimerede priser, der kan variere en del fra aktuelle tilbudspriser, afhængig af både regionale forhold og valg af leverandør. 
+I forbindelse med rapportens forslag om energiforbedringer, bør man altid søge  sparring med en professionel rådgiver eller leverandør. 
+I forhold til energimærkets gyldighedsperiode, vil både prisgrundlag og produktudviklingen kunne ændre sig en del, år for år.</OnEnergyPrices>
+        <OnBuildingDescription>De opmålte opvarmede arealer og BBR-arealer, samt opførelsestidspunkt og evt. renoveringstidspunkt, kan ses under baggrundsinformation.
+
+Ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og XXX bygningstegninger. 
+
+De opmålte opvarmede arealer stemmer overens med BBR-meddelelsen. XXX
+Det opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen. XXX 
+Det opmålte opvarmede areal stemmer ikke overens med BBR-meddelelsen. Afvigelsen består i XXX
+
+
+Ved bygningsgennemgangen var der ikke adgang til XXX.
+
+Følgende rum XXX er uopvarmet. (vælg desuden en af nedenstående 2 muligheder XXX Slet dette)
+
+Arealerne forudsættes jf. gældende Håndbog for energikonsulenter opvarmet med samme opvarmningsform som resten af bygningen, uanset at der ingen varmekilde er, da det vurderes at eksisterende varmeanlæg er tilstrækkelig til at kunne opvarme hele boligen  XXX
+
+Arealerne forudsættes jf. gældende Håndbog for energikonsulenter som værende el-opvarmet, da det vurderes at eksisterende varmeanlæg ikke er tilstrækkelig til at kunne opvarme hele boligen. XXX
+
+Hvis ikke andet er angivet, så er de faktuelle oplysninger i energimærket baseret på skøn ud fra hvad der visuelt kan konstateres. Oplysningerne er ikke en garanti og kan ikke betragtes som dette, men er angivet for at informere om hvad der er anvendt som grundlag for beregningen.</OnBuildingDescription>
+        <OnDestructiveInspections></OnDestructiveInspections>
+      </Comments>
+      <Buildings>
+        <Building ID="128265">
+          <Address>
+            <Name xmlns="http://www.ens.dk/Globals"></Name>
+            <StreetName xmlns="http://www.ens.dk/Globals">Kirkegyden</StreetName>
+            <HouseNumber xmlns="http://www.ens.dk/Globals">15</HouseNumber>
+            <PostalCode xmlns="http://www.ens.dk/Globals">5270</PostalCode>
+            <PostalCity xmlns="http://www.ens.dk/Globals">Odense N</PostalCity>
+            <Floor xmlns="http://www.ens.dk/Globals"></Floor>
+            <StreetCode xmlns="http://www.ens.dk/Globals">4240</StreetCode>
+          </Address>
+          <BBR>
+            <BuildingNumber>1</BuildingNumber>
+            <UseCode>120</UseCode>
+            <YearOfConstruction>1900</YearOfConstruction>
+            <DwellingArea>284</DwellingArea>
+            <CommercialArea>0</CommercialArea>
+          </BBR>
+          <Zones>
+            <Zone ID="0">
+              <Name>Hovedbygning</Name>
+              <Usage>SingleFamily</Usage>
+              <SubtractWindowAreaFromOuterWalls>true</SubtractWindowAreaFromOuterWalls>
+              <BBRUseCode>120</BBRUseCode>
+              <BuildingType>DetachedBuilding</BuildingType>
+              <HousingUnits>1</HousingUnits>
+              <FloorCount>1</FloorCount>
+              <Height>2.3</Height>
+              <Rotation>0</Rotation>
+              <UsageDays>7</UsageDays>
+              <UsageFrom>0</UsageFrom>
+              <UsageTo>24</UsageTo>
+              <SetPointHeatedTemperature>20</SetPointHeatedTemperature>
+              <SetPointWantedTemperature>23</SetPointWantedTemperature>
+              <SetPointNaturalVentilationTemperature>24</SetPointNaturalVentilationTemperature>
+              <SetPointCoolingTemperature>25</SetPointCoolingTemperature>
+              <SetPointStoreTemperature>20</SetPointStoreTemperature>
+              <DimensioningRoomTemperature>20</DimensioningRoomTemperature>
+              <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+              <DimensioningStoreTemperature>20</DimensioningStoreTemperature>
+              <Statuses>
+                <Status ID="e261e4c0-d43b-4878-8a92-f9e2ca7beb96">
+                  <ShortText>Massiv ydervæg - Bindingsværk - 100 mm</ShortText>
+                  <LongText>Ydervægge består af bindingsværk bestående af halvstens teglmur med ca. 15 % træ og indvendig forsatsvæg med 100 mm mineraluld og pladebeklædning. Konstruktions- og isoleringsforhold er baseret på et tidligere energimærke.</LongText>
+                  <BIClassification>1-2-2-0</BIClassification>
+                  <LinkedSegmentIds>a40a46c7-7440-4a8b-a52f-fa06b3cb215e</LinkedSegmentIds>
+                  <LinkedSegmentIds>759b9218-b463-49c5-a824-3e22aa4ebe30</LinkedSegmentIds>
+                  <LinkedSegmentIds>700cdf90-87f0-45c9-99ea-2201cfd4cb44</LinkedSegmentIds>
+                  <LinkedSegmentIds>954c6b45-3a5f-4e24-b0fc-dcd0e153008c</LinkedSegmentIds>
+                  <LinkedSegmentIds>5de80fe2-0758-48b2-af65-ab0510ce0f5f</LinkedSegmentIds>
+                  <LinkedSegmentIds>5cd0012a-577d-4c23-8952-e27e91ccbac5</LinkedSegmentIds>
+                  <LinkedSegmentIds>2a2d487d-68f7-4a10-80c5-64ca9f052ad0</LinkedSegmentIds>
+                  <LinkedSegmentIds>8daf483d-c755-4cd2-afe4-b3573b622fc6</LinkedSegmentIds>
+                  <LinkedSegmentIds>7b8722f0-1009-4811-96c4-ef23de4b333e</LinkedSegmentIds>
+                  <LinkedSegmentIds>e679d2a6-571f-4fa3-bc95-ce18d4117001</LinkedSegmentIds>
+                  <LinkedSegmentIds>40f9f3a0-e909-4fb7-8aa9-7835c659fd22</LinkedSegmentIds>
+                  <LinkedSegmentIds>aec7c0a5-fc0b-4ccd-8fe2-447020b93bbc</LinkedSegmentIds>
+                  <LinkedSegmentIds>b6397c4f-33e9-4b75-a7bf-cfab155c022f</LinkedSegmentIds>
+                  <LinkedSegmentIds>fc1f3238-b30c-4c89-aa96-e56c662c95e8</LinkedSegmentIds>
+                  <LinkedSegmentIds>d699b72c-c57f-48ea-9dc5-f9114ef87fb8</LinkedSegmentIds>
+                  <LinkedSegmentIds>9cce6354-545b-4496-b801-b80df4bb7eae</LinkedSegmentIds>
+                  <LinkedSegmentIds>59c093a4-0807-4a5a-83e0-c07e6a55252b</LinkedSegmentIds>
+                  <LinkedSegmentIds>5f12d818-98bd-4f7c-a86f-1885733fb4e0</LinkedSegmentIds>
+                  <LinkedSegmentIds>30075948-109c-4088-a736-ece63796c1c0</LinkedSegmentIds>
+                  <LinkedSegmentIds>e4bf777d-b393-4133-bd6b-fc0c32dac88d</LinkedSegmentIds>
+                  <LinkedSegmentIds>08bf493f-2ab4-482e-9209-9316c23e4280</LinkedSegmentIds>
+                  <LinkedSegmentIds>32d111ac-750b-4913-b509-34d1ba0766db</LinkedSegmentIds>
+                  <LinkedSegmentIds>3e6a7a09-22e6-476a-b75b-bfd009158a8f</LinkedSegmentIds>
+                  <LinkedSegmentIds>058efb6c-8e64-4237-88ef-2bd0e252a4e1</LinkedSegmentIds>
+                  <LinkedSegmentIds>96ebffb3-a2a5-4967-80b6-8b005e498337</LinkedSegmentIds>
+                  <LinkedSegmentIds>f66cb165-d9fe-4894-915d-d3deea89c443</LinkedSegmentIds>
+                  <LinkedSegmentIds>94c5d1f2-c0e0-4e0c-a7f8-32d9901fdc03</LinkedSegmentIds>
+                  <LinkedSegmentIds>315a154a-9d95-422f-a2c4-3a4c17dfe9c4</LinkedSegmentIds>
+                  <LinkedSegmentIds>40f09ce2-12b0-453d-940f-f69dba8ea72e</LinkedSegmentIds>
+                  <BuildingUnit>
+                    <BuildingPart xmlns="http://www.ens.dk/BuildingUnits">
+                      <Area>196.72</Area>
+                      <UValue>0.35999999</UValue>
+                      <BFactor>1</BFactor>
+                      <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                      <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                    </BuildingPart>
+                  </BuildingUnit>
+                  <Proposals>
+                    <Proposal ID="0368a152-db23-45f4-a078-72392cda189e">
+                      <ShortText>Efterisolering af massive bindingsværksmure med 50 mm mineraluld</ShortText>
+                      <LongText>Der efterisolerers indvendig med 50 mm isolering. Det er vigtigt at sikre et 30 mm hulrum mellem ydervæggen og den indvendige isoleringsvæg, og at der ikke anvendes dampspærre. Arbejdet udføres i overenstemmelse med anbefalinger fra Bolius og Slots- og Kulturstyrelsen.</LongText>
+                      <LifeTime>40</LifeTime>
+                      <Investment>236064</Investment>
+                      <BIClassification>1-2-2-0</BIClassification>
+                      <BuildingUnit>
+                        <BuildingPart xmlns="http://www.ens.dk/BuildingUnits">
+                          <Area>196.72</Area>
+                          <UValue>0.23</UValue>
+                          <BFactor>1</BFactor>
+                          <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                          <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                        </BuildingPart>
+                      </BuildingUnit>
+                    </Proposal>
+                  </Proposals>
+                </Status>
+                <Status ID="692219e8-2a4e-4621-9bbd-930047faa754">
+                  <ShortText>Massiv væg mod uopvarmet rum - 12 cm tegl - 100 mm indvendig isolering</ShortText>
+                  <LongText>Vægge mod uopvarmet rum består af 12 cm massiv teglvæg med indvendig pladebeklædning og 100 mm isolering. Konstruktions- og isoleringsforhold er skønnet ud fra renoveringstidspunktet.</LongText>
+                  <BIClassification>1-2-2-1</BIClassification>
+                  <BuildingUnit>
+                    <BuildingPart xmlns="http://www.ens.dk/BuildingUnits">
+                      <Area>29.36</Area>
+                      <UValue>0.36999999</UValue>
+                      <BFactor>1</BFactor>
+                      <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                      <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                    </BuildingPart>
+                  </BuildingUnit>
+                </Status>
+                <Status ID="d581ae33-c12a-42fc-8a64-a5db258c741f">
+                  <ShortText>Massiv væg mod uopvarmet rum - 12 cm tegl - uisoleret</ShortText>
+                  <LongText>Vægge mod uopvarmet rum består af 12 cm massiv og uisoleret teglvæg. Konstruktionstykkelse er målt ved dør. Konstruktionstykkelse, sammenholdt med opførelsesår, ligger til grund for skønnet af isoleringsforholdet.</LongText>
+                  <BIClassification>1-2-2-1</BIClassification>
+                  <LinkedSegmentIds>48d11d01-be33-48b1-88e1-019be6d2b933</LinkedSegmentIds>
+                  <BuildingUnit>
+                    <BuildingPart xmlns="http://www.ens.dk/BuildingUnits">
+                      <Area>7.95</Area>
+                      <UValue>2.25</UValue>
+                      <BFactor>1</BFactor>
+                      <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                      <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                    </BuildingPart>
+                  </BuildingUnit>
+                  <Proposals>
+                    <Proposal ID="6da6df79-98aa-46c2-ab71-c241916b1303">
+                      <ShortText>Efterisolering på kold side af vægge mod uopvarmet rum med 50 mm</ShortText>
+                      <LongText>Efterisolering på kold side med 50 mm isolering på vægge mod uopvarmet rum. Arbejdet udføres iht. gældende regler på området, hvad angår materialekrav samt placering og udførelse af dampspærre. Efterisoleringen afsluttes med pladebeklædning. Det bør i øvrigt undersøges om isoleringsarbejdet kan medføre dannelse af skimmelsvampe bag isoleringen.</LongText>
+                      <LifeTime>40</LifeTime>
+                      <Investment>9540</Investment>
+                      <BIClassification>1-2-2-1</BIClassification>
+                      <BuildingUnit>
+                        <BuildingPart xmlns="http://www.ens.dk/BuildingUnits">
+                          <Area>7.95</Area>
+                          <UValue>0.53</UValue>
+                          <BFactor>1</BFactor>
+                          <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                          <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                        </BuildingPart>
+                      </BuildingUnit>
+                    </Proposal>
+                  </Proposals>
+                </Status>
+                <Status ID="c468ac0a-6fe9-42bb-bb47-b9a00c96aec1">
+                  <ShortText>Massiv ydervæg - Bindingsværk - 100 mm</ShortText>
+                  <LongText>Ydervægge består af bindingsværk bestående af halvstens teglmur med ca. 15 % træ og indvendig forsatsvæg med 100 mm mineraluld og pladebeklædning. Konstruktions- og isoleringsforhold er baseret på et tidligere energimærke.</LongText>
+                  <BIClassification>1-2-2-0</BIClassification>
+                  <LinkedSegmentIds>111223c0-33b6-4559-8c19-08f51014821c</LinkedSegmentIds>
+                  <BuildingUnit>
+                    <BuildingPart xmlns="http://www.ens.dk/BuildingUnits">
+                      <Area>15.36</Area>
+                      <UValue>0.35999999</UValue>
+                      <BFactor>0.7</BFactor>
+                      <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                      <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                    </BuildingPart>
+                  </BuildingUnit>
+                  <Proposals>
+                    <Proposal ID="50d48b84-9c0d-41cd-9215-a0d5d278edd8">
+                      <ShortText>Efterisolering af massive bindingsværksmure med 50 mm mineraluld</ShortText>
+                      <LongText>Der efterisolerers indvendig med 50 mm isolering. Det er vigtigt at sikre et 30 mm hulrum mellem ydervæggen og den indvendige isoleringsvæg, og at der ikke anvendes dampspærre. Arbejdet udføres i overenstemmelse med anbefalinger fra Bolius og Slots- og Kulturstyrelsen.</LongText>
+                      <LifeTime>40</LifeTime>
+                      <Investment>18432</Investment>
+                      <BIClassification>1-2-2-0</BIClassification>
+                      <BuildingUnit>
+                        <BuildingPart xmlns="http://www.ens.dk/BuildingUnits">
+                          <Area>15.36</Area>
+                          <UValue>0.23</UValue>
+                          <BFactor>0.7</BFactor>
+                          <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                          <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                        </BuildingPart>
+                      </BuildingUnit>
+                    </Proposal>
+                  </Proposals>
+                </Status>
+                <Status ID="c4b92b3e-ff7b-4f35-a2df-6bf596ac379d">
+                  <ShortText>Massiv væg mod uopvarmet rum - 12 cm tegl - uisoleret</ShortText>
+                  <LongText>Vægge mod uopvarmet rum består af 12 cm massiv og uisoleret teglvæg. Konstruktionstykkelse er målt ved dør. Konstruktionstykkelse, sammenholdt med opførelsesår, ligger til grund for skønnet af isoleringsforholdet.</LongText>
+                  <BIClassification>1-2-2-1</BIClassification>
+                  <LinkedSegmentIds>d64270b4-2dff-4e3f-a783-0a6bbe4690af</LinkedSegmentIds>
+                  <BuildingUnit>
+                    <BuildingPart xmlns="http://www.ens.dk/BuildingUnits">
+                      <Area>6.37</Area>
+                      <UValue>2.25</UValue>
+                      <BFactor>0.7</BFactor>
+                      <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                      <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                    </BuildingPart>
+                  </BuildingUnit>
+                  <Proposals>
+                    <Proposal ID="9ab0eed8-26e0-4409-8e26-23a34c41ab47">
+                      <ShortText>Efterisolering på kold side af vægge mod uopvarmet rum med 50 mm</ShortText>
+                      <LongText>Efterisolering på kold side med 50 mm isolering på vægge mod uopvarmet rum. Arbejdet udføres iht. gældende regler på området, hvad angår materialekrav samt placering og udførelse af dampspærre. Efterisoleringen afsluttes med pladebeklædning. Det bør i øvrigt undersøges om isoleringsarbejdet kan medføre dannelse af skimmelsvampe bag isoleringen.</LongText>
+                      <LifeTime>40</LifeTime>
+                      <Investment>7644</Investment>
+                      <BIClassification>1-2-2-1</BIClassification>
+                      <BuildingUnit>
+                        <BuildingPart xmlns="http://www.ens.dk/BuildingUnits">
+                          <Area>6.37</Area>
+                          <UValue>0.53</UValue>
+                          <BFactor>0.7</BFactor>
+                          <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                          <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                        </BuildingPart>
+                      </BuildingUnit>
+                    </Proposal>
+                  </Proposals>
+                </Status>
+                <Status ID="15420f2e-b5d5-42ed-8542-a730e9eb1536">
+                  <ShortText>Terrændæk - Beton med slidlag - 50 mm trædefast mineraluld, sten som kapillarbrydende lag - skillevægsfundament (beton)</ShortText>
+                  <LongText>Terrændæk er udført af beton med slidlagsgulv. Gulvet vurderes isoleret med 50 mm trædefast mineraluld under betonen og sten som kapillarbrydende lag. Konstruktions- og isoleringsforhold er skønnet ud fra renoveringstidspunktet.
+(??? U-værdi tillæg påført: 0.06 W/m2K)</LongText>
+                  <BIClassification>1-4-1-0</BIClassification>
+                  <BuildingUnit>
+                    <BuildingPart xmlns="http://www.ens.dk/BuildingUnits">
+                      <Area>193.43</Area>
+                      <UValue>0.37</UValue>
+                      <BFactor>0.7</BFactor>
+                      <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                      <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                    </BuildingPart>
+                  </BuildingUnit>
+                </Status>
+                <Status ID="d52c17b5-7d30-41a1-9893-f59cb988f806">
+                  <ShortText>Terrændæk - Klinker, fliser el linoleum på beton, direkte på jord - Uisoleret</ShortText>
+                  <LongText>Gulv er udført som af klinker, fliser el. linoleum direkte mod jord. Gulvet er uisoleret. Konstruktions- og isoleringsforhold er skønnet ud fra opførelsestidspunktet.</LongText>
+                  <BIClassification>1-4-1-0</BIClassification>
+                  <BuildingUnit>
+                    <BuildingPart xmlns="http://www.ens.dk/BuildingUnits">
+                      <Area>42.73</Area>
+                      <UValue>0.57999999</UValue>
+                      <BFactor>0.7</BFactor>
+                      <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                      <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                    </BuildingPart>
+                  </BuildingUnit>
+                  <Proposals>
+                    <Proposal ID="31a08369-5939-4ff4-aa45-a1913db90d86">
+                      <ShortText>Fjernelse af eksisterende gulv og støbning af nyt med 350 mm polystyren</ShortText>
+                      <LongText>Fjernelse af eksisterende terrændæk og udgravning, der afrettes i sandlag. Der isoleres med 350 mm polystyrenplader, og afsluttes med 10 cm beton og slidlagsgulve. Overside af slidlag afpasses ny gulvbelægning. Eksisterende installationer efterisolerers og fastholdes for senere indstøbning. Hvis der er samlinger på rør må disse ikke indstøbes. Alternativt udføres nye installationer. Nye installationer er ikke indregnet i investeringen.</LongText>
+                      <LifeTime>40</LifeTime>
+                      <Investment>111098</Investment>
+                      <BIClassification>1-4-1-0</BIClassification>
+                      <BuildingUnit>
+                        <BuildingPart xmlns="http://www.ens.dk/BuildingUnits">
+                          <Area>42.73</Area>
+                          <UValue>0.08999999</UValue>
+                          <BFactor>0.7</BFactor>
+                          <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                          <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                        </BuildingPart>
+                      </BuildingUnit>
+                    </Proposal>
+                  </Proposals>
+                </Status>
+                <Status ID="e5fe6c09-e433-462f-b6c0-fb11a6c4754a">
+                  <ShortText>Terrændæk - Klinker, fliser el linoleum på beton, direkte på jord - Uisoleret</ShortText>
+                  <LongText>Gulv er udført som af klinker, fliser el. linoleum direkte mod jord. Gulvet er uisoleret. Konstruktions- og isoleringsforhold er skønnet ud fra opførelsestidspunktet.</LongText>
+                  <BIClassification>1-4-1-0</BIClassification>
+                  <BuildingUnit>
+                    <BuildingPart xmlns="http://www.ens.dk/BuildingUnits">
+                      <Area>14.42</Area>
+                      <UValue>0.57999999</UValue>
+                      <BFactor>1</BFactor>
+                      <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                      <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                    </BuildingPart>
+                  </BuildingUnit>
+                  <Proposals>
+                    <Proposal ID="9ff379da-4aa4-40d3-aa21-117b2265af66">
+                      <ShortText>Fjernelse af eksisterende gulv og støbning af nyt med 350 mm polystyren</ShortText>
+                      <LongText>Fjernelse af eksisterende terrændæk og udgravning, der afrettes i sandlag. Der isoleres med 350 mm polystyrenplader, og afsluttes med 10 cm beton og slidlagsgulve. Overside af slidlag afpasses ny gulvbelægning. Eksisterende installationer efterisolerers og fastholdes for senere indstøbning. Hvis der er samlinger på rør må disse ikke indstøbes. Alternativt udføres nye installationer. Nye installationer er ikke indregnet i investeringen.</LongText>
+                      <LifeTime>40</LifeTime>
+                      <Investment>37492</Investment>
+                      <BIClassification>1-4-1-0</BIClassification>
+                      <BuildingUnit>
+                        <BuildingPart xmlns="http://www.ens.dk/BuildingUnits">
+                          <Area>14.42</Area>
+                          <UValue>0.08999999</UValue>
+                          <BFactor>1</BFactor>
+                          <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                          <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                        </BuildingPart>
+                      </BuildingUnit>
+                    </Proposal>
+                  </Proposals>
+                </Status>
+                <Status ID="18bcf9f9-fea6-43c5-a5e5-0a02b9cd357e">
+                  <ShortText>Loftsrum - 200 mm isolering</ShortText>
+                  <LongText>Loftsrum vurderes isoleret med 200 mm mineraluld. Konstruktionstykkelse er målt ved loftlem. Konstruktionstykkelse, sammenholdt med opførelsesår, ligger til grund for skønnet af isoleringsforholdet.</LongText>
+                  <BIClassification>1-1-1-0</BIClassification>
+                  <BuildingUnit>
+                    <BuildingPart xmlns="http://www.ens.dk/BuildingUnits">
+                      <Area>276.69</Area>
+                      <UValue>0.19</UValue>
+                      <BFactor>1</BFactor>
+                      <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                      <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                    </BuildingPart>
+                  </BuildingUnit>
+                  <Proposals>
+                    <Proposal ID="ba17ea1e-660e-42e6-b326-90471b182036">
+                      <ShortText>Efterisolering af loftsrum med 150 mm isolering til 350 mm</ShortText>
+                      <LongText>Efterisolering af loftsrum med 150 mm isolering. Eksisterende isolering bevares, så der efter fremtidige forhold er isoleret med 350 mm. Der etableres ny gangbro i tagrummet, eller hvis der findes en eksisterende, skal denne hæves til de nye isoleringsforhold.</LongText>
+                      <LifeTime>40</LifeTime>
+                      <Investment>87019</Investment>
+                      <BIClassification>1-1-1-0</BIClassification>
+                      <BuildingUnit>
+                        <BuildingPart xmlns="http://www.ens.dk/BuildingUnits">
+                          <Area>276.69</Area>
+                          <UValue>0.11999999</UValue>
+                          <BFactor>1</BFactor>
+                          <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                          <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                        </BuildingPart>
+                      </BuildingUnit>
+                    </Proposal>
+                  </Proposals>
+                </Status>
+                <Status ID="48d11d01-be33-48b1-88e1-019be6d2b933">
+                  <ShortText>Yderdør med uisoleret fyldning og 1 rude - 2 lags termorude</ShortText>
+                  <LongText>Yderdør med uisoleret fyldning og enkeltfagsvindue, monteret med tolags termoruder.</LongText>
+                  <BIClassification>1-3-3-0</BIClassification>
+                  <BuildingUnit>
+                    <Window xmlns="http://www.ens.dk/BuildingUnits">
+                      <Area>1.65</Area>
+                      <UValue>2.8</UValue>
+                      <BFactor>1</BFactor>
+                      <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                      <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                      <NumberOfWindows>1</NumberOfWindows>
+                      <Inclination>90</Inclination>
+                      <Orientation>228</Orientation>
+                      <GlassShare>0.57</GlassShare>
+                      <SolarHeatTransmittance>0.75</SolarHeatTransmittance>
+                      <OuterWallID>d581ae33-c12a-42fc-8a64-a5db258c741f</OuterWallID>
+                      <SolarScreening>1</SolarScreening>
+                      <Shade>
+                        <ShortText>Standard anvendelseskode 110, 120 og 130 iht. HB2017</ShortText>
+                        <Horizon>20</Horizon>
+                        <Eaves>20</Eaves>
+                        <Left>20</Left>
+                        <Right>20</Right>
+                        <WindowHole>10</WindowHole>
+                      </Shade>
+                    </Window>
+                  </BuildingUnit>
+                  <Proposals>
+                    <Proposal ID="5e66f54d-5aed-48e9-b64e-5abe33343f48">
+                      <ShortText>Udskiftning af eksisterende yderdøre</ShortText>
+                      <LongText>Eksisterende yderdøre foreslås udskiftet til nye døre med bedre isolering og tæthed.</LongText>
+                      <LifeTime>30</LifeTime>
+                      <Investment>13365</Investment>
+                      <BIClassification>1-3-3-0</BIClassification>
+                      <BuildingUnit>
+                        <Window xmlns="http://www.ens.dk/BuildingUnits">
+                          <Area>1.65</Area>
+                          <UValue>0.8</UValue>
+                          <BFactor>1</BFactor>
+                          <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                          <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                          <NumberOfWindows>1</NumberOfWindows>
+                          <Inclination>90</Inclination>
+                          <Orientation>228</Orientation>
+                          <GlassShare>0.64</GlassShare>
+                          <SolarHeatTransmittance>0.51</SolarHeatTransmittance>
+                          <OuterWallID>d581ae33-c12a-42fc-8a64-a5db258c741f</OuterWallID>
+                          <Shade>
+                            <ShortText>Standard anvendelseskode 110, 120 og 130 iht. HB2017</ShortText>
+                            <Horizon>20</Horizon>
+                            <Eaves>20</Eaves>
+                            <Left>20</Left>
+                            <Right>20</Right>
+                            <WindowHole>10</WindowHole>
+                          </Shade>
+                        </Window>
+                      </BuildingUnit>
+                    </Proposal>
+                  </Proposals>
+                </Status>
+                <Status ID="5de80fe2-0758-48b2-af65-ab0510ce0f5f">
+                  <ShortText>Yderdør med uisoleret fyldning og 1 rude - 2 lags termorude</ShortText>
+                  <LongText>Yderdør med uisoleret fyldning og enkeltfagsvindue, monteret med tolags termoruder.</LongText>
+                  <BIClassification>1-3-3-0</BIClassification>
+                  <BuildingUnit>
+                    <Window xmlns="http://www.ens.dk/BuildingUnits">
+                      <Area>1.62</Area>
+                      <UValue>2.8</UValue>
+                      <BFactor>1</BFactor>
+                      <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                      <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                      <NumberOfWindows>1</NumberOfWindows>
+                      <Inclination>90</Inclination>
+                      <Orientation>318</Orientation>
+                      <GlassShare>0.57</GlassShare>
+                      <SolarHeatTransmittance>0.75</SolarHeatTransmittance>
+                      <OuterWallID>e261e4c0-d43b-4878-8a92-f9e2ca7beb96</OuterWallID>
+                      <SolarScreening>1</SolarScreening>
+                      <Shade>
+                        <ShortText>Standard anvendelseskode 110, 120 og 130 iht. HB2017</ShortText>
+                        <Horizon>20</Horizon>
+                        <Eaves>20</Eaves>
+                        <Left>20</Left>
+                        <Right>20</Right>
+                        <WindowHole>10</WindowHole>
+                      </Shade>
+                    </Window>
+                  </BuildingUnit>
+                  <Proposals>
+                    <Proposal ID="cc290545-52f5-4f9d-bf30-77d4942d0479">
+                      <ShortText>Udskiftning af eksisterende yderdøre</ShortText>
+                      <LongText>Eksisterende yderdøre foreslås udskiftet til nye døre med bedre isolering og tæthed.</LongText>
+                      <LifeTime>30</LifeTime>
+                      <Investment>13122</Investment>
+                      <BIClassification>1-3-3-0</BIClassification>
+                      <BuildingUnit>
+                        <Window xmlns="http://www.ens.dk/BuildingUnits">
+                          <Area>1.62</Area>
+                          <UValue>0.8</UValue>
+                          <BFactor>1</BFactor>
+                          <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                          <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                          <NumberOfWindows>1</NumberOfWindows>
+                          <Inclination>90</Inclination>
+                          <Orientation>318</Orientation>
+                          <GlassShare>0.64</GlassShare>
+                          <SolarHeatTransmittance>0.51</SolarHeatTransmittance>
+                          <OuterWallID>e261e4c0-d43b-4878-8a92-f9e2ca7beb96</OuterWallID>
+                          <Shade>
+                            <ShortText>Standard anvendelseskode 110, 120 og 130 iht. HB2017</ShortText>
+                            <Horizon>20</Horizon>
+                            <Eaves>20</Eaves>
+                            <Left>20</Left>
+                            <Right>20</Right>
+                            <WindowHole>10</WindowHole>
+                          </Shade>
+                        </Window>
+                      </BuildingUnit>
+                    </Proposal>
+                  </Proposals>
+                </Status>
+                <Status ID="111223c0-33b6-4559-8c19-08f51014821c">
+                  <ShortText>Yderdør med uisoleret fyldning og 1 rude - 2 lags termorude</ShortText>
+                  <LongText>Yderdør med uisoleret fyldning og enkeltfagsvindue, monteret med tolags termoruder.</LongText>
+                  <BIClassification>1-3-3-0</BIClassification>
+                  <BuildingUnit>
+                    <Window xmlns="http://www.ens.dk/BuildingUnits">
+                      <Area>3.49</Area>
+                      <UValue>2.8</UValue>
+                      <BFactor>0.7</BFactor>
+                      <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                      <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                      <NumberOfWindows>1</NumberOfWindows>
+                      <Inclination>90</Inclination>
+                      <Orientation>138</Orientation>
+                      <GlassShare>0.57</GlassShare>
+                      <SolarHeatTransmittance>0.75</SolarHeatTransmittance>
+                      <OuterWallID>c468ac0a-6fe9-42bb-bb47-b9a00c96aec1</OuterWallID>
+                      <SolarScreening>1</SolarScreening>
+                      <Shade>
+                        <ShortText>Standard anvendelseskode 110, 120 og 130 iht. HB2017</ShortText>
+                        <Horizon>20</Horizon>
+                        <Eaves>20</Eaves>
+                        <Left>20</Left>
+                        <Right>20</Right>
+                        <WindowHole>10</WindowHole>
+                      </Shade>
+                    </Window>
+                  </BuildingUnit>
+                  <Proposals>
+                    <Proposal ID="180d6d81-5682-4fb4-893e-64306599a0d1">
+                      <ShortText>Udskiftning af eksisterende yderdøre</ShortText>
+                      <LongText>Eksisterende yderdøre foreslås udskiftet til nye døre med bedre isolering og tæthed.</LongText>
+                      <LifeTime>30</LifeTime>
+                      <Investment>28269</Investment>
+                      <BIClassification>1-3-3-0</BIClassification>
+                      <BuildingUnit>
+                        <Window xmlns="http://www.ens.dk/BuildingUnits">
+                          <Area>3.49</Area>
+                          <UValue>0.8</UValue>
+                          <BFactor>0.7</BFactor>
+                          <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                          <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                          <NumberOfWindows>1</NumberOfWindows>
+                          <Inclination>90</Inclination>
+                          <Orientation>138</Orientation>
+                          <GlassShare>0.64</GlassShare>
+                          <SolarHeatTransmittance>0.51</SolarHeatTransmittance>
+                          <OuterWallID>c468ac0a-6fe9-42bb-bb47-b9a00c96aec1</OuterWallID>
+                          <Shade>
+                            <ShortText>Standard anvendelseskode 110, 120 og 130 iht. HB2017</ShortText>
+                            <Horizon>20</Horizon>
+                            <Eaves>20</Eaves>
+                            <Left>20</Left>
+                            <Right>20</Right>
+                            <WindowHole>10</WindowHole>
+                          </Shade>
+                        </Window>
+                      </BuildingUnit>
+                    </Proposal>
+                  </Proposals>
+                </Status>
+                <Status ID="59c093a4-0807-4a5a-83e0-c07e6a55252b">
+                  <ShortText>Yderdør med 1 rude - 2 lags energirude med varm kant</ShortText>
+                  <LongText>Yderdør med enkeltfagsvindue, monteret med tolags energiruder.</LongText>
+                  <BIClassification>1-3-3-0</BIClassification>
+                  <BuildingUnit>
+                    <Window xmlns="http://www.ens.dk/BuildingUnits">
+                      <Area>2.77</Area>
+                      <UValue>1.3</UValue>
+                      <BFactor>1</BFactor>
+                      <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                      <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                      <NumberOfWindows>1</NumberOfWindows>
+                      <Inclination>90</Inclination>
+                      <Orientation>228</Orientation>
+                      <GlassShare>0.6</GlassShare>
+                      <SolarHeatTransmittance>0.63</SolarHeatTransmittance>
+                      <OuterWallID>e261e4c0-d43b-4878-8a92-f9e2ca7beb96</OuterWallID>
+                      <SolarScreening>1</SolarScreening>
+                      <Shade>
+                        <ShortText>Standard anvendelseskode 110, 120 og 130 iht. HB2017</ShortText>
+                        <Horizon>20</Horizon>
+                        <Eaves>20</Eaves>
+                        <Left>20</Left>
+                        <Right>20</Right>
+                        <WindowHole>10</WindowHole>
+                      </Shade>
+                    </Window>
+                  </BuildingUnit>
+                </Status>
+                <Status ID="32d111ac-750b-4913-b509-34d1ba0766db">
+                  <ShortText>Yderdør med uisoleret fyldning og 1 rude - 2 lags termorude</ShortText>
+                  <LongText>Yderdør med uisoleret fyldning og enkeltfagsvindue, monteret med tolags termoruder.</LongText>
+                  <BIClassification>1-3-3-0</BIClassification>
+                  <BuildingUnit>
+                    <Window xmlns="http://www.ens.dk/BuildingUnits">
+                      <Area>1.71</Area>
+                      <UValue>2.8</UValue>
+                      <BFactor>1</BFactor>
+                      <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                      <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                      <NumberOfWindows>1</NumberOfWindows>
+                      <Inclination>90</Inclination>
+                      <Orientation>48</Orientation>
+                      <GlassShare>0.57</GlassShare>
+                      <SolarHeatTransmittance>0.75</SolarHeatTransmittance>
+                      <OuterWallID>e261e4c0-d43b-4878-8a92-f9e2ca7beb96</OuterWallID>
+                      <SolarScreening>1</SolarScreening>
+                      <Shade>
+                        <ShortText>Standard anvendelseskode 110, 120 og 130 iht. HB2017</ShortText>
+                        <Horizon>20</Horizon>
+                        <Eaves>20</Eaves>
+                        <Left>20</Left>
+                        <Right>20</Right>
+                        <WindowHole>10</WindowHole>
+                      </Shade>
+                    </Window>
+                  </BuildingUnit>
+                  <Proposals>
+                    <Proposal ID="92b792d3-7101-4402-8a4e-9ab119b678ff">
+                      <ShortText>Udskiftning af eksisterende yderdøre</ShortText>
+                      <LongText>Eksisterende yderdøre foreslås udskiftet til nye døre med bedre isolering og tæthed.</LongText>
+                      <LifeTime>30</LifeTime>
+                      <Investment>13851</Investment>
+                      <BIClassification>1-3-3-0</BIClassification>
+                      <BuildingUnit>
+                        <Window xmlns="http://www.ens.dk/BuildingUnits">
+                          <Area>1.71</Area>
+                          <UValue>0.8</UValue>
+                          <BFactor>1</BFactor>
+                          <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                          <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                          <NumberOfWindows>1</NumberOfWindows>
+                          <Inclination>90</Inclination>
+                          <Orientation>48</Orientation>
+                          <GlassShare>0.64</GlassShare>
+                          <SolarHeatTransmittance>0.51</SolarHeatTransmittance>
+                          <OuterWallID>e261e4c0-d43b-4878-8a92-f9e2ca7beb96</OuterWallID>
+                          <Shade>
+                            <ShortText>Standard anvendelseskode 110, 120 og 130 iht. HB2017</ShortText>
+                            <Horizon>20</Horizon>
+                            <Eaves>20</Eaves>
+                            <Left>20</Left>
+                            <Right>20</Right>
+                            <WindowHole>10</WindowHole>
+                          </Shade>
+                        </Window>
+                      </BuildingUnit>
+                    </Proposal>
+                  </Proposals>
+                </Status>
+                <Status ID="3e6a7a09-22e6-476a-b75b-bfd009158a8f">
+                  <ShortText>Yderdør med uisoleret fyldning og 1 rude - 2 lags termorude</ShortText>
+                  <LongText>Yderdør med uisoleret fyldning og enkeltfagsvindue, monteret med tolags termoruder.</LongText>
+                  <BIClassification>1-3-3-0</BIClassification>
+                  <BuildingUnit>
+                    <Window xmlns="http://www.ens.dk/BuildingUnits">
+                      <Area>2.12</Area>
+                      <UValue>2.8</UValue>
+                      <BFactor>1</BFactor>
+                      <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                      <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                      <NumberOfWindows>1</NumberOfWindows>
+                      <Inclination>90</Inclination>
+                      <Orientation>228</Orientation>
+                      <GlassShare>0.57</GlassShare>
+                      <SolarHeatTransmittance>0.75</SolarHeatTransmittance>
+                      <OuterWallID>e261e4c0-d43b-4878-8a92-f9e2ca7beb96</OuterWallID>
+                      <SolarScreening>1</SolarScreening>
+                      <Shade>
+                        <ShortText>Standard anvendelseskode 110, 120 og 130 iht. HB2017</ShortText>
+                        <Horizon>20</Horizon>
+                        <Eaves>20</Eaves>
+                        <Left>20</Left>
+                        <Right>20</Right>
+                        <WindowHole>10</WindowHole>
+                      </Shade>
+                    </Window>
+                  </BuildingUnit>
+                  <Proposals>
+                    <Proposal ID="fd737659-6313-4cbe-af9b-df3bcdb9be6c">
+                      <ShortText>Udskiftning af eksisterende yderdøre</ShortText>
+                      <LongText>Eksisterende yderdøre foreslås udskiftet til nye døre med bedre isolering og tæthed.</LongText>
+                      <LifeTime>30</LifeTime>
+                      <Investment>17172</Investment>
+                      <BIClassification>1-3-3-0</BIClassification>
+                      <BuildingUnit>
+                        <Window xmlns="http://www.ens.dk/BuildingUnits">
+                          <Area>2.12</Area>
+                          <UValue>0.8</UValue>
+                          <BFactor>1</BFactor>
+                          <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                          <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                          <NumberOfWindows>1</NumberOfWindows>
+                          <Inclination>90</Inclination>
+                          <Orientation>228</Orientation>
+                          <GlassShare>0.64</GlassShare>
+                          <SolarHeatTransmittance>0.51</SolarHeatTransmittance>
+                          <OuterWallID>e261e4c0-d43b-4878-8a92-f9e2ca7beb96</OuterWallID>
+                          <Shade>
+                            <ShortText>Standard anvendelseskode 110, 120 og 130 iht. HB2017</ShortText>
+                            <Horizon>20</Horizon>
+                            <Eaves>20</Eaves>
+                            <Left>20</Left>
+                            <Right>20</Right>
+                            <WindowHole>10</WindowHole>
+                          </Shade>
+                        </Window>
+                      </BuildingUnit>
+                    </Proposal>
+                  </Proposals>
+                </Status>
+                <Status ID="a40a46c7-7440-4a8b-a52f-fa06b3cb215e">
+                  <ShortText>Flerfagsvindue med gående rammer og sprosser - 2 lags termorude kold kant</ShortText>
+                  <LongText>Oplukkelige vinduer med flere fag og sprosser. Vinduerne er monteret med tolags termorude.</LongText>
+                  <BIClassification>1-3-1-0</BIClassification>
+                  <BuildingUnit>
+                    <Window xmlns="http://www.ens.dk/BuildingUnits">
+                      <Area>0.82</Area>
+                      <UValue>2.7</UValue>
+                      <BFactor>1</BFactor>
+                      <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                      <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                      <NumberOfWindows>3</NumberOfWindows>
+                      <Inclination>90</Inclination>
+                      <Orientation>138</Orientation>
+                      <GlassShare>0.57</GlassShare>
+                      <SolarHeatTransmittance>0.75</SolarHeatTransmittance>
+                      <OuterWallID>e261e4c0-d43b-4878-8a92-f9e2ca7beb96</OuterWallID>
+                      <SolarScreening>1</SolarScreening>
+                      <Shade>
+                        <ShortText>Standard anvendelseskode 110, 120 og 130 iht. HB2017</ShortText>
+                        <Horizon>20</Horizon>
+                        <Eaves>20</Eaves>
+                        <Left>20</Left>
+                        <Right>20</Right>
+                        <WindowHole>10</WindowHole>
+                      </Shade>
+                    </Window>
+                  </BuildingUnit>
+                  <Proposals>
+                    <Proposal ID="3835ea1c-786a-465f-bacc-07e006cec26b">
+                      <ShortText>Udskiftning af eksisterende flerfagsvinduer</ShortText>
+                      <LongText>Eksisterende flerfagsvinduer foreslås udskiftet til nye vinduer med energiruder, energiklasse A.</LongText>
+                      <LifeTime>30</LifeTime>
+                      <Investment>16170</Investment>
+                      <BIClassification>1-3-1-0</BIClassification>
+                      <BuildingUnit>
+                        <Window xmlns="http://www.ens.dk/BuildingUnits">
+                          <Area>0.82</Area>
+                          <UValue>0.8</UValue>
+                          <BFactor>1</BFactor>
+                          <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                          <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                          <NumberOfWindows>3</NumberOfWindows>
+                          <Inclination>90</Inclination>
+                          <Orientation>138</Orientation>
+                          <GlassShare>0.74</GlassShare>
+                          <SolarHeatTransmittance>0.51</SolarHeatTransmittance>
+                          <OuterWallID>e261e4c0-d43b-4878-8a92-f9e2ca7beb96</OuterWallID>
+                          <SolarScreening>1</SolarScreening>
+                          <Shade>
+                            <ShortText>Standard anvendelseskode 110, 120 og 130 iht. HB2017</ShortText>
+                            <Horizon>20</Horizon>
+                            <Eaves>20</Eaves>
+                            <Left>20</Left>
+                            <Right>20</Right>
+                            <WindowHole>10</WindowHole>
+                          </Shade>
+                        </Window>
+                      </BuildingUnit>
+                    </Proposal>
+                  </Proposals>
+                </Status>
+                <Status ID="700cdf90-87f0-45c9-99ea-2201cfd4cb44">
+                  <ShortText>Flerfagsvindue med gående rammer og sprosser - 1 lag glas</ShortText>
+                  <LongText>Oplukkelige vinduer med flere fag og sprosser. Vinduerne er monteret med etlags glasrude.</LongText>
+                  <BIClassification>1-3-1-0</BIClassification>
+                  <BuildingUnit>
+                    <Window xmlns="http://www.ens.dk/BuildingUnits">
+                      <Area>0.9</Area>
+                      <UValue>4.1</UValue>
+                      <BFactor>1</BFactor>
+                      <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                      <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                      <NumberOfWindows>2</NumberOfWindows>
+                      <Inclination>90</Inclination>
+                      <Orientation>318</Orientation>
+                      <GlassShare>0.57</GlassShare>
+                      <SolarHeatTransmittance>0.85</SolarHeatTransmittance>
+                      <OuterWallID>e261e4c0-d43b-4878-8a92-f9e2ca7beb96</OuterWallID>
+                      <SolarScreening>1</SolarScreening>
+                      <Shade>
+                        <ShortText>Standard anvendelseskode 110, 120 og 130 iht. HB2017</ShortText>
+                        <Horizon>20</Horizon>
+                        <Eaves>20</Eaves>
+                        <Left>20</Left>
+                        <Right>20</Right>
+                        <WindowHole>10</WindowHole>
+                      </Shade>
+                    </Window>
+                  </BuildingUnit>
+                  <Proposals>
+                    <Proposal ID="5337b535-c33f-47fe-945b-1f2437f75033">
+                      <ShortText>Udskiftning af eksisterende flerfagsvinduer</ShortText>
+                      <LongText>Eksisterende flerfagsvinduer foreslås udskiftet til nye vinduer med energiruder, energiklasse A.</LongText>
+                      <LifeTime>30</LifeTime>
+                      <Investment>11814</Investment>
+                      <BIClassification>1-3-1-0</BIClassification>
+                      <BuildingUnit>
+                        <Window xmlns="http://www.ens.dk/BuildingUnits">
+                          <Area>0.9</Area>
+                          <UValue>0.8</UValue>
+                          <BFactor>1</BFactor>
+                          <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                          <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                          <NumberOfWindows>2</NumberOfWindows>
+                          <Inclination>90</Inclination>
+                          <Orientation>318</Orientation>
+                          <GlassShare>0.74</GlassShare>
+                          <SolarHeatTransmittance>0.51</SolarHeatTransmittance>
+                          <OuterWallID>e261e4c0-d43b-4878-8a92-f9e2ca7beb96</OuterWallID>
+                          <SolarScreening>1</SolarScreening>
+                          <Shade>
+                            <ShortText>Standard anvendelseskode 110, 120 og 130 iht. HB2017</ShortText>
+                            <Horizon>20</Horizon>
+                            <Eaves>20</Eaves>
+                            <Left>20</Left>
+                            <Right>20</Right>
+                            <WindowHole>10</WindowHole>
+                          </Shade>
+                        </Window>
+                      </BuildingUnit>
+                    </Proposal>
+                  </Proposals>
+                </Status>
+                <Status ID="5cd0012a-577d-4c23-8952-e27e91ccbac5">
+                  <ShortText>Flerfagsvindue med gående rammer og sprosser - 2 lags termorude kold kant</ShortText>
+                  <LongText>Oplukkelige vinduer med flere fag og sprosser. Vinduerne er monteret med tolags termorude.</LongText>
+                  <BIClassification>1-3-1-0</BIClassification>
+                  <BuildingUnit>
+                    <Window xmlns="http://www.ens.dk/BuildingUnits">
+                      <Area>0.89</Area>
+                      <UValue>2.7</UValue>
+                      <BFactor>1</BFactor>
+                      <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                      <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                      <NumberOfWindows>3</NumberOfWindows>
+                      <Inclination>90</Inclination>
+                      <Orientation>318</Orientation>
+                      <GlassShare>0.57</GlassShare>
+                      <SolarHeatTransmittance>0.75</SolarHeatTransmittance>
+                      <OuterWallID>e261e4c0-d43b-4878-8a92-f9e2ca7beb96</OuterWallID>
+                      <SolarScreening>1</SolarScreening>
+                      <Shade>
+                        <ShortText>Standard anvendelseskode 110, 120 og 130 iht. HB2017</ShortText>
+                        <Horizon>20</Horizon>
+                        <Eaves>20</Eaves>
+                        <Left>20</Left>
+                        <Right>20</Right>
+                        <WindowHole>10</WindowHole>
+                      </Shade>
+                    </Window>
+                  </BuildingUnit>
+                  <Proposals>
+                    <Proposal ID="849245dd-32dc-4800-aa03-01de89b58d08">
+                      <ShortText>Udskiftning af eksisterende flerfagsvinduer</ShortText>
+                      <LongText>Eksisterende flerfagsvinduer foreslås udskiftet til nye vinduer med energiruder, energiklasse A.</LongText>
+                      <LifeTime>30</LifeTime>
+                      <Investment>17622</Investment>
+                      <BIClassification>1-3-1-0</BIClassification>
+                      <BuildingUnit>
+                        <Window xmlns="http://www.ens.dk/BuildingUnits">
+                          <Area>0.89</Area>
+                          <UValue>0.8</UValue>
+                          <BFactor>1</BFactor>
+                          <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                          <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                          <NumberOfWindows>3</NumberOfWindows>
+                          <Inclination>90</Inclination>
+                          <Orientation>318</Orientation>
+                          <GlassShare>0.74</GlassShare>
+                          <SolarHeatTransmittance>0.51</SolarHeatTransmittance>
+                          <OuterWallID>e261e4c0-d43b-4878-8a92-f9e2ca7beb96</OuterWallID>
+                          <SolarScreening>1</SolarScreening>
+                          <Shade>
+                            <ShortText>Standard anvendelseskode 110, 120 og 130 iht. HB2017</ShortText>
+                            <Horizon>20</Horizon>
+                            <Eaves>20</Eaves>
+                            <Left>20</Left>
+                            <Right>20</Right>
+                            <WindowHole>10</WindowHole>
+                          </Shade>
+                        </Window>
+                      </BuildingUnit>
+                    </Proposal>
+                  </Proposals>
+                </Status>
+                <Status ID="2a2d487d-68f7-4a10-80c5-64ca9f052ad0">
+                  <ShortText>Flerfagsvindue med gående rammer og sprosser - 2 lags termorude kold kant</ShortText>
+                  <LongText>Oplukkelige vinduer med flere fag og sprosser. Vinduerne er monteret med tolags termorude.</LongText>
+                  <BIClassification>1-3-1-0</BIClassification>
+                  <BuildingUnit>
+                    <Window xmlns="http://www.ens.dk/BuildingUnits">
+                      <Area>0.73</Area>
+                      <UValue>2.7</UValue>
+                      <BFactor>1</BFactor>
+                      <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                      <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                      <NumberOfWindows>1</NumberOfWindows>
+                      <Inclination>90</Inclination>
+                      <Orientation>318</Orientation>
+                      <GlassShare>0.57</GlassShare>
+                      <SolarHeatTransmittance>0.75</SolarHeatTransmittance>
+                      <OuterWallID>e261e4c0-d43b-4878-8a92-f9e2ca7beb96</OuterWallID>
+                      <SolarScreening>1</SolarScreening>
+                      <Shade>
+                        <ShortText>Standard anvendelseskode 110, 120 og 130 iht. HB2017</ShortText>
+                        <Horizon>20</Horizon>
+                        <Eaves>20</Eaves>
+                        <Left>20</Left>
+                        <Right>20</Right>
+                        <WindowHole>10</WindowHole>
+                      </Shade>
+                    </Window>
+                  </BuildingUnit>
+                  <Proposals>
+                    <Proposal ID="e702e67d-10b5-4e80-b094-073cfdc74226">
+                      <ShortText>Udskiftning af eksisterende flerfagsvinduer</ShortText>
+                      <LongText>Eksisterende flerfagsvinduer foreslås udskiftet til nye vinduer med energiruder, energiklasse A.</LongText>
+                      <LifeTime>30</LifeTime>
+                      <Investment>4818</Investment>
+                      <BIClassification>1-3-1-0</BIClassification>
+                      <BuildingUnit>
+                        <Window xmlns="http://www.ens.dk/BuildingUnits">
+                          <Area>0.73</Area>
+                          <UValue>0.8</UValue>
+                          <BFactor>1</BFactor>
+                          <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                          <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                          <NumberOfWindows>1</NumberOfWindows>
+                          <Inclination>90</Inclination>
+                          <Orientation>318</Orientation>
+                          <GlassShare>0.74</GlassShare>
+                          <SolarHeatTransmittance>0.51</SolarHeatTransmittance>
+                          <OuterWallID>e261e4c0-d43b-4878-8a92-f9e2ca7beb96</OuterWallID>
+                          <SolarScreening>1</SolarScreening>
+                          <Shade>
+                            <ShortText>Standard anvendelseskode 110, 120 og 130 iht. HB2017</ShortText>
+                            <Horizon>20</Horizon>
+                            <Eaves>20</Eaves>
+                            <Left>20</Left>
+                            <Right>20</Right>
+                            <WindowHole>10</WindowHole>
+                          </Shade>
+                        </Window>
+                      </BuildingUnit>
+                    </Proposal>
+                  </Proposals>
+                </Status>
+                <Status ID="d64270b4-2dff-4e3f-a783-0a6bbe4690af">
+                  <ShortText>Flerfagsvindue med gående rammer og sprosser - 2 lags termorude kold kant</ShortText>
+                  <LongText>Oplukkelige vinduer med flere fag og sprosser. Vinduerne er monteret med tolags termorude.</LongText>
+                  <BIClassification>1-3-1-0</BIClassification>
+                  <BuildingUnit>
+                    <Window xmlns="http://www.ens.dk/BuildingUnits">
+                      <Area>0.88</Area>
+                      <UValue>2.7</UValue>
+                      <BFactor>0.7</BFactor>
+                      <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                      <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                      <NumberOfWindows>1</NumberOfWindows>
+                      <Inclination>90</Inclination>
+                      <Orientation>138</Orientation>
+                      <GlassShare>0.57</GlassShare>
+                      <SolarHeatTransmittance>0.75</SolarHeatTransmittance>
+                      <OuterWallID>c4b92b3e-ff7b-4f35-a2df-6bf596ac379d</OuterWallID>
+                      <SolarScreening>1</SolarScreening>
+                      <Shade>
+                        <ShortText>Standard anvendelseskode 110, 120 og 130 iht. HB2017</ShortText>
+                        <Horizon>20</Horizon>
+                        <Eaves>20</Eaves>
+                        <Left>20</Left>
+                        <Right>20</Right>
+                        <WindowHole>10</WindowHole>
+                      </Shade>
+                    </Window>
+                  </BuildingUnit>
+                  <Proposals>
+                    <Proposal ID="1b931e10-3a33-4c00-b292-b6926422b92f">
+                      <ShortText>Udskiftning af eksisterende flerfagsvinduer</ShortText>
+                      <LongText>Eksisterende flerfagsvinduer foreslås udskiftet til nye vinduer med energiruder, energiklasse A.</LongText>
+                      <LifeTime>30</LifeTime>
+                      <Investment>5808</Investment>
+                      <BIClassification>1-3-1-0</BIClassification>
+                      <BuildingUnit>
+                        <Window xmlns="http://www.ens.dk/BuildingUnits">
+                          <Area>0.88</Area>
+                          <UValue>0.8</UValue>
+                          <BFactor>0.7</BFactor>
+                          <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                          <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                          <NumberOfWindows>1</NumberOfWindows>
+                          <Inclination>90</Inclination>
+                          <Orientation>138</Orientation>
+                          <GlassShare>0.74</GlassShare>
+                          <SolarHeatTransmittance>0.51</SolarHeatTransmittance>
+                          <OuterWallID>c4b92b3e-ff7b-4f35-a2df-6bf596ac379d</OuterWallID>
+                          <SolarScreening>1</SolarScreening>
+                          <Shade>
+                            <ShortText>Standard anvendelseskode 110, 120 og 130 iht. HB2017</ShortText>
+                            <Horizon>20</Horizon>
+                            <Eaves>20</Eaves>
+                            <Left>20</Left>
+                            <Right>20</Right>
+                            <WindowHole>10</WindowHole>
+                          </Shade>
+                        </Window>
+                      </BuildingUnit>
+                    </Proposal>
+                  </Proposals>
+                </Status>
+                <Status ID="e679d2a6-571f-4fa3-bc95-ce18d4117001">
+                  <ShortText>Flerfagsvindue med gående rammer og sprosser - 2 lags termorude kold kant</ShortText>
+                  <LongText>Oplukkelige vinduer med flere fag og sprosser. Vinduerne er monteret med tolags termorude.</LongText>
+                  <BIClassification>1-3-1-0</BIClassification>
+                  <BuildingUnit>
+                    <Window xmlns="http://www.ens.dk/BuildingUnits">
+                      <Area>4.23</Area>
+                      <UValue>2.7</UValue>
+                      <BFactor>1</BFactor>
+                      <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                      <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                      <NumberOfWindows>1</NumberOfWindows>
+                      <Inclination>90</Inclination>
+                      <Orientation>228</Orientation>
+                      <GlassShare>0.57</GlassShare>
+                      <SolarHeatTransmittance>0.75</SolarHeatTransmittance>
+                      <OuterWallID>e261e4c0-d43b-4878-8a92-f9e2ca7beb96</OuterWallID>
+                      <SolarScreening>1</SolarScreening>
+                      <Shade>
+                        <ShortText>Standard anvendelseskode 110, 120 og 130 iht. HB2017</ShortText>
+                        <Horizon>20</Horizon>
+                        <Eaves>20</Eaves>
+                        <Left>20</Left>
+                        <Right>20</Right>
+                        <WindowHole>10</WindowHole>
+                      </Shade>
+                    </Window>
+                  </BuildingUnit>
+                  <Proposals>
+                    <Proposal ID="641197ae-dbc0-46ef-ae6a-d5b94a2336a8">
+                      <ShortText>Udskiftning af eksisterende flerfagsvinduer</ShortText>
+                      <LongText>Eksisterende flerfagsvinduer foreslås udskiftet til nye vinduer med energiruder, energiklasse A.</LongText>
+                      <LifeTime>30</LifeTime>
+                      <Investment>27918</Investment>
+                      <BIClassification>1-3-1-0</BIClassification>
+                      <BuildingUnit>
+                        <Window xmlns="http://www.ens.dk/BuildingUnits">
+                          <Area>4.23</Area>
+                          <UValue>0.8</UValue>
+                          <BFactor>1</BFactor>
+                          <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                          <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                          <NumberOfWindows>1</NumberOfWindows>
+                          <Inclination>90</Inclination>
+                          <Orientation>228</Orientation>
+                          <GlassShare>0.74</GlassShare>
+                          <SolarHeatTransmittance>0.51</SolarHeatTransmittance>
+                          <OuterWallID>e261e4c0-d43b-4878-8a92-f9e2ca7beb96</OuterWallID>
+                          <SolarScreening>1</SolarScreening>
+                          <Shade>
+                            <ShortText>Standard anvendelseskode 110, 120 og 130 iht. HB2017</ShortText>
+                            <Horizon>20</Horizon>
+                            <Eaves>20</Eaves>
+                            <Left>20</Left>
+                            <Right>20</Right>
+                            <WindowHole>10</WindowHole>
+                          </Shade>
+                        </Window>
+                      </BuildingUnit>
+                    </Proposal>
+                  </Proposals>
+                </Status>
+                <Status ID="40f9f3a0-e909-4fb7-8aa9-7835c659fd22">
+                  <ShortText>Flerfagsvindue med gående rammer og sprosser - 2 lags termorude kold kant</ShortText>
+                  <LongText>Oplukkelige vinduer med flere fag og sprosser. Vinduerne er monteret med tolags termorude.</LongText>
+                  <BIClassification>1-3-1-0</BIClassification>
+                  <BuildingUnit>
+                    <Window xmlns="http://www.ens.dk/BuildingUnits">
+                      <Area>0.96</Area>
+                      <UValue>2.7</UValue>
+                      <BFactor>1</BFactor>
+                      <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                      <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                      <NumberOfWindows>4</NumberOfWindows>
+                      <Inclination>90</Inclination>
+                      <Orientation>48</Orientation>
+                      <GlassShare>0.57</GlassShare>
+                      <SolarHeatTransmittance>0.75</SolarHeatTransmittance>
+                      <OuterWallID>e261e4c0-d43b-4878-8a92-f9e2ca7beb96</OuterWallID>
+                      <SolarScreening>1</SolarScreening>
+                      <Shade>
+                        <ShortText>Standard anvendelseskode 110, 120 og 130 iht. HB2017</ShortText>
+                        <Horizon>20</Horizon>
+                        <Eaves>20</Eaves>
+                        <Left>20</Left>
+                        <Right>20</Right>
+                        <WindowHole>10</WindowHole>
+                      </Shade>
+                    </Window>
+                  </BuildingUnit>
+                  <Proposals>
+                    <Proposal ID="d96ccea6-9c8c-43b9-9cb6-318d1d302240">
+                      <ShortText>Udskiftning af eksisterende flerfagsvinduer</ShortText>
+                      <LongText>Eksisterende flerfagsvinduer foreslås udskiftet til nye vinduer med energiruder, energiklasse A.</LongText>
+                      <LifeTime>30</LifeTime>
+                      <Investment>25344</Investment>
+                      <BIClassification>1-3-1-0</BIClassification>
+                      <BuildingUnit>
+                        <Window xmlns="http://www.ens.dk/BuildingUnits">
+                          <Area>0.96</Area>
+                          <UValue>0.8</UValue>
+                          <BFactor>1</BFactor>
+                          <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                          <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                          <NumberOfWindows>4</NumberOfWindows>
+                          <Inclination>90</Inclination>
+                          <Orientation>48</Orientation>
+                          <GlassShare>0.74</GlassShare>
+                          <SolarHeatTransmittance>0.51</SolarHeatTransmittance>
+                          <OuterWallID>e261e4c0-d43b-4878-8a92-f9e2ca7beb96</OuterWallID>
+                          <SolarScreening>1</SolarScreening>
+                          <Shade>
+                            <ShortText>Standard anvendelseskode 110, 120 og 130 iht. HB2017</ShortText>
+                            <Horizon>20</Horizon>
+                            <Eaves>20</Eaves>
+                            <Left>20</Left>
+                            <Right>20</Right>
+                            <WindowHole>10</WindowHole>
+                          </Shade>
+                        </Window>
+                      </BuildingUnit>
+                    </Proposal>
+                  </Proposals>
+                </Status>
+                <Status ID="aec7c0a5-fc0b-4ccd-8fe2-447020b93bbc">
+                  <ShortText>Flerfagsvindue med gående rammer og sprosser - 2 lags termorude kold kant</ShortText>
+                  <LongText>Oplukkelige vinduer med flere fag og sprosser. Vinduerne er monteret med tolags termorude.</LongText>
+                  <BIClassification>1-3-1-0</BIClassification>
+                  <BuildingUnit>
+                    <Window xmlns="http://www.ens.dk/BuildingUnits">
+                      <Area>1.26</Area>
+                      <UValue>2.7</UValue>
+                      <BFactor>1</BFactor>
+                      <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                      <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                      <NumberOfWindows>1</NumberOfWindows>
+                      <Inclination>90</Inclination>
+                      <Orientation>48</Orientation>
+                      <GlassShare>0.57</GlassShare>
+                      <SolarHeatTransmittance>0.75</SolarHeatTransmittance>
+                      <OuterWallID>e261e4c0-d43b-4878-8a92-f9e2ca7beb96</OuterWallID>
+                      <SolarScreening>1</SolarScreening>
+                      <Shade>
+                        <ShortText>Standard anvendelseskode 110, 120 og 130 iht. HB2017</ShortText>
+                        <Horizon>20</Horizon>
+                        <Eaves>20</Eaves>
+                        <Left>20</Left>
+                        <Right>20</Right>
+                        <WindowHole>10</WindowHole>
+                      </Shade>
+                    </Window>
+                  </BuildingUnit>
+                  <Proposals>
+                    <Proposal ID="8880054e-3ae9-4457-803e-c3d6e7868da5">
+                      <ShortText>Udskiftning af eksisterende flerfagsvinduer</ShortText>
+                      <LongText>Eksisterende flerfagsvinduer foreslås udskiftet til nye vinduer med energiruder, energiklasse A.</LongText>
+                      <LifeTime>30</LifeTime>
+                      <Investment>8316</Investment>
+                      <BIClassification>1-3-1-0</BIClassification>
+                      <BuildingUnit>
+                        <Window xmlns="http://www.ens.dk/BuildingUnits">
+                          <Area>1.26</Area>
+                          <UValue>0.8</UValue>
+                          <BFactor>1</BFactor>
+                          <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                          <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                          <NumberOfWindows>1</NumberOfWindows>
+                          <Inclination>90</Inclination>
+                          <Orientation>48</Orientation>
+                          <GlassShare>0.74</GlassShare>
+                          <SolarHeatTransmittance>0.51</SolarHeatTransmittance>
+                          <OuterWallID>e261e4c0-d43b-4878-8a92-f9e2ca7beb96</OuterWallID>
+                          <SolarScreening>1</SolarScreening>
+                          <Shade>
+                            <ShortText>Standard anvendelseskode 110, 120 og 130 iht. HB2017</ShortText>
+                            <Horizon>20</Horizon>
+                            <Eaves>20</Eaves>
+                            <Left>20</Left>
+                            <Right>20</Right>
+                            <WindowHole>10</WindowHole>
+                          </Shade>
+                        </Window>
+                      </BuildingUnit>
+                    </Proposal>
+                  </Proposals>
+                </Status>
+                <Status ID="b6397c4f-33e9-4b75-a7bf-cfab155c022f">
+                  <ShortText>Flerfagsvindue med gående rammer og sprosser - 2 lags termorude kold kant</ShortText>
+                  <LongText>Oplukkelige vinduer med flere fag og sprosser. Vinduerne er monteret med tolags termorude.</LongText>
+                  <BIClassification>1-3-1-0</BIClassification>
+                  <BuildingUnit>
+                    <Window xmlns="http://www.ens.dk/BuildingUnits">
+                      <Area>0.77</Area>
+                      <UValue>2.7</UValue>
+                      <BFactor>1</BFactor>
+                      <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                      <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                      <NumberOfWindows>2</NumberOfWindows>
+                      <Inclination>90</Inclination>
+                      <Orientation>48</Orientation>
+                      <GlassShare>0.57</GlassShare>
+                      <SolarHeatTransmittance>0.75</SolarHeatTransmittance>
+                      <OuterWallID>e261e4c0-d43b-4878-8a92-f9e2ca7beb96</OuterWallID>
+                      <SolarScreening>1</SolarScreening>
+                      <Shade>
+                        <ShortText>Standard anvendelseskode 110, 120 og 130 iht. HB2017</ShortText>
+                        <Horizon>20</Horizon>
+                        <Eaves>20</Eaves>
+                        <Left>20</Left>
+                        <Right>20</Right>
+                        <WindowHole>10</WindowHole>
+                      </Shade>
+                    </Window>
+                  </BuildingUnit>
+                  <Proposals>
+                    <Proposal ID="f72a98e8-d3d9-48af-a026-92477339b9b9">
+                      <ShortText>Udskiftning af eksisterende flerfagsvinduer</ShortText>
+                      <LongText>Eksisterende flerfagsvinduer foreslås udskiftet til nye vinduer med energiruder, energiklasse A.</LongText>
+                      <LifeTime>30</LifeTime>
+                      <Investment>10098</Investment>
+                      <BIClassification>1-3-1-0</BIClassification>
+                      <BuildingUnit>
+                        <Window xmlns="http://www.ens.dk/BuildingUnits">
+                          <Area>0.77</Area>
+                          <UValue>0.8</UValue>
+                          <BFactor>1</BFactor>
+                          <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                          <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                          <NumberOfWindows>2</NumberOfWindows>
+                          <Inclination>90</Inclination>
+                          <Orientation>48</Orientation>
+                          <GlassShare>0.74</GlassShare>
+                          <SolarHeatTransmittance>0.51</SolarHeatTransmittance>
+                          <OuterWallID>e261e4c0-d43b-4878-8a92-f9e2ca7beb96</OuterWallID>
+                          <SolarScreening>1</SolarScreening>
+                          <Shade>
+                            <ShortText>Standard anvendelseskode 110, 120 og 130 iht. HB2017</ShortText>
+                            <Horizon>20</Horizon>
+                            <Eaves>20</Eaves>
+                            <Left>20</Left>
+                            <Right>20</Right>
+                            <WindowHole>10</WindowHole>
+                          </Shade>
+                        </Window>
+                      </BuildingUnit>
+                    </Proposal>
+                  </Proposals>
+                </Status>
+                <Status ID="fc1f3238-b30c-4c89-aa96-e56c662c95e8">
+                  <ShortText>Flerfagsvindue med gående rammer og sprosser - 2 lags termorude kold kant</ShortText>
+                  <LongText>Oplukkelige vinduer med flere fag og sprosser. Vinduerne er monteret med tolags termorude.</LongText>
+                  <BIClassification>1-3-1-0</BIClassification>
+                  <BuildingUnit>
+                    <Window xmlns="http://www.ens.dk/BuildingUnits">
+                      <Area>0.91</Area>
+                      <UValue>2.7</UValue>
+                      <BFactor>1</BFactor>
+                      <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                      <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                      <NumberOfWindows>1</NumberOfWindows>
+                      <Inclination>90</Inclination>
+                      <Orientation>48</Orientation>
+                      <GlassShare>0.57</GlassShare>
+                      <SolarHeatTransmittance>0.75</SolarHeatTransmittance>
+                      <OuterWallID>e261e4c0-d43b-4878-8a92-f9e2ca7beb96</OuterWallID>
+                      <SolarScreening>1</SolarScreening>
+                      <Shade>
+                        <ShortText>Standard anvendelseskode 110, 120 og 130 iht. HB2017</ShortText>
+                        <Horizon>20</Horizon>
+                        <Eaves>20</Eaves>
+                        <Left>20</Left>
+                        <Right>20</Right>
+                        <WindowHole>10</WindowHole>
+                      </Shade>
+                    </Window>
+                  </BuildingUnit>
+                  <Proposals>
+                    <Proposal ID="09a68de0-bb37-4da7-8637-6e6d84496472">
+                      <ShortText>Udskiftning af eksisterende flerfagsvinduer</ShortText>
+                      <LongText>Eksisterende flerfagsvinduer foreslås udskiftet til nye vinduer med energiruder, energiklasse A.</LongText>
+                      <LifeTime>30</LifeTime>
+                      <Investment>6006</Investment>
+                      <BIClassification>1-3-1-0</BIClassification>
+                      <BuildingUnit>
+                        <Window xmlns="http://www.ens.dk/BuildingUnits">
+                          <Area>0.91</Area>
+                          <UValue>0.8</UValue>
+                          <BFactor>1</BFactor>
+                          <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                          <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                          <NumberOfWindows>1</NumberOfWindows>
+                          <Inclination>90</Inclination>
+                          <Orientation>48</Orientation>
+                          <GlassShare>0.74</GlassShare>
+                          <SolarHeatTransmittance>0.51</SolarHeatTransmittance>
+                          <OuterWallID>e261e4c0-d43b-4878-8a92-f9e2ca7beb96</OuterWallID>
+                          <SolarScreening>1</SolarScreening>
+                          <Shade>
+                            <ShortText>Standard anvendelseskode 110, 120 og 130 iht. HB2017</ShortText>
+                            <Horizon>20</Horizon>
+                            <Eaves>20</Eaves>
+                            <Left>20</Left>
+                            <Right>20</Right>
+                            <WindowHole>10</WindowHole>
+                          </Shade>
+                        </Window>
+                      </BuildingUnit>
+                    </Proposal>
+                  </Proposals>
+                </Status>
+                <Status ID="9cce6354-545b-4496-b801-b80df4bb7eae">
+                  <ShortText>Flerfagsvindue med gående rammer og sprosser - 2 lags energirude med varm kant</ShortText>
+                  <LongText>Oplukkelige vinduer med flere fag og sprosser. Vinduerne er monteret med tolags energirude.</LongText>
+                  <BIClassification>1-3-1-0</BIClassification>
+                  <BuildingUnit>
+                    <Window xmlns="http://www.ens.dk/BuildingUnits">
+                      <Area>0.97</Area>
+                      <UValue>1.4</UValue>
+                      <BFactor>1</BFactor>
+                      <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                      <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                      <NumberOfWindows>1</NumberOfWindows>
+                      <Inclination>90</Inclination>
+                      <Orientation>228</Orientation>
+                      <GlassShare>0.6</GlassShare>
+                      <SolarHeatTransmittance>0.63</SolarHeatTransmittance>
+                      <OuterWallID>e261e4c0-d43b-4878-8a92-f9e2ca7beb96</OuterWallID>
+                      <SolarScreening>1</SolarScreening>
+                      <Shade>
+                        <ShortText>Standard anvendelseskode 110, 120 og 130 iht. HB2017</ShortText>
+                        <Horizon>20</Horizon>
+                        <Eaves>20</Eaves>
+                        <Left>20</Left>
+                        <Right>20</Right>
+                        <WindowHole>10</WindowHole>
+                      </Shade>
+                    </Window>
+                  </BuildingUnit>
+                </Status>
+                <Status ID="e4bf777d-b393-4133-bd6b-fc0c32dac88d">
+                  <ShortText>Flerfagsvindue med gående rammer og sprosser - 2 lags termorude kold kant</ShortText>
+                  <LongText>Oplukkelige vinduer med flere fag og sprosser. Vinduerne er monteret med tolags termorude.</LongText>
+                  <BIClassification>1-3-1-0</BIClassification>
+                  <BuildingUnit>
+                    <Window xmlns="http://www.ens.dk/BuildingUnits">
+                      <Area>1.46</Area>
+                      <UValue>2.7</UValue>
+                      <BFactor>1</BFactor>
+                      <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                      <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                      <NumberOfWindows>1</NumberOfWindows>
+                      <Inclination>90</Inclination>
+                      <Orientation>48</Orientation>
+                      <GlassShare>0.57</GlassShare>
+                      <SolarHeatTransmittance>0.75</SolarHeatTransmittance>
+                      <OuterWallID>e261e4c0-d43b-4878-8a92-f9e2ca7beb96</OuterWallID>
+                      <SolarScreening>1</SolarScreening>
+                      <Shade>
+                        <ShortText>Standard anvendelseskode 110, 120 og 130 iht. HB2017</ShortText>
+                        <Horizon>20</Horizon>
+                        <Eaves>20</Eaves>
+                        <Left>20</Left>
+                        <Right>20</Right>
+                        <WindowHole>10</WindowHole>
+                      </Shade>
+                    </Window>
+                  </BuildingUnit>
+                  <Proposals>
+                    <Proposal ID="097dc03c-3c41-437d-937b-a50ce9dd8774">
+                      <ShortText>Udskiftning af eksisterende flerfagsvinduer</ShortText>
+                      <LongText>Eksisterende flerfagsvinduer foreslås udskiftet til nye vinduer med energiruder, energiklasse A.</LongText>
+                      <LifeTime>30</LifeTime>
+                      <Investment>9636</Investment>
+                      <BIClassification>1-3-1-0</BIClassification>
+                      <BuildingUnit>
+                        <Window xmlns="http://www.ens.dk/BuildingUnits">
+                          <Area>1.46</Area>
+                          <UValue>0.8</UValue>
+                          <BFactor>1</BFactor>
+                          <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                          <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                          <NumberOfWindows>1</NumberOfWindows>
+                          <Inclination>90</Inclination>
+                          <Orientation>48</Orientation>
+                          <GlassShare>0.74</GlassShare>
+                          <SolarHeatTransmittance>0.51</SolarHeatTransmittance>
+                          <OuterWallID>e261e4c0-d43b-4878-8a92-f9e2ca7beb96</OuterWallID>
+                          <SolarScreening>1</SolarScreening>
+                          <Shade>
+                            <ShortText>Standard anvendelseskode 110, 120 og 130 iht. HB2017</ShortText>
+                            <Horizon>20</Horizon>
+                            <Eaves>20</Eaves>
+                            <Left>20</Left>
+                            <Right>20</Right>
+                            <WindowHole>10</WindowHole>
+                          </Shade>
+                        </Window>
+                      </BuildingUnit>
+                    </Proposal>
+                  </Proposals>
+                </Status>
+                <Status ID="08bf493f-2ab4-482e-9209-9316c23e4280">
+                  <ShortText>Flerfagsvindue med gående rammer og sprosser - 2 lags termorude kold kant</ShortText>
+                  <LongText>Oplukkelige vinduer med flere fag og sprosser. Vinduerne er monteret med tolags termorude.</LongText>
+                  <BIClassification>1-3-1-0</BIClassification>
+                  <BuildingUnit>
+                    <Window xmlns="http://www.ens.dk/BuildingUnits">
+                      <Area>0.89</Area>
+                      <UValue>2.7</UValue>
+                      <BFactor>1</BFactor>
+                      <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                      <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                      <NumberOfWindows>1</NumberOfWindows>
+                      <Inclination>90</Inclination>
+                      <Orientation>228</Orientation>
+                      <GlassShare>0.57</GlassShare>
+                      <SolarHeatTransmittance>0.75</SolarHeatTransmittance>
+                      <OuterWallID>e261e4c0-d43b-4878-8a92-f9e2ca7beb96</OuterWallID>
+                      <SolarScreening>1</SolarScreening>
+                      <Shade>
+                        <ShortText>Standard anvendelseskode 110, 120 og 130 iht. HB2017</ShortText>
+                        <Horizon>20</Horizon>
+                        <Eaves>20</Eaves>
+                        <Left>20</Left>
+                        <Right>20</Right>
+                        <WindowHole>10</WindowHole>
+                      </Shade>
+                    </Window>
+                  </BuildingUnit>
+                  <Proposals>
+                    <Proposal ID="40658a1b-80df-47c7-996a-759539be0f80">
+                      <ShortText>Udskiftning af eksisterende flerfagsvinduer</ShortText>
+                      <LongText>Eksisterende flerfagsvinduer foreslås udskiftet til nye vinduer med energiruder, energiklasse A.</LongText>
+                      <LifeTime>30</LifeTime>
+                      <Investment>5874</Investment>
+                      <BIClassification>1-3-1-0</BIClassification>
+                      <BuildingUnit>
+                        <Window xmlns="http://www.ens.dk/BuildingUnits">
+                          <Area>0.89</Area>
+                          <UValue>0.8</UValue>
+                          <BFactor>1</BFactor>
+                          <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                          <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                          <NumberOfWindows>1</NumberOfWindows>
+                          <Inclination>90</Inclination>
+                          <Orientation>228</Orientation>
+                          <GlassShare>0.74</GlassShare>
+                          <SolarHeatTransmittance>0.51</SolarHeatTransmittance>
+                          <OuterWallID>e261e4c0-d43b-4878-8a92-f9e2ca7beb96</OuterWallID>
+                          <SolarScreening>1</SolarScreening>
+                          <Shade>
+                            <ShortText>Standard anvendelseskode 110, 120 og 130 iht. HB2017</ShortText>
+                            <Horizon>20</Horizon>
+                            <Eaves>20</Eaves>
+                            <Left>20</Left>
+                            <Right>20</Right>
+                            <WindowHole>10</WindowHole>
+                          </Shade>
+                        </Window>
+                      </BuildingUnit>
+                    </Proposal>
+                  </Proposals>
+                </Status>
+                <Status ID="f66cb165-d9fe-4894-915d-d3deea89c443">
+                  <ShortText>Flerfagsvindue med gående rammer og sprosser - 2 lags energirude med kold kant</ShortText>
+                  <LongText>Oplukkelige vinduer med flere fag og sprosser. Vinduerne er monteret med tolags energirude.</LongText>
+                  <BIClassification>1-3-1-0</BIClassification>
+                  <BuildingUnit>
+                    <Window xmlns="http://www.ens.dk/BuildingUnits">
+                      <Area>0.8</Area>
+                      <UValue>1.5</UValue>
+                      <BFactor>1</BFactor>
+                      <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                      <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                      <NumberOfWindows>1</NumberOfWindows>
+                      <Inclination>90</Inclination>
+                      <Orientation>48</Orientation>
+                      <GlassShare>0.57</GlassShare>
+                      <SolarHeatTransmittance>0.65</SolarHeatTransmittance>
+                      <OuterWallID>e261e4c0-d43b-4878-8a92-f9e2ca7beb96</OuterWallID>
+                      <SolarScreening>1</SolarScreening>
+                      <Shade>
+                        <ShortText>Standard anvendelseskode 110, 120 og 130 iht. HB2017</ShortText>
+                        <Horizon>20</Horizon>
+                        <Eaves>20</Eaves>
+                        <Left>20</Left>
+                        <Right>20</Right>
+                        <WindowHole>10</WindowHole>
+                      </Shade>
+                    </Window>
+                  </BuildingUnit>
+                </Status>
+                <Status ID="94c5d1f2-c0e0-4e0c-a7f8-32d9901fdc03">
+                  <ShortText>Flerfagsvindue med gående rammer og sprosser - 2 lags termorude kold kant</ShortText>
+                  <LongText>Oplukkelige vinduer med flere fag og sprosser. Vinduerne er monteret med tolags termorude.</LongText>
+                  <BIClassification>1-3-1-0</BIClassification>
+                  <BuildingUnit>
+                    <Window xmlns="http://www.ens.dk/BuildingUnits">
+                      <Area>0.32</Area>
+                      <UValue>2.7</UValue>
+                      <BFactor>1</BFactor>
+                      <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                      <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                      <NumberOfWindows>1</NumberOfWindows>
+                      <Inclination>90</Inclination>
+                      <Orientation>138</Orientation>
+                      <GlassShare>0.57</GlassShare>
+                      <SolarHeatTransmittance>0.75</SolarHeatTransmittance>
+                      <OuterWallID>e261e4c0-d43b-4878-8a92-f9e2ca7beb96</OuterWallID>
+                      <SolarScreening>1</SolarScreening>
+                      <Shade>
+                        <ShortText>Standard anvendelseskode 110, 120 og 130 iht. HB2017</ShortText>
+                        <Horizon>20</Horizon>
+                        <Eaves>20</Eaves>
+                        <Left>20</Left>
+                        <Right>20</Right>
+                        <WindowHole>10</WindowHole>
+                      </Shade>
+                    </Window>
+                  </BuildingUnit>
+                  <Proposals>
+                    <Proposal ID="9160c5cd-2605-4efd-9f2e-ea0c47e24ad5">
+                      <ShortText>Udskiftning af eksisterende flerfagsvinduer</ShortText>
+                      <LongText>Eksisterende flerfagsvinduer foreslås udskiftet til nye vinduer med energiruder, energiklasse A.</LongText>
+                      <LifeTime>30</LifeTime>
+                      <Investment>2112</Investment>
+                      <BIClassification>1-3-1-0</BIClassification>
+                      <BuildingUnit>
+                        <Window xmlns="http://www.ens.dk/BuildingUnits">
+                          <Area>0.32</Area>
+                          <UValue>0.8</UValue>
+                          <BFactor>1</BFactor>
+                          <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                          <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                          <NumberOfWindows>1</NumberOfWindows>
+                          <Inclination>90</Inclination>
+                          <Orientation>138</Orientation>
+                          <GlassShare>0.74</GlassShare>
+                          <SolarHeatTransmittance>0.51</SolarHeatTransmittance>
+                          <OuterWallID>e261e4c0-d43b-4878-8a92-f9e2ca7beb96</OuterWallID>
+                          <SolarScreening>1</SolarScreening>
+                          <Shade>
+                            <ShortText>Standard anvendelseskode 110, 120 og 130 iht. HB2017</ShortText>
+                            <Horizon>20</Horizon>
+                            <Eaves>20</Eaves>
+                            <Left>20</Left>
+                            <Right>20</Right>
+                            <WindowHole>10</WindowHole>
+                          </Shade>
+                        </Window>
+                      </BuildingUnit>
+                    </Proposal>
+                  </Proposals>
+                </Status>
+                <Status ID="315a154a-9d95-422f-a2c4-3a4c17dfe9c4">
+                  <ShortText>Flerfagsvindue med gående rammer - 1+1 lag glas</ShortText>
+                  <LongText>Oplukkelige vinduer med flere fag. Vinduerne er monteret med etlags glasrude og forsatsrude.</LongText>
+                  <BIClassification>1-3-1-0</BIClassification>
+                  <BuildingUnit>
+                    <Window xmlns="http://www.ens.dk/BuildingUnits">
+                      <Area>0.69</Area>
+                      <UValue>2.2</UValue>
+                      <BFactor>1</BFactor>
+                      <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                      <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                      <NumberOfWindows>2</NumberOfWindows>
+                      <Inclination>90</Inclination>
+                      <Orientation>318</Orientation>
+                      <GlassShare>0.57</GlassShare>
+                      <SolarHeatTransmittance>0.75</SolarHeatTransmittance>
+                      <OuterWallID>e261e4c0-d43b-4878-8a92-f9e2ca7beb96</OuterWallID>
+                      <SolarScreening>1</SolarScreening>
+                      <Shade>
+                        <ShortText>Standard anvendelseskode 110, 120 og 130 iht. HB2017</ShortText>
+                        <Horizon>20</Horizon>
+                        <Eaves>20</Eaves>
+                        <Left>20</Left>
+                        <Right>20</Right>
+                        <WindowHole>10</WindowHole>
+                      </Shade>
+                    </Window>
+                  </BuildingUnit>
+                  <Proposals>
+                    <Proposal ID="cc3fe532-b487-40ec-ae73-b64ad3349da3">
+                      <ShortText>Udskiftning af eksisterende flerfagsvinduer</ShortText>
+                      <LongText>Eksisterende flerfagsvinduer foreslås udskiftet til nye vinduer med energiruder, energiklasse A.</LongText>
+                      <LifeTime>30</LifeTime>
+                      <Investment>9108</Investment>
+                      <BIClassification>1-3-1-0</BIClassification>
+                      <BuildingUnit>
+                        <Window xmlns="http://www.ens.dk/BuildingUnits">
+                          <Area>0.69</Area>
+                          <UValue>0.8</UValue>
+                          <BFactor>1</BFactor>
+                          <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                          <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                          <NumberOfWindows>2</NumberOfWindows>
+                          <Inclination>90</Inclination>
+                          <Orientation>318</Orientation>
+                          <GlassShare>0.74</GlassShare>
+                          <SolarHeatTransmittance>0.51</SolarHeatTransmittance>
+                          <OuterWallID>e261e4c0-d43b-4878-8a92-f9e2ca7beb96</OuterWallID>
+                          <SolarScreening>1</SolarScreening>
+                          <Shade>
+                            <ShortText>Standard anvendelseskode 110, 120 og 130 iht. HB2017</ShortText>
+                            <Horizon>20</Horizon>
+                            <Eaves>20</Eaves>
+                            <Left>20</Left>
+                            <Right>20</Right>
+                            <WindowHole>10</WindowHole>
+                          </Shade>
+                        </Window>
+                      </BuildingUnit>
+                    </Proposal>
+                  </Proposals>
+                </Status>
+                <Status ID="1735702a-790d-4c94-bf53-fdac177b0831">
+                  <ShortText>Linjetab: Vinduer og døre - HB2023</ShortText>
+                  <LongText></LongText>
+                  <BIClassification>1-3-4-0</BIClassification>
+                  <BuildingUnit>
+                    <LinearThermalTransmittance>
+                      <Length>92.67000000000002</Length>
+                      <HeatLoss>0.11</HeatLoss>
+                      <BFactor>1</BFactor>
+                      <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                      <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                    </LinearThermalTransmittance>
+                  </BuildingUnit>
+                </Status>
+                <Status ID="c4bbb334-a47b-4378-8b65-bc5e984be925">
+                  <ShortText>Linjetab: Vinduer og døre - HB2023</ShortText>
+                  <LongText></LongText>
+                  <BIClassification>1-3-4-0</BIClassification>
+                  <BuildingUnit>
+                    <LinearThermalTransmittance>
+                      <Length>4.94</Length>
+                      <HeatLoss>0.17</HeatLoss>
+                      <BFactor>1</BFactor>
+                      <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                      <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                    </LinearThermalTransmittance>
+                  </BuildingUnit>
+                </Status>
+                <Status ID="57658a8d-66db-4935-8174-035f388743d3">
+                  <ShortText>Linjetab: Vinduer og døre - HB2023</ShortText>
+                  <LongText></LongText>
+                  <BIClassification>1-3-4-0</BIClassification>
+                  <BuildingUnit>
+                    <LinearThermalTransmittance>
+                      <Length>2.82</Length>
+                      <HeatLoss>0.17</HeatLoss>
+                      <BFactor>0.7</BFactor>
+                      <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                      <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                    </LinearThermalTransmittance>
+                  </BuildingUnit>
+                </Status>
+                <Status ID="9f213e10-e7f1-4138-8b50-64fb4e5190f8">
+                  <ShortText>Linjetab: Vinduer og døre - HB2023</ShortText>
+                  <LongText></LongText>
+                  <BIClassification>1-3-4-0</BIClassification>
+                  <BuildingUnit>
+                    <LinearThermalTransmittance>
+                      <Length>5.72</Length>
+                      <HeatLoss>0.11</HeatLoss>
+                      <BFactor>0.7</BFactor>
+                      <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                      <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                    </LinearThermalTransmittance>
+                  </BuildingUnit>
+                </Status>
+                <Status ID="8a87ca1f-95af-44b9-9be8-2bf6a9ee3c73">
+                  <ShortText>Linjetab: Fundament - HB2023</ShortText>
+                  <LongText></LongText>
+                  <BIClassification>1-4-5-0</BIClassification>
+                  <BuildingUnit>
+                    <LinearThermalTransmittance>
+                      <Length>74.29</Length>
+                      <HeatLoss>0.7</HeatLoss>
+                      <BFactor>1</BFactor>
+                      <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                      <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                    </LinearThermalTransmittance>
+                  </BuildingUnit>
+                </Status>
+                <Status ID="903b2c95-f9c4-4e8a-a480-61ee41c5878c">
+                  <ShortText>Linjetab: Fundament - HB2023</ShortText>
+                  <LongText></LongText>
+                  <BIClassification>1-4-5-0</BIClassification>
+                  <BuildingUnit>
+                    <LinearThermalTransmittance>
+                      <Length>12.66</Length>
+                      <HeatLoss>0.7</HeatLoss>
+                      <BFactor>1</BFactor>
+                      <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                      <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                    </LinearThermalTransmittance>
+                  </BuildingUnit>
+                </Status>
+                <Status ID="1aa694be-2c1c-4b5e-beea-5f58aa532584">
+                  <ShortText>Linjetab: Fundament - HB2023</ShortText>
+                  <LongText></LongText>
+                  <BIClassification>1-4-5-0</BIClassification>
+                  <BuildingUnit>
+                    <LinearThermalTransmittance>
+                      <Length>3.3</Length>
+                      <HeatLoss>0.7</HeatLoss>
+                      <BFactor>1</BFactor>
+                      <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                      <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                    </LinearThermalTransmittance>
+                  </BuildingUnit>
+                </Status>
+                <Status ID="819b80eb-eb19-4e65-8507-393d0c968c8e">
+                  <ShortText>Linjetab: Fundament - HB2023</ShortText>
+                  <LongText></LongText>
+                  <BIClassification>1-4-5-0</BIClassification>
+                  <BuildingUnit>
+                    <LinearThermalTransmittance>
+                      <Length>7.1</Length>
+                      <HeatLoss>0.7</HeatLoss>
+                      <BFactor>1.3</BFactor>
+                      <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                      <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                    </LinearThermalTransmittance>
+                  </BuildingUnit>
+                </Status>
+                <Status ID="7e4e9f9c-48b4-420c-a0db-6314f9fb24ff">
+                  <ShortText>Linjetab: Fundament - HB2023</ShortText>
+                  <LongText></LongText>
+                  <BIClassification>1-4-5-0</BIClassification>
+                  <BuildingUnit>
+                    <LinearThermalTransmittance>
+                      <Length>2.37</Length>
+                      <HeatLoss>0.7</HeatLoss>
+                      <BFactor>0.7</BFactor>
+                      <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                      <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                    </LinearThermalTransmittance>
+                  </BuildingUnit>
+                </Status>
+                <Status ID="a0081cd1-ac40-4482-93ff-98eb17b839a1">
+                  <ShortText>Linjetab: Fundament - HB2023</ShortText>
+                  <LongText></LongText>
+                  <BIClassification>1-4-5-0</BIClassification>
+                  <BuildingUnit>
+                    <LinearThermalTransmittance>
+                      <Length>4.63</Length>
+                      <HeatLoss>0.7</HeatLoss>
+                      <BFactor>0.7</BFactor>
+                      <DimensioningOuterTemperature>-12</DimensioningOuterTemperature>
+                      <DimensioningInnerTemperature>20</DimensioningInnerTemperature>
+                    </LinearThermalTransmittance>
+                  </BuildingUnit>
+                </Status>
+                <Status ID="23cf5749-2f3c-4854-ab39-43c9a97f52bf">
+                  <ShortText>3/8&quot; (17,1 mm) stålrør - 20 mm</ShortText>
+                  <LongText>Status: Varmerørene er udført i stål med en dimension på 3/8&quot; og er isoleret med ca. 20 mm isolering. Rørene er placeret i tagrum og har en samlet længde på ca. xx m. ???
+</LongText>
+                  <BIClassification>2-2-2-0</BIClassification>
+                  <BuildingUnit>
+                    <HeatDistributionPipe xmlns="http://www.ens.dk/BuildingUnits">
+                      <Length>0</Length>
+                      <HeatLoss>0.18999998</HeatLoss>
+                      <BFactor>1</BFactor>
+                      <IsUnusedInSummerPeriod>true</IsUnusedInSummerPeriod>
+                      <HasOuterTemperatureCompensation>false</HasOuterTemperatureCompensation>
+                    </HeatDistributionPipe>
+                  </BuildingUnit>
+                </Status>
+                <Status ID="41598820-1233-41c7-b304-48407e76e450">
+                  <ShortText>Fjernvarme uden veksler - direkte</ShortText>
+                  <LongText>Ejendommen opvarmes med fjernvarme. Anlægget er udført som direkte fjernvarmeanlæg, med fjernvarmevand i fordelingsnettet.
+Fjernvarmestik er placeret i værelse / kontor mod vej.
+Fjernvarme Fyn - 1-1.000 m²</LongText>
+                  <BIClassification>2-1-0-0</BIClassification>
+                  <BuildingUnit>
+                    <DirectDistrictHeat xmlns="http://www.ens.dk/BuildingUnits">
+                      <IsPrimary>true</IsPrimary>
+                      <Fuel>
+                        <Material xmlns="http://www.ens.dk/Globals">DistrictHeat</Material>
+                        <Unit xmlns="http://www.ens.dk/Globals">kWh</Unit>
+                        <EnergyPerUnit xmlns="http://www.ens.dk/Globals">0</EnergyPerUnit>
+                        <CO2PerUnit xmlns="http://www.ens.dk/Globals">0</CO2PerUnit>
+                      </Fuel>
+                      <FuelPrice>
+                        <CostPerUnit xmlns="http://www.ens.dk/Globals">0</CostPerUnit>
+                        <FixedCostPerYear xmlns="http://www.ens.dk/Globals">0</FixedCostPerYear>
+                        <SupplierCompanyName xmlns="http://www.ens.dk/Globals"></SupplierCompanyName>
+                      </FuelPrice>
+                      <YearlySubscriptionPrice>0</YearlySubscriptionPrice>
+                      <SubscriptionUnit>None</SubscriptionUnit>
+                      <PricePerSubscriptionUnit>0</PricePerSubscriptionUnit>
+                      <SpecifiedSubscriptionUnitAmount>0</SpecifiedSubscriptionUnitAmount>
+                      <DistrictHeatingPlantName></DistrictHeatingPlantName>
+                    </DirectDistrictHeat>
+                  </BuildingUnit>
+                </Status>
+                <Status ID="098572ea-e448-423b-8357-cc0c3b8cf45b">
+                  <ShortText>Grundfos Alpha 2 - 20-40 N - 22W</ShortText>
+                  <LongText>Brugsvandsanlægget er forsynet med en cirkulationspumpe af fabrikat Grundfos type Alpha 2 - 20-40 N - 22W med en nominel effekt på ??? W. Pumpen er placeret i ??? og vurderes at være fra perioden ???. Pumpen er udført som ???. ??? (Evt.: Rørene er frostsikret med el-tracing)</LongText>
+                  <BIClassification>3-1-4-0</BIClassification>
+                  <BuildingUnit>
+                    <HotWaterCirculationPump xmlns="http://www.ens.dk/BuildingUnits">
+                      <NumberOfPumps>1</NumberOfPumps>
+                      <Effect>22</Effect>
+                      <ReductionFactor>1</ReductionFactor>
+                      <HasElectricTracing>false</HasElectricTracing>
+                      <HotWaterTankID>32632</HotWaterTankID>
+                    </HotWaterCirculationPump>
+                  </BuildingUnit>
+                </Status>
+                <Status ID="10610278-a7dc-48a3-a5c2-50640a9135a9">
+                  <ShortText>Tilslutningsrør til VVB - 1/2&quot; (21,4 mm) stålrør - 10 mm</ShortText>
+                  <LongText>Tilslutningsrør til varmtvandsbeholder er udført i stål med en dimension på 1/2&quot; og er isoleret med ca. 10 mm isolering. Rørene er placeret i bryggers og har en samlet længde på ca. 6 m.</LongText>
+                  <BIClassification>3-1-3-0</BIClassification>
+                  <BuildingUnit>
+                    <HotWaterPipe xmlns="http://www.ens.dk/BuildingUnits">
+                      <Type>ConnectorPipe</Type>
+                      <Length>6</Length>
+                      <HeatLoss>0.29</HeatLoss>
+                      <BFactor>0</BFactor>
+                      <HotWaterTankID>32632</HotWaterTankID>
+                    </HotWaterPipe>
+                  </BuildingUnit>
+                </Status>
+                <Status ID="7f78e7ee-349c-4d3d-82a4-72be743680b4">
+                  <ShortText>Brugsvandsveksler, Redan</ShortText>
+                  <LongText>Varmt brugsvand produceres via brugsvandsveksler, fabrikat Redan. Veksleren er placeret i bryggers.</LongText>
+                  <BIClassification>3-1-5-0</BIClassification>
+                  <BuildingUnit>
+                    <HotWaterTank xmlns="http://www.ens.dk/BuildingUnits">
+                      <NumberOfTanks>1</NumberOfTanks>
+                      <ShareOfHotWaterConsumption>1</ShareOfHotWaterConsumption>
+                      <Volume>0</Volume>
+                      <SupplyTemperature>65</SupplyTemperature>
+                      <ElectricalSupport>None</ElectricalSupport>
+                      <HasHeatingCoil>false</HasHeatingCoil>
+                      <HeatLoss>0.7</HeatLoss>
+                      <BFactor>0</BFactor>
+                    </HotWaterTank>
+                  </BuildingUnit>
+                </Status>
+                <Status ID="af0d2b5f-b066-4f3a-bfbc-7da77ab9dba1">
+                  <ShortText>Internt varmetilskud for enfamiliebyggeri</ShortText>
+                  <LongText>Internt varmetilskud for enfamiliebyggeri.</LongText>
+                  <BIClassification>1-6-1-0</BIClassification>
+                  <BuildingUnit>
+                    <InternalHeatContribution xmlns="http://www.ens.dk/BuildingUnits">
+                      <Area>286</Area>
+                      <PowerFromPersons>1.5</PowerFromPersons>
+                      <PowerFromDevicesInUsageHours>3.5</PowerFromDevicesInUsageHours>
+                      <PowerFromDevicesOutsideUsageHours>0</PowerFromDevicesOutsideUsageHours>
+                    </InternalHeatContribution>
+                  </BuildingUnit>
+                </Status>
+                <Status ID="f59ead55-d09d-4089-acfe-6632bd0a171f">
+                  <ShortText>Bolig - Naturlig - delvis tæt 0,4 l/s m²</ShortText>
+                  <LongText>Der er naturlig ventilation i hele ejendommen. Ejendommen er delvis utæt, da konstruktionssamlinger og fuger ved vindues- og døråbninger, samt tætningslister i vinduer og udvendige døre ikke er helt intakte.</LongText>
+                  <BIClassification>1-5-1-0</BIClassification>
+                  <BuildingUnit>
+                    <Ventilation xmlns="http://www.ens.dk/BuildingUnits">
+                      <Area>286</Area>
+                      <UsageFactor>1</UsageFactor>
+                      <NaturalVentilationWinter>0.4</NaturalVentilationWinter>
+                      <NaturalVentilationSummer>2.4</NaturalVentilationSummer>
+                      <NaturalVentilationSummerOutsideUsageHours>0</NaturalVentilationSummerOutsideUsageHours>
+                      <MechanicalVentilationWinter>0</MechanicalVentilationWinter>
+                      <MechanicalVentilationSummer>0</MechanicalVentilationSummer>
+                      <MechanicalVentilationSummerOutsideUsageHours>0</MechanicalVentilationSummerOutsideUsageHours>
+                      <InfiltrationOutsideUsageHours>0</InfiltrationOutsideUsageHours>
+                      <TemperatureEfficiency>0</TemperatureEfficiency>
+                      <InjectionTemperature>0</InjectionTemperature>
+                      <SpecialPowerUsage>0</SpecialPowerUsage>
+                      <HasHeatCoils>false</HasHeatCoils>
+                      <RegularInspection>false</RegularInspection>
+                      <NominalEffect>0</NominalEffect>
+                    </Ventilation>
+                  </BuildingUnit>
+                </Status>
+              </Statuses>
+              <ElectricityPriceForHeating>1.63</ElectricityPriceForHeating>
+              <ElectricityPriceForNonHeating>1.63</ElectricityPriceForNonHeating>
+              <ElectricityPriceForExcessProduction>0.15</ElectricityPriceForExcessProduction>
+              <YearlyFeeForExcessProductionOfElectricity>0</YearlyFeeForExcessProductionOfElectricity>
+              <EstimatedElectricityConsumptionForNonHeating>35</EstimatedElectricityConsumptionForNonHeating>
+            </Zone>
+          </Zones>
+        </Building>
+      </Buildings>
+      <Images>
+        
+      </Images>
+    </Label>
+  </InputData>
+  <EnergyLabelSoftwareSpecificData></EnergyLabelSoftwareSpecificData>
+</EnergyLabel>

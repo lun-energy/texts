@@ -685,7 +685,8 @@ def find_input_xml(xml_dir: Path, project_name: str) -> Optional[Path]:
     return None
 
 
-def main():
+def main(xml_dir: Optional[Path] = None, output_dir: Optional[Path] = None,
+         label: str = ""):
     """Main execution function.
     
     Workflow:
@@ -695,13 +696,33 @@ def main():
     4. Optionally enrich with JSON placement data
     5. Generate LLM summaries from input data only
     6. Pull the PDFReportData summary from the final XML for comparison only
+    
+    Args:
+        xml_dir: Directory containing project XML/JSON files. Defaults to
+            repo_root/problem/ (the training set).
+        output_dir: Directory where output JSON + markdown reports are written.
+            Defaults to the script's own directory.
+        label: Optional suffix appended to output filenames. Useful when
+            running multiple sets (e.g. label="test_cases" to keep training
+            and held-out outputs separate).
     """
     
     # Repo layout: this script lives in experiments/window_summaries/,
-    # and the source data lives at repo_root/problem/.
+    # and the default source data lives at repo_root/problem/.
     repo_root = Path(__file__).resolve().parent.parent.parent
-    xml_dir = repo_root / "problem"
-    output_file = Path(__file__).parent / "window_summaries_output.json"
+    if xml_dir is None:
+        xml_dir = repo_root / "problem"
+    if output_dir is None:
+        output_dir = Path(__file__).parent
+    output_dir.mkdir(parents=True, exist_ok=True)
+    
+    suffix = f"_{label}" if label else ""
+    output_file = output_dir / f"window_summaries_output{suffix}.json"
+    report_file = output_dir / f"window_summaries_report{suffix}.md"
+    comparison_file = output_dir / f"window_summaries_comparison{suffix}.md"
+    
+    print(f"Input dir : {xml_dir}")
+    print(f"Output dir: {output_dir}\n")
     
     summarizer = WindowSummarizer(provider="anthropic")
     
@@ -786,10 +807,10 @@ def main():
     print(f"✓ Processed {len(results)} projects")
     
     # Generate summary report
-    generate_markdown_report(results, Path(__file__).parent / "window_summaries_report.md")
+    generate_markdown_report(results, report_file)
     
     # Generate focused side-by-side comparison report
-    generate_comparison_report(results, Path(__file__).parent / "window_summaries_comparison.md")
+    generate_comparison_report(results, comparison_file)
 
 
 CLASSIFICATION_LABELS = {
@@ -1223,4 +1244,32 @@ def generate_markdown_report(results: dict, output_path: Path):
 
 
 if __name__ == "__main__":
-    main()
+    import argparse
+    
+    parser = argparse.ArgumentParser(
+        description="Generate Danish window/door summaries with an LLM and "
+                    "compare them to the consultant's PDFReportData."
+    )
+    parser.add_argument(
+        '--xml-dir',
+        type=Path,
+        default=None,
+        help="Directory containing project XML + JSON files. Defaults to "
+             "repo_root/problem/ (the training set).",
+    )
+    parser.add_argument(
+        '--output-dir',
+        type=Path,
+        default=None,
+        help="Directory where output JSON + markdown reports are written. "
+             "Defaults to this script's directory.",
+    )
+    parser.add_argument(
+        '--label',
+        type=str,
+        default="",
+        help="Suffix appended to output filenames (e.g. 'test_cases').",
+    )
+    args = parser.parse_args()
+    
+    main(xml_dir=args.xml_dir, output_dir=args.output_dir, label=args.label)

@@ -1,0 +1,1348 @@
+{
+  "Gyvelvænget_10_8543_Hornslet": {
+    "project_name": "Gyvelvænget_10_8543_Hornslet",
+    "total_windows": 9,
+    "groups": {
+      "1-3-3-0": {
+        "count": 3,
+        "summary": "Yderdørene med sideparti og terrassedøren er alle monteret med tolags termorude.",
+        "windows": [
+          {
+            "status_id": "b5f906fd-965f-44ed-9965-af190d784393",
+            "short_text": "Yderdør med sideparti - 2 lags termorude",
+            "long_text": "Yderdør med sideparti, monteret med tolags termoruder. ???",
+            "bi_classification": "1-3-3-0",
+            "area": "2.66",
+            "u_value": "2.7",
+            "num_windows": "1",
+            "orientation": "76",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Bryggers",
+              "room_type": "custom",
+              "room_type_da": "værelse",
+              "wall_name": "Væg 1",
+              "element_location": "wall",
+              "element_name": "Dør 1"
+            }
+          },
+          {
+            "status_id": "78db28a6-e734-4008-be01-8ccbb78c6560",
+            "short_text": "Yderdør med sideparti - 2 lags termorude",
+            "long_text": "Yderdør med sideparti, monteret med tolags termoruder. ???",
+            "bi_classification": "1-3-3-0",
+            "area": "2.95",
+            "u_value": "2.7",
+            "num_windows": "1",
+            "orientation": "346",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Entre",
+              "room_type": "custom",
+              "room_type_da": "værelse",
+              "wall_name": "Væg 1",
+              "element_location": "wall",
+              "element_name": "Dør 1"
+            }
+          },
+          {
+            "status_id": "91e85f81-6de0-4447-9abe-35be48189bd9",
+            "short_text": "Terrassedør med 1 rude - 2 lags termorude",
+            "long_text": "Terrassedør med enkeltfagsvindue, monteret med tolags termoruder. ???",
+            "bi_classification": "1-3-3-0",
+            "area": "1.67",
+            "u_value": "2.7",
+            "num_windows": "1",
+            "orientation": "166",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Dagligstue",
+              "room_type": "livingRoom",
+              "room_type_da": "stue",
+              "wall_name": "Væg 1",
+              "element_location": "wall",
+              "element_name": "Dør 1"
+            }
+          }
+        ]
+      },
+      "1-3-1-0": {
+        "count": 6,
+        "summary": "Vinduerne er hovedsageligt monteret med tolags energirude. Et vindue i dagligstuen mod øst er monteret med tolags termorude.",
+        "windows": [
+          {
+            "status_id": "5a0d0a01-d22d-48e1-8688-6475d35375f5",
+            "short_text": "Enkeltfagsvindue med gående ramme - 2 lags energirude med kold kant",
+            "long_text": "Oplukkelige vinduer med et fag. Vinduerne er monteret med tolags energirude. ???",
+            "bi_classification": "1-3-1-0",
+            "area": "2.79",
+            "u_value": "1.42",
+            "num_windows": "1",
+            "orientation": "346",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Køkken",
+              "room_type": "kitchen",
+              "room_type_da": "køkken",
+              "wall_name": "Væg 1",
+              "element_location": "wall",
+              "element_name": "Vindue 1"
+            }
+          },
+          {
+            "status_id": "5a621ca7-20d9-49d8-acc9-0f0360fd9288",
+            "short_text": "Enkeltfagsvindue med gående ramme - 2 lags energirude med kold kant",
+            "long_text": "Oplukkelige vinduer med et fag. Vinduerne er monteret med tolags energirude. ???",
+            "bi_classification": "1-3-1-0",
+            "area": "1.55",
+            "u_value": "1.42",
+            "num_windows": "1",
+            "orientation": "346",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Badeværelse",
+              "room_type": "bathroom",
+              "room_type_da": "badeværelse",
+              "wall_name": "Væg 1",
+              "element_location": "wall",
+              "element_name": "Vindue 1"
+            }
+          },
+          {
+            "status_id": "6a1d597e-b251-42da-adc1-95ba3744b3af",
+            "short_text": "Enkeltfagsvindue med gående ramme - 2 lags energirude med kold kant",
+            "long_text": "Oplukkelige vinduer med et fag. Vinduerne er monteret med tolags energirude. ???",
+            "bi_classification": "1-3-1-0",
+            "area": "1.69",
+            "u_value": "1.42",
+            "num_windows": "1",
+            "orientation": "256",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Værelse nordvest",
+              "room_type": "custom",
+              "room_type_da": "værelse",
+              "wall_name": "Væg 1",
+              "element_location": "wall",
+              "element_name": "Vindue 1"
+            }
+          },
+          {
+            "status_id": "e5de6781-1258-4f4d-afe2-6e366320954c",
+            "short_text": "Enkeltfagsvindue med gående ramme - 2 lags energirude med kold kant",
+            "long_text": "Oplukkelige vinduer med et fag. Vinduerne er monteret med tolags energirude. ???",
+            "bi_classification": "1-3-1-0",
+            "area": "3.02",
+            "u_value": "1.42",
+            "num_windows": "1",
+            "orientation": "256",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Værelse sydvest",
+              "room_type": "custom",
+              "room_type_da": "værelse",
+              "wall_name": "Væg 2",
+              "element_location": "wall",
+              "element_name": "Vindue 1"
+            }
+          },
+          {
+            "status_id": "172e5fc8-67c9-4119-9e74-e0b7725eabb4",
+            "short_text": "Enkeltfagsvindue med gående ramme - 2 lags energirude med kold kant",
+            "long_text": "Oplukkelige vinduer med et fag. Vinduerne er monteret med tolags energirude. ???",
+            "bi_classification": "1-3-1-0",
+            "area": "1.69",
+            "u_value": "1.42",
+            "num_windows": "4",
+            "orientation": "166",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Dagligstue",
+              "room_type": "livingRoom",
+              "room_type_da": "stue",
+              "wall_name": "Væg 1",
+              "element_location": "wall",
+              "element_name": "Vindue 1"
+            }
+          },
+          {
+            "status_id": "15da3efd-a0c6-423d-a78e-c3d534e7e416",
+            "short_text": "Flerfagsvindue med gående rammer - 2 lags termorude kold kant",
+            "long_text": "Oplukkelige vinduer med flere fag. Vinduerne er monteret med tolags termorude. ???",
+            "bi_classification": "1-3-1-0",
+            "area": "4.1",
+            "u_value": "2.7",
+            "num_windows": "1",
+            "orientation": "76",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Dagligstue",
+              "room_type": "livingRoom",
+              "room_type_da": "stue",
+              "wall_name": "Væg 3",
+              "element_location": "wall",
+              "element_name": "Vindue 4"
+            }
+          }
+        ]
+      }
+    },
+    "pdf_summaries": {
+      "1-3-1-0": "Der er generelt ældre vinduer med skiftede ruder, til energiruder med kolde kante. Dog er vindue mod øst i stuen med tolags termoruder.",
+      "1-3-3-0": "Yderdøre i entre og bryggers med sideparti, samt terrassedør i stuen er med tolags termoruder."
+    },
+    "json_used": true,
+    "input_xml": "Gyvelvænget_10_8543_Hornslet.xml",
+    "final_xml": "Gyvelvænget_10_8543_Hornslet final.xml"
+  },
+  "Januarvænget_62_6000_Kolding": {
+    "project_name": "Januarvænget_62_6000_Kolding",
+    "total_windows": 7,
+    "groups": {
+      "1-3-3-0": {
+        "count": 3,
+        "summary": "Yderdørene i bryggerset og gangen er monteret med tolags termorude, ligesom terrassedøren i dagligstuen.",
+        "windows": [
+          {
+            "status_id": "6bce1f2f-fb57-462c-8c1f-f02736d3f8e9",
+            "short_text": "Yderdør med flere ruder - 2 lags termorude",
+            "long_text": "Yderdør med flere vinduesfag, monteret med tolags termoruder. ???",
+            "bi_classification": "1-3-3-0",
+            "area": "2.03",
+            "u_value": "2.7",
+            "num_windows": "1",
+            "orientation": "261",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Bryggers",
+              "room_type": "custom",
+              "room_type_da": "værelse",
+              "wall_name": "Væg 4",
+              "element_location": "wall",
+              "element_name": "Dør 2"
+            }
+          },
+          {
+            "status_id": "6fc2fb9b-3a95-4434-9e9a-ecc94c7aebfd",
+            "short_text": "Terrassedør med 1 rude - 2 lags termorude",
+            "long_text": "Terrassedør med enkeltfagsvindue, monteret med tolags termoruder. ???",
+            "bi_classification": "1-3-3-0",
+            "area": "1.63",
+            "u_value": "2.7",
+            "num_windows": "1",
+            "orientation": "81",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Dagligstue",
+              "room_type": "livingRoom",
+              "room_type_da": "stue",
+              "wall_name": "Væg 1",
+              "element_location": "wall",
+              "element_name": "Dør 1"
+            }
+          },
+          {
+            "status_id": "02f4b29b-1a6c-4a2b-ab2f-ff218be957d6",
+            "short_text": "Yderdør med flere ruder - 2 lags termorude",
+            "long_text": "Yderdør med flere vinduesfag, monteret med tolags termoruder. ???",
+            "bi_classification": "1-3-3-0",
+            "area": "2.97",
+            "u_value": "2.7",
+            "num_windows": "1",
+            "orientation": "261",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Gang",
+              "room_type": "hallway",
+              "room_type_da": "gang",
+              "wall_name": "Væg 2",
+              "element_location": "wall",
+              "element_name": "Dør 1"
+            }
+          }
+        ]
+      },
+      "1-3-1-0": {
+        "count": 4,
+        "summary": "Vinduerne er hovedsageligt monteret med tolags termorude. Vinduet i køkkenet mod vest er monteret med tolags energirude.",
+        "windows": [
+          {
+            "status_id": "9af5b85b-644b-4283-b382-9fd375931e4e",
+            "short_text": "Enkeltfagsvindue med gående ramme - 2 lags energirude med kold kant",
+            "long_text": "Oplukkelige vinduer med et fag. Vinduerne er monteret med tolags energirude. ???",
+            "bi_classification": "1-3-1-0",
+            "area": "1.78",
+            "u_value": "1.42",
+            "num_windows": "1",
+            "orientation": "261",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Køkken",
+              "room_type": "kitchen",
+              "room_type_da": "køkken",
+              "wall_name": "Væg 2",
+              "element_location": "wall",
+              "element_name": "Vindue 1"
+            }
+          },
+          {
+            "status_id": "1daee1e0-ebfd-4e1d-91bf-2a8df47ba859",
+            "short_text": "Enkeltfagsvindue i fast ramme - 2 lags termorude kold kant",
+            "long_text": "Faste vinduer med et fag. Vinduerne er monteret med tolags termorude. ???",
+            "bi_classification": "1-3-1-0",
+            "area": "4.03",
+            "u_value": "2.8",
+            "num_windows": "1",
+            "orientation": "81",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Dagligstue",
+              "room_type": "livingRoom",
+              "room_type_da": "stue",
+              "wall_name": "Væg 1",
+              "element_location": "wall",
+              "element_name": "Vindue 1"
+            }
+          },
+          {
+            "status_id": "8c101d06-7113-4383-acfc-50599a493668",
+            "short_text": "Enkeltfagsvindue med gående ramme - 2 lags termorude kold kant",
+            "long_text": "Oplukkelige vinduer med et fag. Vinduerne er monteret med tolags termorude. ???",
+            "bi_classification": "1-3-1-0",
+            "area": "1.56",
+            "u_value": "2.8",
+            "num_windows": "1",
+            "orientation": "81",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Soveværelse",
+              "room_type": "bedroom",
+              "room_type_da": "soveværelse",
+              "wall_name": "Væg 2",
+              "element_location": "wall",
+              "element_name": "Vindue 1"
+            }
+          },
+          {
+            "status_id": "604d7e76-4329-49c5-a737-8dada0110f48",
+            "short_text": "Enkeltfagsvindue med gående ramme - 2 lags termorude kold kant",
+            "long_text": "Oplukkelige vinduer med et fag. Vinduerne er monteret med tolags termorude. ???",
+            "bi_classification": "1-3-1-0",
+            "area": "1.68",
+            "u_value": "2.8",
+            "num_windows": "1",
+            "orientation": "261",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Rum",
+              "room_type": "custom",
+              "room_type_da": "værelse",
+              "wall_name": "Væg 3",
+              "element_location": "wall",
+              "element_name": "Vindue 1"
+            }
+          }
+        ]
+      }
+    },
+    "pdf_summaries": {
+      "1-3-1-0": "Vinduet i køkkenet er med tolags energirude. Øvrige vinduer og døre er med tolags termoruder.\nBeskrivelse og glasforhold vedrørende vinduer og døre er baseret på visuel kontrol ved konsulent."
+    },
+    "json_used": true,
+    "input_xml": "Januarvænget_62_6000_Kolding.xml",
+    "final_xml": "Januarvænget_62_6000_Kolding final.xml"
+  },
+  "Lamdrup_Møllevej_2_5854_Gislev": {
+    "project_name": "Lamdrup_Møllevej_2_5854_Gislev",
+    "total_windows": 14,
+    "groups": {
+      "1-3-3-0": {
+        "count": 3,
+        "summary": "Yderdørene i gangen og bryggerset er monteret med henholdsvis etlags glas med forsatsrude og tolags energirude, mens yderdøren i køkkenet er uden glas og isoleret.",
+        "windows": [
+          {
+            "status_id": "abf53db9-f461-4020-809d-df5817c61a0f",
+            "short_text": "Yderdør med 1 rude - 1+1 energiglas",
+            "long_text": "Yderdør med enkeltfagsvindue, monteret med etlags glasruder og forsatsruder med energiglas. ???",
+            "bi_classification": "1-3-3-0",
+            "area": "1.99",
+            "u_value": "1.7",
+            "num_windows": "1",
+            "orientation": "316",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Gang",
+              "room_type": "hallway",
+              "room_type_da": "gang",
+              "wall_name": "Væg 2",
+              "element_location": "wall",
+              "element_name": "Dør 1"
+            }
+          },
+          {
+            "status_id": "302e2991-85be-4124-a448-fb5168c187f4",
+            "short_text": "Yderdør uden glas",
+            "long_text": "Ejendommen har massiv yderdør der vurderes isoleret.",
+            "bi_classification": "1-3-3-0",
+            "area": "1.9",
+            "u_value": "1.5",
+            "num_windows": "1",
+            "orientation": "46",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Køkken",
+              "room_type": "kitchen",
+              "room_type_da": "køkken",
+              "wall_name": "Væg 1",
+              "element_location": "wall",
+              "element_name": "Door 3"
+            }
+          },
+          {
+            "status_id": "dc2582d2-6ac4-4e12-a238-5e86113d92d9",
+            "short_text": "Yderdør med 1 rude - 2 lags energirude med kold kant",
+            "long_text": "Yderdør med enkeltfagsvindue, monteret med tolags energiruder. ???",
+            "bi_classification": "1-3-3-0",
+            "area": "2.15",
+            "u_value": "1.42",
+            "num_windows": "1",
+            "orientation": "136",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Bryggers",
+              "room_type": "custom",
+              "room_type_da": "værelse",
+              "wall_name": "Væg 2",
+              "element_location": "wall",
+              "element_name": "Dør 1"
+            }
+          }
+        ]
+      },
+      "1-3-1-0": {
+        "count": 11,
+        "summary": "Vinduerne er primært monteret med etlags glasrude og forsatsrude, dog er vinduer i soveværelset mod nordvest og sydvest monteret med etlags glasrude og forsatsrude med energiglas, mens vinduet i badeværelset er monteret med tolags termorude.",
+        "windows": [
+          {
+            "status_id": "8a9ecaac-0ec1-43db-9e65-bff0d7766662",
+            "short_text": "Flerfagsvindue med gående rammer - 1+1 lag glas",
+            "long_text": "Oplukkelige vinduer med flere fag. Vinduerne er monteret med etlags glasrude og forsatsrude. ???",
+            "bi_classification": "1-3-1-0",
+            "area": "1.34",
+            "u_value": "2.2",
+            "num_windows": "1",
+            "orientation": "46",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Gang",
+              "room_type": "hallway",
+              "room_type_da": "gang",
+              "wall_name": "Væg 1",
+              "element_location": "wall",
+              "element_name": "Vindue 1"
+            }
+          },
+          {
+            "status_id": "de9d771f-afe8-48d9-823a-814cc4671e97",
+            "short_text": "Flerfagsvindue med gående rammer - 1+1 energiglas",
+            "long_text": "Oplukkelige vinduer med flere fag. Vinduerne er monteret med etlags glasrude og forsatsrude med energiglas. ???",
+            "bi_classification": "1-3-1-0",
+            "area": "2.12",
+            "u_value": "1.7",
+            "num_windows": "1",
+            "orientation": "316",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Soveværelse",
+              "room_type": "bedroom",
+              "room_type_da": "soveværelse",
+              "wall_name": "Væg 1",
+              "element_location": "wall",
+              "element_name": "Vindue 1"
+            }
+          },
+          {
+            "status_id": "6fa15bc6-e6bf-4f7d-9267-0fb9b506cdc8",
+            "short_text": "Flerfagsvindue med gående rammer - 1+1 energiglas",
+            "long_text": "Oplukkelige vinduer med flere fag. Vinduerne er monteret med etlags glasrude og forsatsrude med energiglas. ???",
+            "bi_classification": "1-3-1-0",
+            "area": "1.28",
+            "u_value": "1.7",
+            "num_windows": "1",
+            "orientation": "226",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Soveværelse",
+              "room_type": "bedroom",
+              "room_type_da": "soveværelse",
+              "wall_name": "Væg 3",
+              "element_location": "wall",
+              "element_name": "Vindue 2"
+            }
+          },
+          {
+            "status_id": "37c4c35f-391f-45b7-887b-7630283b8705",
+            "short_text": "Flerfagsvindue med gående rammer - 1+1 energiglas",
+            "long_text": "Oplukkelige vinduer med flere fag. Vinduerne er monteret med etlags glasrude og forsatsrude med energiglas. ???",
+            "bi_classification": "1-3-1-0",
+            "area": "1.06",
+            "u_value": "1.7",
+            "num_windows": "2",
+            "orientation": "226",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Soveværelse 2",
+              "room_type": "bedroom",
+              "room_type_da": "soveværelse",
+              "wall_name": "Væg 3",
+              "element_location": "wall",
+              "element_name": "Vindue 2"
+            }
+          },
+          {
+            "status_id": "2ffa492c-360c-4022-be96-48b0dacab105",
+            "short_text": "Flerfagsvindue med gående rammer - 1+1 lag glas",
+            "long_text": "Oplukkelige vinduer med flere fag. Vinduerne er monteret med etlags glasrude og forsatsrude. ???",
+            "bi_classification": "1-3-1-0",
+            "area": "1.84",
+            "u_value": "2.2",
+            "num_windows": "1",
+            "orientation": "46",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Dagligstue",
+              "room_type": "livingRoom",
+              "room_type_da": "stue",
+              "wall_name": "Væg 2",
+              "element_location": "wall",
+              "element_name": "Vindue 1"
+            }
+          },
+          {
+            "status_id": "85084a32-483f-44cf-b748-b8c0aa721923",
+            "short_text": "Flerfagsvindue med gående rammer - 1+1 lag glas",
+            "long_text": "Oplukkelige vinduer med flere fag. Vinduerne er monteret med etlags glasrude og forsatsrude. ???",
+            "bi_classification": "1-3-1-0",
+            "area": "1.17",
+            "u_value": "2.2",
+            "num_windows": "4",
+            "orientation": "226",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Bryggers",
+              "room_type": "custom",
+              "room_type_da": "værelse",
+              "wall_name": "Væg 1",
+              "element_location": "wall",
+              "element_name": "Vindue 1"
+            }
+          },
+          {
+            "status_id": "9f8a9a60-279b-4d12-8561-446f99c21e7f",
+            "short_text": "Flerfagsvindue med gående rammer - 1+1 lag glas",
+            "long_text": "Oplukkelige vinduer med flere fag. Vinduerne er monteret med etlags glasrude og forsatsrude. ???",
+            "bi_classification": "1-3-1-0",
+            "area": "1.02",
+            "u_value": "2.2",
+            "num_windows": "1",
+            "orientation": "226",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Soveværelse 3",
+              "room_type": "bedroom",
+              "room_type_da": "soveværelse",
+              "wall_name": "Væg 5",
+              "element_location": "wall",
+              "element_name": "Vindue 3"
+            }
+          },
+          {
+            "status_id": "300cbb5b-3e87-4ad8-83cc-a9592336d751",
+            "short_text": "Flerfagsvindue med gående rammer - 1+1 lag glas",
+            "long_text": "Oplukkelige vinduer med flere fag. Vinduerne er monteret med etlags glasrude og forsatsrude. ???",
+            "bi_classification": "1-3-1-0",
+            "area": "1.39",
+            "u_value": "2.2",
+            "num_windows": "1",
+            "orientation": "226",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Soveværelse 3",
+              "room_type": "bedroom",
+              "room_type_da": "soveværelse",
+              "wall_name": "Væg 5",
+              "element_location": "wall",
+              "element_name": "Vindue 4"
+            }
+          },
+          {
+            "status_id": "578e461e-984f-4f72-ae93-3d72ac24d764",
+            "short_text": "Flerfagsvindue med gående rammer - 1+1 lag glas",
+            "long_text": "Oplukkelige vinduer med flere fag. Vinduerne er monteret med etlags glasrude og forsatsrude. ???",
+            "bi_classification": "1-3-1-0",
+            "area": "1.06",
+            "u_value": "2.2",
+            "num_windows": "1",
+            "orientation": "46",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Køkken",
+              "room_type": "kitchen",
+              "room_type_da": "køkken",
+              "wall_name": "Væg 1",
+              "element_location": "wall",
+              "element_name": "Vindue 1"
+            }
+          },
+          {
+            "status_id": "21fc3d3d-f8b1-4607-bd0b-3b08c69ff313",
+            "short_text": "Enkeltfagsvindue i fast ramme - 2 lags termorude kold kant",
+            "long_text": "Faste vinduer med et fag. Vinduerne er monteret med tolags termorude. ???",
+            "bi_classification": "1-3-1-0",
+            "area": "0.48",
+            "u_value": "2.8",
+            "num_windows": "1",
+            "orientation": "46",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Badeværelse",
+              "room_type": "bathroom",
+              "room_type_da": "badeværelse",
+              "wall_name": "Væg 1",
+              "element_location": "wall",
+              "element_name": "Vindue 1"
+            }
+          },
+          {
+            "status_id": "cbcfe4bb-ae76-498b-bce4-5dc775f4a24f",
+            "short_text": "Flerfagsvindue med gående rammer - 1+1 lag glas",
+            "long_text": "Oplukkelige vinduer med flere fag. Vinduerne er monteret med etlags glasrude og forsatsrude. ???",
+            "bi_classification": "1-3-1-0",
+            "area": "1.9",
+            "u_value": "2.2",
+            "num_windows": "1",
+            "orientation": "136",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Bryggers",
+              "room_type": "custom",
+              "room_type_da": "værelse",
+              "wall_name": "Væg 2",
+              "element_location": "wall",
+              "element_name": "Vindue 3"
+            }
+          }
+        ]
+      }
+    },
+    "pdf_summaries": {
+      "1-3-1-0": "Vinduerne er monteret med etlags glasrude og forsatsrude.\n\nEnkelte vinduer er monteret med etlags glasrude og forsatsrude med termorude\n\nVindue i badeværelse er monteret med tolags termorude.",
+      "1-3-3-0": "Yderdør mod nordvest er monteret med etlags glasruder og forsatsruder med termorude\n\nYderdør mod sydøst er monteret med tolags termorude"
+    },
+    "json_used": true,
+    "input_xml": "Lamdrup_Møllevej_2_5854_Gislev.xml",
+    "final_xml": "Lamdrup_Møllevej_2_5854_Gislev final.xml"
+  },
+  "Lokesvej_40_8660_Skanderborg": {
+    "project_name": "Lokesvej_40_8660_Skanderborg",
+    "total_windows": 10,
+    "groups": {
+      "1-3-3-0": {
+        "count": 2,
+        "summary": "Yderdøren i bryggerset og terrassedøren i køkken-alrummet er monteret med trelags energirude.",
+        "windows": [
+          {
+            "status_id": "61c47410-cc8c-4e4e-b513-24bd4de5bc1c",
+            "short_text": "Yderdør med 1 rude - 3 lags energirude - energiklasse B",
+            "long_text": "Yderdør med enkeltfagsvindue, monteret med trelags energiruder, energiklasse B. ???",
+            "bi_classification": "1-3-3-0",
+            "area": "1.87",
+            "u_value": "1.15",
+            "num_windows": "1",
+            "orientation": "50",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Bryggers",
+              "room_type": "custom",
+              "room_type_da": "værelse",
+              "wall_name": "Væg 1",
+              "element_location": "wall",
+              "element_name": "Dør 1"
+            }
+          },
+          {
+            "status_id": "f6e4dc19-bd6c-4280-a600-8e70a8d97b9a",
+            "short_text": "Terrassedør med 1 rude - 3 lags energirude - energiklasse B",
+            "long_text": "Terrassedør med enkeltfagsvindue, monteret med trelags energiruder, energiklasse B. ???",
+            "bi_classification": "1-3-3-0",
+            "area": "2.01",
+            "u_value": "1.15",
+            "num_windows": "1",
+            "orientation": "230",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Køkken-alrum",
+              "room_type": "kitchen",
+              "room_type_da": "køkken",
+              "wall_name": "Væg 1",
+              "element_location": "wall",
+              "element_name": "Dør 6"
+            }
+          }
+        ]
+      },
+      "1-3-1-0": {
+        "count": 8,
+        "summary": "Vinduerne er monteret med trelags energirude.",
+        "windows": [
+          {
+            "status_id": "769e564a-4fc8-415d-8f80-ae3a22de49ff",
+            "short_text": "Enkeltfagsvindue med gående ramme - 3 lags energirude - energiklasse B",
+            "long_text": "Oplukkelige vinduer med et fag. Vinduerne er monteret med trelags energirude, energiklasse B. ???",
+            "bi_classification": "1-3-1-0",
+            "area": "1.16",
+            "u_value": "1.15",
+            "num_windows": "1",
+            "orientation": "50",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Køkken-alrum",
+              "room_type": "kitchen",
+              "room_type_da": "køkken",
+              "wall_name": "Væg 2",
+              "element_location": "wall",
+              "element_name": "Vindue 1"
+            }
+          },
+          {
+            "status_id": "89158bca-57ac-4cb9-99c2-d4444969532c",
+            "short_text": "Enkeltfagsvindue med gående ramme - 3 lags energirude - energiklasse B",
+            "long_text": "Oplukkelige vinduer med et fag. Vinduerne er monteret med trelags energirude, energiklasse B. ???",
+            "bi_classification": "1-3-1-0",
+            "area": "2.17",
+            "u_value": "1.15",
+            "num_windows": "1",
+            "orientation": "320",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Køkken-alrum",
+              "room_type": "kitchen",
+              "room_type_da": "køkken",
+              "wall_name": "Væg 4",
+              "element_location": "wall",
+              "element_name": "Vindue 2"
+            }
+          },
+          {
+            "status_id": "bbeb1e9e-8117-47d0-b8ae-4c2f570d989a",
+            "short_text": "Enkeltfagsvindue med gående ramme - 3 lags energirude - energiklasse B",
+            "long_text": "Oplukkelige vinduer med et fag. Vinduerne er monteret med trelags energirude, energiklasse B. ???",
+            "bi_classification": "1-3-1-0",
+            "area": "1.93",
+            "u_value": "1.15",
+            "num_windows": "1",
+            "orientation": "50",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Køkken-alrum",
+              "room_type": "kitchen",
+              "room_type_da": "køkken",
+              "wall_name": "Væg 7",
+              "element_location": "wall",
+              "element_name": "Vindue 3"
+            }
+          },
+          {
+            "status_id": "03998280-8442-4787-bef4-6fa8526b2cad",
+            "short_text": "Enkeltfagsvindue i fast ramme - 3 lags energirude - energiklasse B",
+            "long_text": "Faste vinduer med et fag. Vinduerne er monteret med trelags energirude, energiklasse B. ???",
+            "bi_classification": "1-3-1-0",
+            "area": "2.14",
+            "u_value": "1.15",
+            "num_windows": "2",
+            "orientation": "230",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Køkken-alrum",
+              "room_type": "kitchen",
+              "room_type_da": "køkken",
+              "wall_name": "Væg 1",
+              "element_location": "wall",
+              "element_name": "Vindue 4"
+            }
+          },
+          {
+            "status_id": "50386940-7840-4ef6-85f9-a5f02d523735",
+            "short_text": "Enkeltfagsvindue med gående ramme - 3 lags energirude - energiklasse B",
+            "long_text": "Oplukkelige vinduer med et fag. Vinduerne er monteret med trelags energirude, energiklasse B. ???",
+            "bi_classification": "1-3-1-0",
+            "area": "1.19",
+            "u_value": "1.15",
+            "num_windows": "3",
+            "orientation": "230",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Soveværelse",
+              "room_type": "bedroom",
+              "room_type_da": "soveværelse",
+              "wall_name": "Væg 1",
+              "element_location": "wall",
+              "element_name": "Vindue 1"
+            }
+          },
+          {
+            "status_id": "003efaaf-496e-4985-9d9c-a4811256c936",
+            "short_text": "Enkeltfagsvindue med gående ramme - 3 lags energirude - energiklasse B",
+            "long_text": "Oplukkelige vinduer med et fag. Vinduerne er monteret med trelags energirude, energiklasse B. ???",
+            "bi_classification": "1-3-1-0",
+            "area": "0.42",
+            "u_value": "1.15",
+            "num_windows": "1",
+            "orientation": "230",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Badeværelse vest",
+              "room_type": "bathroom",
+              "room_type_da": "badeværelse",
+              "wall_name": "Væg 3",
+              "element_location": "wall",
+              "element_name": "Vindue 1"
+            }
+          },
+          {
+            "status_id": "84cf74ca-536d-4ed9-810e-a8e5ef1eadba",
+            "short_text": "Enkeltfagsvindue med gående ramme - 3 lags energirude - energiklasse B",
+            "long_text": "Oplukkelige vinduer med et fag. Vinduerne er monteret med trelags energirude, energiklasse B. ???",
+            "bi_classification": "1-3-1-0",
+            "area": "1.22",
+            "u_value": "1.15",
+            "num_windows": "1",
+            "orientation": "140",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Værelse syd",
+              "room_type": "custom",
+              "room_type_da": "værelse",
+              "wall_name": "Væg 2",
+              "element_location": "wall",
+              "element_name": "Vindue 1"
+            }
+          },
+          {
+            "status_id": "1ada2c4a-8c5d-4716-ba8b-02124a45e07a",
+            "short_text": "Enkeltfagsvindue med gående ramme - 3 lags energirude - energiklasse B",
+            "long_text": "Oplukkelige vinduer med et fag. Vinduerne er monteret med trelags energirude, energiklasse B. ???",
+            "bi_classification": "1-3-1-0",
+            "area": "0.48",
+            "u_value": "1.15",
+            "num_windows": "1",
+            "orientation": "50",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Badeværelse 2",
+              "room_type": "bathroom",
+              "room_type_da": "badeværelse",
+              "wall_name": "Væg 1",
+              "element_location": "wall",
+              "element_name": "Vindue 1"
+            }
+          }
+        ]
+      }
+    },
+    "pdf_summaries": {
+      "1-3-1-0": "Alle vinduer og døre i ejendommen er med trelags energiruder med varme kante."
+    },
+    "json_used": true,
+    "input_xml": "Lokesvej_40_8660_Skanderborg.xml",
+    "final_xml": "Lokesvej_40_8660_Skanderborg final.xml"
+  },
+  "Vandmøllevej_65_8723_Løsning": {
+    "project_name": "Vandmøllevej_65_8723_Løsning",
+    "total_windows": 18,
+    "groups": {
+      "1-3-3-0": {
+        "count": 3,
+        "summary": "Yderdørene i gangen og i værelset mod øst er monteret med tolags termorude, mens yderdøren i værelset mod syd er uden glas og uisoleret.",
+        "windows": [
+          {
+            "status_id": "c0d97e4e-ffbe-45be-a169-21e7af2411bb",
+            "short_text": "Yderdør med uisoleret fyldning og 1 rude - 2 lags termorude",
+            "long_text": "Yderdør med uisoleret fyldning og enkeltfagsvindue, monteret med tolags termoruder. ???",
+            "bi_classification": "1-3-3-0",
+            "area": "1.79",
+            "u_value": "2.8",
+            "num_windows": "1",
+            "orientation": "202",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Gang",
+              "room_type": "hallway",
+              "room_type_da": "gang",
+              "wall_name": "Væg 2",
+              "element_location": "wall",
+              "element_name": "Dør 2"
+            }
+          },
+          {
+            "status_id": "2b707886-7d9b-43d9-8ccc-05aa2ae64f90",
+            "short_text": "Yderdør med uisoleret fyldning og 1 rude - 2 lags termorude",
+            "long_text": "Yderdør med uisoleret fyldning og enkeltfagsvindue, monteret med tolags termoruder. ???",
+            "bi_classification": "1-3-3-0",
+            "area": "1.78",
+            "u_value": "2.8",
+            "num_windows": "1",
+            "orientation": "112",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Rum",
+              "room_type": "custom",
+              "room_type_da": "værelse",
+              "wall_name": "Væg 1",
+              "element_location": "wall",
+              "element_name": "Dør 2"
+            }
+          },
+          {
+            "status_id": "ebc14891-8172-4135-8932-d51d40995710",
+            "short_text": "Yderdør uden glas - Før 1990 - uisoleret iht. HB2023",
+            "long_text": "Yderdør uden glas er uisoleret.",
+            "bi_classification": "1-3-3-0",
+            "area": "1.88",
+            "u_value": "2",
+            "num_windows": "1",
+            "orientation": "202",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Rum 2",
+              "room_type": "custom",
+              "room_type_da": "værelse",
+              "wall_name": "Væg 2",
+              "element_location": "wall",
+              "element_name": "Dør 1"
+            }
+          }
+        ]
+      },
+      "1-3-2-0": {
+        "count": 3,
+        "summary": "Ovenlysvinduerne er hovedsageligt monteret med tolags energirude, dog er ovenlysvinduet mod syd monteret med tolags termorude.",
+        "windows": [
+          {
+            "status_id": "2a833798-a79a-4908-b58c-30bd3c9eb386",
+            "short_text": "Ovenlysvindue - 2 lags energirude med kold kant",
+            "long_text": "Ovenlysvindue er monteret med tolags energirude. ???",
+            "bi_classification": "1-3-2-0",
+            "area": "1.01",
+            "u_value": "1.8",
+            "num_windows": "1",
+            "orientation": "22",
+            "inclination": "42",
+            "placement": {
+              "story_type": "first",
+              "story_da": "1. sal",
+              "room_name": "Soveværelse",
+              "room_type": "bedroom",
+              "room_type_da": "soveværelse",
+              "wall_name": "Ceiling 4",
+              "element_location": "ceiling",
+              "element_name": "Window 2"
+            }
+          },
+          {
+            "status_id": "84dbbd20-5a73-4f05-82e4-44ac879d4b9c",
+            "short_text": "Ovenlysvindue - 2 lags termorude kold kant",
+            "long_text": "Ovenlysvindue er monteret med tolags termorude. ???",
+            "bi_classification": "1-3-2-0",
+            "area": "0.72",
+            "u_value": "2.8",
+            "num_windows": "1",
+            "orientation": "202",
+            "inclination": "42",
+            "placement": {
+              "story_type": "first",
+              "story_da": "1. sal",
+              "room_name": "Gang",
+              "room_type": "hallway",
+              "room_type_da": "gang",
+              "wall_name": "Loft 2",
+              "element_location": "ceiling",
+              "element_name": "Window 2"
+            }
+          },
+          {
+            "status_id": "7e329a56-f4ab-44f8-82b0-171c55cbb3df",
+            "short_text": "Ovenlysvindue - 2 lags energirude med kold kant",
+            "long_text": "Ovenlysvindue er monteret med tolags energirude. ???",
+            "bi_classification": "1-3-2-0",
+            "area": "1.01",
+            "u_value": "1.8",
+            "num_windows": "1",
+            "orientation": "22",
+            "inclination": "44",
+            "placement": {
+              "story_type": "first",
+              "story_da": "1. sal",
+              "room_name": "Gang",
+              "room_type": "hallway",
+              "room_type_da": "gang",
+              "wall_name": "Loft 3",
+              "element_location": "ceiling",
+              "element_name": "Window 3"
+            }
+          }
+        ]
+      },
+      "1-3-1-0": {
+        "count": 12,
+        "summary": "Vinduerne er hovedsageligt monteret med tolags energirude. Enkelte vinduer i dagligstuen mod nord, i dagligstue 2 mod vest og i værelset er dog monteret med tolags termorude, mens vinduet i soveværelset på stueetagen har trelags termorude.",
+        "windows": [
+          {
+            "status_id": "cdff1613-1d6f-41a5-9094-f6527cd6de77",
+            "short_text": "Enkeltfagsvindue med gående ramme - 2 lags energirude med kold kant",
+            "long_text": "Oplukkelige vinduer med et fag. Vinduerne er monteret med tolags energirude. ???",
+            "bi_classification": "1-3-1-0",
+            "area": "0.69",
+            "u_value": "1.42",
+            "num_windows": "1",
+            "orientation": "112",
+            "inclination": "89",
+            "placement": {
+              "story_type": "first",
+              "story_da": "1. sal",
+              "room_name": "Soveværelse",
+              "room_type": "bedroom",
+              "room_type_da": "soveværelse",
+              "wall_name": "Wall 7",
+              "element_location": "wall",
+              "element_name": "Vindue 2"
+            }
+          },
+          {
+            "status_id": "ea1992ac-dec9-48cb-8928-17d127a057f0",
+            "short_text": "Enkeltfagsvindue med gående ramme - 2 lags energirude med kold kant",
+            "long_text": "Oplukkelige vinduer med et fag. Vinduerne er monteret med tolags energirude. ???",
+            "bi_classification": "1-3-1-0",
+            "area": "0.76",
+            "u_value": "1.42",
+            "num_windows": "1",
+            "orientation": "292",
+            "inclination": "90",
+            "placement": {
+              "story_type": "first",
+              "story_da": "1. sal",
+              "room_name": "Gang",
+              "room_type": "hallway",
+              "room_type_da": "gang",
+              "wall_name": "Væg 3",
+              "element_location": "wall",
+              "element_name": "Vindue 1"
+            }
+          },
+          {
+            "status_id": "3c3b6b7c-7fed-4ccd-93cc-cc76e7748048",
+            "short_text": "Enkeltfagsvindue med gående ramme - 2 lags termorude kold kant",
+            "long_text": "Oplukkelige vinduer med et fag. Vinduerne er monteret med tolags termorude. ???",
+            "bi_classification": "1-3-1-0",
+            "area": "1.01",
+            "u_value": "2.8",
+            "num_windows": "5",
+            "orientation": "22",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Dagligstue",
+              "room_type": "livingRoom",
+              "room_type_da": "stue",
+              "wall_name": "Væg 1",
+              "element_location": "wall",
+              "element_name": "Vindue 3"
+            }
+          },
+          {
+            "status_id": "aaceb738-ffa0-40e4-90e5-522973bd5a9c",
+            "short_text": "Enkeltfagsvindue med gående ramme - 2 lags energirude med kold kant",
+            "long_text": "Oplukkelige vinduer med et fag. Vinduerne er monteret med tolags energirude. ???",
+            "bi_classification": "1-3-1-0",
+            "area": "1.06",
+            "u_value": "1.42",
+            "num_windows": "1",
+            "orientation": "112",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Dagligstue",
+              "room_type": "livingRoom",
+              "room_type_da": "stue",
+              "wall_name": "Væg 3",
+              "element_location": "wall",
+              "element_name": "Vindue 4"
+            }
+          },
+          {
+            "status_id": "88acd8ee-1d25-4071-a1cc-4cd38f73af0b",
+            "short_text": "Enkeltfagsvindue med gående ramme - 2 lags energirude med varm kant",
+            "long_text": "Oplukkelige vinduer med et fag. Vinduerne er monteret med tolags energirude. ???",
+            "bi_classification": "1-3-1-0",
+            "area": "1.09",
+            "u_value": "1.3",
+            "num_windows": "1",
+            "orientation": "22",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Dagligstue 2",
+              "room_type": "livingRoom",
+              "room_type_da": "stue",
+              "wall_name": "Væg 1",
+              "element_location": "wall",
+              "element_name": "Vindue 2"
+            }
+          },
+          {
+            "status_id": "75f1494e-748c-4213-a0b0-b573fb6693b2",
+            "short_text": "Enkeltfagsvindue med gående ramme - 2 lags energirude med varm kant",
+            "long_text": "Oplukkelige vinduer med et fag. Vinduerne er monteret med tolags energirude. ???",
+            "bi_classification": "1-3-1-0",
+            "area": "0.97",
+            "u_value": "1.3",
+            "num_windows": "1",
+            "orientation": "22",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Dagligstue 2",
+              "room_type": "livingRoom",
+              "room_type_da": "stue",
+              "wall_name": "Væg 1",
+              "element_location": "wall",
+              "element_name": "Vindue 4"
+            }
+          },
+          {
+            "status_id": "2483b288-3031-43b9-9c0d-c80a23ff86ca",
+            "short_text": "Enkeltfagsvindue med gående ramme - 2 lags termorude kold kant",
+            "long_text": "Oplukkelige vinduer med et fag. Vinduerne er monteret med tolags termorude. ???",
+            "bi_classification": "1-3-1-0",
+            "area": "0.81",
+            "u_value": "2.8",
+            "num_windows": "1",
+            "orientation": "292",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Dagligstue 2",
+              "room_type": "livingRoom",
+              "room_type_da": "stue",
+              "wall_name": "Væg 3",
+              "element_location": "wall",
+              "element_name": "Vindue 5"
+            }
+          },
+          {
+            "status_id": "1ea89fa2-afbd-4057-b068-7b6092d40d1f",
+            "short_text": "Enkeltfagsvindue med gående ramme - 2 lags energirude med kold kant",
+            "long_text": "Oplukkelige vinduer med et fag. Vinduerne er monteret med tolags energirude. ???",
+            "bi_classification": "1-3-1-0",
+            "area": "1.35",
+            "u_value": "1.42",
+            "num_windows": "1",
+            "orientation": "202",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Køkken",
+              "room_type": "kitchen",
+              "room_type_da": "køkken",
+              "wall_name": "Væg 1",
+              "element_location": "wall",
+              "element_name": "Vindue 1"
+            }
+          },
+          {
+            "status_id": "34e04f70-388d-446d-966e-454034fd5949",
+            "short_text": "Enkeltfagsvindue med gående ramme - 2 lags energirude med kold kant",
+            "long_text": "Oplukkelige vinduer med et fag. Vinduerne er monteret med tolags energirude. ???",
+            "bi_classification": "1-3-1-0",
+            "area": "0.93",
+            "u_value": "1.42",
+            "num_windows": "2",
+            "orientation": "202",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Badeværelse",
+              "room_type": "bathroom",
+              "room_type_da": "badeværelse",
+              "wall_name": "Væg 3",
+              "element_location": "wall",
+              "element_name": "Vindue 1"
+            }
+          },
+          {
+            "status_id": "1023c70b-37b5-4da4-9073-1cbb11ce12e4",
+            "short_text": "Enkeltfagsvindue med gående ramme - 3 lags termorude kold kant",
+            "long_text": "Oplukkelige vinduer med et fag. Vinduerne er monteret med trelags termorude. ???",
+            "bi_classification": "1-3-1-0",
+            "area": "1.3",
+            "u_value": "2.2",
+            "num_windows": "1",
+            "orientation": "202",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Soveværelse",
+              "room_type": "bedroom",
+              "room_type_da": "soveværelse",
+              "wall_name": "Væg 1",
+              "element_location": "wall",
+              "element_name": "Vindue 1"
+            }
+          },
+          {
+            "status_id": "efe6369d-5608-409d-80ed-fd9de02e01d8",
+            "short_text": "Enkeltfagsvindue med gående ramme - 2 lags termorude kold kant",
+            "long_text": "Oplukkelige vinduer med et fag. Vinduerne er monteret med tolags termorude. ???",
+            "bi_classification": "1-3-1-0",
+            "area": "1.02",
+            "u_value": "2.8",
+            "num_windows": "1",
+            "orientation": "292",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Rum 2",
+              "room_type": "custom",
+              "room_type_da": "værelse",
+              "wall_name": "Væg 1",
+              "element_location": "wall",
+              "element_name": "Vindue 1"
+            }
+          },
+          {
+            "status_id": "c1353cb8-2605-47e9-8619-c2a10ff9232e",
+            "short_text": "Enkeltfagsvindue med gående ramme - 2 lags termorude kold kant",
+            "long_text": "Oplukkelige vinduer med et fag. Vinduerne er monteret med tolags termorude. ???",
+            "bi_classification": "1-3-1-0",
+            "area": "0.95",
+            "u_value": "2.8",
+            "num_windows": "1",
+            "orientation": "112",
+            "inclination": "90",
+            "placement": {
+              "story_type": "ground",
+              "story_da": "stueetage",
+              "room_name": "Rum 2",
+              "room_type": "custom",
+              "room_type_da": "værelse",
+              "wall_name": "Væg 3",
+              "element_location": "wall",
+              "element_name": "Vindue 2"
+            }
+          }
+        ]
+      }
+    },
+    "pdf_summaries": {
+      "1-3-1-0": "Vinduer i køkken og bad samt ét vindue i spisestuen og to i stuen og de to gavlvinduer og de to store ovenlysvinduer på 1. sal er med tolags energirude. Vinduet i soveværelset er med trelags termorude. Øvrige vinduer og døre er med tolags termorude.\nBeskrivelse og glasforhold vedrørende vinduer og døre er baseret på visuel kontrol ved konsulent."
+    },
+    "json_used": true,
+    "input_xml": "Vandmøllevej_65_8723_Løsning.xml",
+    "final_xml": "Vandmøllevej_65_8723_Løsning final.xml"
+  }
+}

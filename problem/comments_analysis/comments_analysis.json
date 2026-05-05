@@ -1,0 +1,1699 @@
+[
+  {
+    "project": "Ivarsvej_27_5200_Odense_V",
+    "plans_xml": "Ivarsvej_27_5200_Odense_V.xml",
+    "final_xml": "Ivarsvej_27_5200_Odense_V final.xml",
+    "json_path": "Ivarsvej_27_5200_Odense_V.json",
+    "facts": {
+      "year_of_construction": "1952",
+      "year_of_renovation": null,
+      "dwelling_area": "144",
+      "commercial_area": "0",
+      "use_code": "120",
+      "building_type": "DetachedBuilding",
+      "building_type_da": "fritliggende enfamilieshus",
+      "floor_count": "1",
+      "housing_units": "1",
+      "json_constructed_year": "1952",
+      "json_renovated_year": null,
+      "json_dwelling_area": "144",
+      "json_heated_area": "144",
+      "json_roof_stories_area": "67",
+      "json_regular_stories_area": "77",
+      "json_basement_area": "77",
+      "json_number_of_stories": "1",
+      "json_building_type": "detachedHouse",
+      "json_building_type_da": "fritliggende enfamilieshus",
+      "json_story_types": [
+        "ground",
+        "basement"
+      ],
+      "heat_source_raw": "districtHeating",
+      "heat_source_da": "Fjernvarme",
+      "json_stories_localised": [],
+      "json_room_count": 0,
+      "json_room_types": [],
+      "json_has_loft": false,
+      "json_has_basement": true,
+      "json_has_garage": false,
+      "json_has_workshop": false
+    },
+    "fields": {
+      "Additional": {
+        "plans_text": "Bygningsdelenes isoleringsevne er baseret på skøn ud fra registrerede isoleringstykkelser, og er heraf fastlagt ud fra tabeller i gældende håndbog for energikonsulenter, som sammen med gældende DS 418 og f.eks Rockwool Energy Design danner grundlag for beregninger af yderligere konstruktioner.\n\nDer gøres opmærksom på, at forslag vedr. efterisolering af bygningskonstruktioner som f.eks. gulve, lofter og vægge alene er beregnet ud fra et energimæssigt hensyn. Der er i forslagene ikke taget højde for byggetekniske konsekvenser af forslagene. \n\nDet anbefales generelt at kontakte en rådgiver/fagmand, for at få udarbejdet en detaljeret projektbeskrivelse før isolerings- og/eller ombygningsarbejder igangsættes. I forbindelse med rapportens forslag om energiforbedring af tekniske installationer, bør man altid søge teknisk sparring med en professionel rådgiver eller leverandør. I forhold til energimærkets gyldighedsperiode, vil både prisgrundlag og produktudviklingen kunne ændre sig en del, år for år.\n\nVed bygningsgennemgangen forelå udfyldt ejeroplysningsskema. XXX\nVed bygningsgennemgangen forelå ikke et udfyldt ejeroplysningsskema. Det forudsættes hermed, at der ikke er givet tilladelse til destruktive undersøgelser. XXX\n\nFølgende materiale var til rådighed for udarbejdelsen af energimærket:\nBygningstegninger XXX\nTidligere energimærkningsrapport af den XX-XX-XX, med energimærkningsnummer: XXX\nAndet XXX\n\nRenoveringstider, som fremgår ved \"Rentable forslag\", er estimerede tider.\n\nDet er vigtigt at være opmærksom på, at energimæssige forbedringer ikke kun har betydning for bygningens energiforbrug, men også for den daglige komfort, samt for en eventuel gensalgsværdi for ejendommen.  \n                                                                                                                                                                                                                                                               \nSvingende energipriser har ikke betydning for bygningers energimærke, men har indflydelse på energiøkonomien. \n\nVed høje energipriser kan værdien af besparelsesforslag blive større, hvilket betyder, at det kan give økonomisk mening at gennemføre flere forslag inklusiv forslag der kan være rentable, hvis de udføres sammen med andre renoveringer.\n\nVed lave energipriser kan værdien af besparelsesforslag blive mindre og/eller umiddelbart ikke økonomisk rentable. I forbindelse hermed, er det vigtigt at være opmærksom på, at energimæssige forbedringer ikke kun har betydning for bygningens energiforbrug, men også for den daglige komfort, samt for en eventuel gensalgsværdi for ejendommen.",
+        "final_text": "Bygningsdelenes isoleringsevne er baseret på skøn ud fra registrerede isoleringstykkelser, og er heraf fastlagt ud fra tabeller i gældende håndbog for energikonsulenter, som sammen med gældende DS 418 og f.eks Rockwool Energy Design danner grundlag for beregninger af yderligere konstruktioner.\n\nDer gøres opmærksom på, at forslag vedr. efterisolering af bygningskonstruktioner som f.eks. gulve, lofter og vægge alene er beregnet ud fra et energimæssigt hensyn. Der er i forslagene ikke taget højde for byggetekniske konsekvenser af forslagene. \n\nDet anbefales generelt at kontakte en rådgiver/fagmand, for at få udarbejdet en detaljeret projektbeskrivelse før isolerings- og/eller ombygningsarbejder igangsættes. I forbindelse med rapportens forslag om energiforbedring af tekniske installationer, bør man altid søge teknisk sparring med en professionel rådgiver eller leverandør. I forhold til energimærkets gyldighedsperiode, vil både prisgrundlag og produktudviklingen kunne ændre sig en del, år for år.\n\nVed bygningsgennemgangen forelå udfyldt ejeroplysningsskema.\n\nFølgende materiale var til rådighed for udarbejdelsen af energimærket:\nBygningstegninger 1951\nTidligere energimærkningsrapport af den 11. maj 2022, med energimærkningsnummer: 311599521\n\nRenoveringstider, som fremgår ved \"Rentable forslag\", er estimerede tider.\n\nDet er vigtigt at være opmærksom på, at energimæssige forbedringer ikke kun har betydning for bygningens energiforbrug, men også for den daglige komfort, samt for en eventuel gensalgsværdi for ejendommen.  \n                                                                                                                                                                                                                                                               \nSvingende energipriser har ikke betydning for bygningers energimærke, men har indflydelse på energiøkonomien. \n\nVed høje energipriser kan værdien af besparelsesforslag blive større, hvilket betyder, at det kan give økonomisk mening at gennemføre flere forslag inklusiv forslag der kan være rentable, hvis de udføres sammen med andre renoveringer.\n\nVed lave energipriser kan værdien af besparelsesforslag blive mindre og/eller umiddelbart ikke økonomisk rentable. I forbindelse hermed, er det vigtigt at være opmærksom på, at energimæssige forbedringer ikke kun har betydning for bygningens energiforbrug, men også for den daglige komfort, samt for en eventuel gensalgsværdi for ejendommen.",
+        "plans_chars": 2648,
+        "final_chars": 2485,
+        "added_lines": [
+          "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema.",
+          "Bygningstegninger 1951",
+          "Tidligere energimærkningsrapport af den 11. maj 2022, med energimærkningsnummer: 311599521"
+        ],
+        "removed_lines": [
+          "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema. XXX",
+          "Ved bygningsgennemgangen forelå ikke et udfyldt ejeroplysningsskema. Det forudsættes hermed, at der ikke er givet tilladelse til destruktive undersøgelser. XXX",
+          "Bygningstegninger XXX",
+          "Tidligere energimærkningsrapport af den XX-XX-XX, med energimærkningsnummer: XXX",
+          "Andet XXX"
+        ],
+        "classified_added_lines": [
+          {
+            "line": "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema.",
+            "hits": []
+          },
+          {
+            "line": "Bygningstegninger 1951",
+            "hits": [
+              {
+                "category": "year",
+                "value": "1951",
+                "auto": "no",
+                "source": "?"
+              }
+            ]
+          },
+          {
+            "line": "Tidligere energimærkningsrapport af den 11. maj 2022, med energimærkningsnummer: 311599521",
+            "hits": [
+              {
+                "category": "year",
+                "value": "2022",
+                "auto": "no",
+                "source": "?"
+              }
+            ]
+          }
+        ]
+      },
+      "OnEnergyPrices": {
+        "plans_text": "Der er i energimærket anvendt aktuelle energipriser for alle brændselstyper fx olie, naturgas, brænde og træpiller.\n\nRapportens elpris er anvendt ud fra en gennemsnitsvurdering, da energipriserne varierer dagligt og i forhold til valg af leverandør.\n \nTil beregning af rapportens forbedringsforslag er der anvendt estimerede priser, der kan variere en del fra aktuelle tilbudspriser, afhængig af både regionale forhold og valg af leverandør. \nI forbindelse med rapportens forslag om energiforbedringer, bør man altid søge  sparring med en professionel rådgiver eller leverandør. \nI forhold til energimærkets gyldighedsperiode, vil både prisgrundlag og produktudviklingen kunne ændre sig en del, år for år.",
+        "final_text": "Der er i energimærket anvendt aktuelle energipriser for alle brændselstyper fx fjernvarme, olie, naturgas, brænde og træpiller.\n\nRapportens elpris er anvendt ud fra en gennemsnits vurdering, da energipriserne varierer dagligt og i forhold til valg af leverandør.\n \nTil beregning af rapportens forbedringsforslag er der anvendt estimerede priser, der kan variere en del fra aktuelle tilbudspriser, afhængig af både regionale forhold og valg af leverandør. \n\nI forbindelse med rapportens forslag om energiforbedringer, bør man altid søge sparring med en professionel rådgiver eller leverandør. \n\nI forhold til energimærkets gyldighedsperiode, vil både prisgrundlag og produktudviklingen kunne ændre sig en del, år for år.\n\nFjernvarmeprisen er i denne rapport fastsat ud fra de tariffer, der var gældende ved energimærkningsrapportens officielle indberetningsdato. Fjernvarmeprisen stammer fra det konkrete fjernvarmeværk: Fjernvarme Fyn.",
+        "plans_chars": 705,
+        "final_chars": 935,
+        "added_lines": [
+          "Der er i energimærket anvendt aktuelle energipriser for alle brændselstyper fx fjernvarme, olie, naturgas, brænde og træpiller.",
+          "Rapportens elpris er anvendt ud fra en gennemsnits vurdering, da energipriserne varierer dagligt og i forhold til valg af leverandør.",
+          "I forbindelse med rapportens forslag om energiforbedringer, bør man altid søge sparring med en professionel rådgiver eller leverandør.",
+          "Fjernvarmeprisen er i denne rapport fastsat ud fra de tariffer, der var gældende ved energimærkningsrapportens officielle indberetningsdato. Fjernvarmeprisen stammer fra det konkrete fjernvarmeværk: Fjernvarme Fyn."
+        ],
+        "removed_lines": [
+          "Der er i energimærket anvendt aktuelle energipriser for alle brændselstyper fx olie, naturgas, brænde og træpiller.",
+          "Rapportens elpris er anvendt ud fra en gennemsnitsvurdering, da energipriserne varierer dagligt og i forhold til valg af leverandør.",
+          "I forbindelse med rapportens forslag om energiforbedringer, bør man altid søge  sparring med en professionel rådgiver eller leverandør."
+        ],
+        "classified_added_lines": [
+          {
+            "line": "Der er i energimærket anvendt aktuelle energipriser for alle brændselstyper fx fjernvarme, olie, naturgas, brænde og træpiller.",
+            "hits": [
+              {
+                "category": "heat_source",
+                "value": "fjernvarme",
+                "auto": "yes",
+                "source": "JSON.heating.primarySource.sourceType"
+              }
+            ]
+          },
+          {
+            "line": "Rapportens elpris er anvendt ud fra en gennemsnits vurdering, da energipriserne varierer dagligt og i forhold til valg af leverandør.",
+            "hits": []
+          },
+          {
+            "line": "I forbindelse med rapportens forslag om energiforbedringer, bør man altid søge sparring med en professionel rådgiver eller leverandør.",
+            "hits": []
+          },
+          {
+            "line": "Fjernvarmeprisen er i denne rapport fastsat ud fra de tariffer, der var gældende ved energimærkningsrapportens officielle indberetningsdato. Fjernvarmeprisen stammer fra det konkrete fjernvarmeværk: Fjernvarme Fyn.",
+            "hits": [
+              {
+                "category": "heat_source",
+                "value": "fjernvarme",
+                "auto": "yes",
+                "source": "JSON.heating.primarySource.sourceType"
+              }
+            ]
+          }
+        ]
+      },
+      "OnBuildingDescription": {
+        "plans_text": "De opmålte opvarmede arealer og BBR-arealer, samt opførelsestidspunkt og evt. renoveringstidspunkt, kan ses under baggrundsinformation.\n\nEjendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og XXX bygningstegninger. \n\nDe opmålte opvarmede arealer stemmer overens med BBR-meddelelsen. XXX\nDet opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen. XXX \nDet opmålte opvarmede areal stemmer ikke overens med BBR-meddelelsen. Afvigelsen består i XXX\n\n\nVed bygningsgennemgangen var der ikke adgang til XXX.\n\nFølgende rum XXX er uopvarmet. (vælg desuden en af nedenstående 2 muligheder XXX Slet dette)\n\nArealerne forudsættes jf. gældende Håndbog for energikonsulenter opvarmet med samme opvarmningsform som resten af bygningen, uanset at der ingen varmekilde er, da det vurderes at eksisterende varmeanlæg er tilstrækkelig til at kunne opvarme hele boligen  XXX\n\nArealerne forudsættes jf. gældende Håndbog for energikonsulenter som værende el-opvarmet, da det vurderes at eksisterende varmeanlæg ikke er tilstrækkelig til at kunne opvarme hele boligen. XXX\n\nHvis ikke andet er angivet, så er de faktuelle oplysninger i energimærket baseret på skøn ud fra hvad der visuelt kan konstateres. Oplysningerne er ikke en garanti og kan ikke betragtes som dette, men er angivet for at informere om hvad der er anvendt som grundlag for beregningen.",
+        "final_text": "De opmålte opvarmede arealer og BBR-arealer, samt opførelsestidspunkt og evt. renoveringstidspunkt, kan ses under baggrundsinformation.\n\nEjendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og bygningstegninger. \n\nDe opmålte opvarmede arealer stemmer overens med BBR-meddelelsen. \n\nHvis ikke andet er angivet, så er de faktuelle oplysninger i energimærket baseret på skøn ud fra hvad der visuelt kan konstateres. Oplysningerne er ikke en garanti og kan ikke betragtes som dette, men er angivet for at informere om hvad der er anvendt som grundlag for beregningen.",
+        "plans_chars": 1377,
+        "final_chars": 577,
+        "added_lines": [
+          "Ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og bygningstegninger.",
+          "De opmålte opvarmede arealer stemmer overens med BBR-meddelelsen."
+        ],
+        "removed_lines": [
+          "Ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og XXX bygningstegninger.",
+          "De opmålte opvarmede arealer stemmer overens med BBR-meddelelsen. XXX",
+          "Det opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen. XXX",
+          "Det opmålte opvarmede areal stemmer ikke overens med BBR-meddelelsen. Afvigelsen består i XXX",
+          "Ved bygningsgennemgangen var der ikke adgang til XXX.",
+          "Følgende rum XXX er uopvarmet. (vælg desuden en af nedenstående 2 muligheder XXX Slet dette)",
+          "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter opvarmet med samme opvarmningsform som resten af bygningen, uanset at der ingen varmekilde er, da det vurderes at eksisterende varmeanlæg er tilstrækkelig til at kunne opvarme hele boligen  XXX",
+          "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter som værende el-opvarmet, da det vurderes at eksisterende varmeanlæg ikke er tilstrækkelig til at kunne opvarme hele boligen. XXX"
+        ],
+        "classified_added_lines": [
+          {
+            "line": "Ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og bygningstegninger.",
+            "hits": []
+          },
+          {
+            "line": "De opmålte opvarmede arealer stemmer overens med BBR-meddelelsen.",
+            "hits": []
+          }
+        ]
+      },
+      "OnDestructiveInspections": {
+        "plans_text": "",
+        "final_text": "",
+        "plans_chars": 0,
+        "final_chars": 0,
+        "added_lines": [],
+        "removed_lines": [],
+        "classified_added_lines": []
+      }
+    }
+  },
+  {
+    "project": "Kirkegyden_15_5270_Odense_N",
+    "plans_xml": "Kirkegyden_15_5270_Odense_N.xml",
+    "final_xml": "Kirkegyden_15_5270_Odense_N final.xml",
+    "json_path": "Kirkegyden_15_5270_Odense_N.json",
+    "facts": {
+      "year_of_construction": "1900",
+      "year_of_renovation": null,
+      "dwelling_area": "284",
+      "commercial_area": "0",
+      "use_code": "120",
+      "building_type": "DetachedBuilding",
+      "building_type_da": "fritliggende enfamilieshus",
+      "floor_count": "1",
+      "housing_units": "1",
+      "json_constructed_year": "1900",
+      "json_renovated_year": null,
+      "json_dwelling_area": "284",
+      "json_heated_area": "284",
+      "json_roof_stories_area": "0",
+      "json_regular_stories_area": "483",
+      "json_basement_area": "7",
+      "json_number_of_stories": "1",
+      "json_building_type": "detachedHouse",
+      "json_building_type_da": "fritliggende enfamilieshus",
+      "json_story_types": [
+        "basement",
+        "ground"
+      ],
+      "heat_source_raw": "districtHeating",
+      "heat_source_da": "Fjernvarme",
+      "json_stories_localised": [],
+      "json_room_count": 0,
+      "json_room_types": [],
+      "json_has_loft": false,
+      "json_has_basement": true,
+      "json_has_garage": false,
+      "json_has_workshop": false
+    },
+    "fields": {
+      "Additional": {
+        "plans_text": "Bygningsdelenes isoleringsevne er baseret på skøn ud fra registrerede isoleringstykkelser, og er heraf fastlagt ud fra tabeller i gældende håndbog for energikonsulenter, som sammen med gældende DS 418 og f.eks Rockwool Energy Design danner grundlag for beregninger af yderligere konstruktioner.\n\nDer gøres opmærksom på, at forslag vedr. efterisolering af bygningskonstruktioner som f.eks. gulve, lofter og vægge alene er beregnet ud fra et energimæssigt hensyn. Der er i forslagene ikke taget højde for byggetekniske konsekvenser af forslagene. \n\nDet anbefales generelt at kontakte en rådgiver/fagmand, for at få udarbejdet en detaljeret projektbeskrivelse før isolerings- og/eller ombygningsarbejder igangsættes. I forbindelse med rapportens forslag om energiforbedring af tekniske installationer, bør man altid søge teknisk sparring med en professionel rådgiver eller leverandør. I forhold til energimærkets gyldighedsperiode, vil både prisgrundlag og produktudviklingen kunne ændre sig en del, år for år.\n\nVed bygningsgennemgangen forelå udfyldt ejeroplysningsskema. XXX\nVed bygningsgennemgangen forelå ikke et udfyldt ejeroplysningsskema. Det forudsættes hermed, at der ikke er givet tilladelse til destruktive undersøgelser. XXX\n\nFølgende materiale var til rådighed for udarbejdelsen af energimærket:\nBygningstegninger XXX\nTidligere energimærkningsrapport af den XX-XX-XX, med energimærkningsnummer: XXX\nAndet XXX\n\nRenoveringstider, som fremgår ved \"Rentable forslag\", er estimerede tider.\n\nDet er vigtigt at være opmærksom på, at energimæssige forbedringer ikke kun har betydning for bygningens energiforbrug, men også for den daglige komfort, samt for en eventuel gensalgsværdi for ejendommen.  \n                                                                                                                                                                                                                                                               \nSvingende energipriser har ikke betydning for bygningers energimærke, men har indflydelse på energiøkonomien. \n\nVed høje energipriser kan værdien af besparelsesforslag blive større, hvilket betyder, at det kan give økonomisk mening at gennemføre flere forslag inklusiv forslag der kan være rentable, hvis de udføres sammen med andre renoveringer.\n\nVed lave energipriser kan værdien af besparelsesforslag blive mindre og/eller umiddelbart ikke økonomisk rentable. I forbindelse hermed, er det vigtigt at være opmærksom på, at energimæssige forbedringer ikke kun har betydning for bygningens energiforbrug, men også for den daglige komfort, samt for en eventuel gensalgsværdi for ejendommen.",
+        "final_text": "Bygningsdelenes isoleringsevne er baseret på skøn ud fra registrerede isoleringstykkelser, og er heraf fastlagt ud fra tabeller i gældende håndbog for energikonsulenter, som sammen med gældende DS 418 og f.eks Rockwool Energy Design danner grundlag for beregninger af yderligere konstruktioner.\n\nDer gøres opmærksom på, at forslag vedr. efterisolering af bygningskonstruktioner som f.eks. gulve, lofter og vægge alene er beregnet ud fra et energimæssigt hensyn. Der er i forslagene ikke taget højde for byggetekniske konsekvenser af forslagene. \n\nDet anbefales generelt at kontakte en rådgiver/fagmand, for at få udarbejdet en detaljeret projektbeskrivelse før isolerings- og/eller ombygningsarbejder igangsættes. I forbindelse med rapportens forslag om energiforbedring af tekniske installationer, bør man altid søge teknisk sparring med en professionel rådgiver eller leverandør. I forhold til energimærkets gyldighedsperiode, vil både prisgrundlag og produktudviklingen kunne ændre sig en del, år for år.\n\nVed bygningsgennemgangen forelå udfyldt ejeroplysningsskema. \n\nFølgende materiale var til rådighed for udarbejdelsen af energimærket:\n\nTidligere energimærkningsrapport af den 18-10-2007, med energimærkningsnummer: 100051936\n\nRenoveringstider, som fremgår ved \"Rentable forslag\", er estimerede tider.\n\nDet er vigtigt at være opmærksom på, at energimæssige forbedringer ikke kun har betydning for bygningens energiforbrug, men også for den daglige komfort, samt for en eventuel gensalgsværdi for ejendommen.  \n                                                                                                                                                                                                                                                               \nSvingende energipriser har ikke betydning for bygningers energimærke, men har indflydelse på energiøkonomien. \n\nVed høje energipriser kan værdien af besparelsesforslag blive større, hvilket betyder, at det kan give økonomisk mening at gennemføre flere forslag inklusiv forslag der kan være rentable, hvis de udføres sammen med andre renoveringer.\n\nVed lave energipriser kan værdien af besparelsesforslag blive mindre og/eller umiddelbart ikke økonomisk rentable. I forbindelse hermed, er det vigtigt at være opmærksom på, at energimæssige forbedringer ikke kun har betydning for bygningens energiforbrug, men også for den daglige komfort, samt for en eventuel gensalgsværdi for ejendommen.",
+        "plans_chars": 2648,
+        "final_chars": 2462,
+        "added_lines": [
+          "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema.",
+          "Tidligere energimærkningsrapport af den 18-10-2007, med energimærkningsnummer: 100051936"
+        ],
+        "removed_lines": [
+          "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema. XXX",
+          "Ved bygningsgennemgangen forelå ikke et udfyldt ejeroplysningsskema. Det forudsættes hermed, at der ikke er givet tilladelse til destruktive undersøgelser. XXX",
+          "Bygningstegninger XXX",
+          "Tidligere energimærkningsrapport af den XX-XX-XX, med energimærkningsnummer: XXX",
+          "Andet XXX"
+        ],
+        "classified_added_lines": [
+          {
+            "line": "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema.",
+            "hits": []
+          },
+          {
+            "line": "Tidligere energimærkningsrapport af den 18-10-2007, med energimærkningsnummer: 100051936",
+            "hits": [
+              {
+                "category": "year",
+                "value": "2007",
+                "auto": "no",
+                "source": "?"
+              }
+            ]
+          }
+        ]
+      },
+      "OnEnergyPrices": {
+        "plans_text": "Der er i energimærket anvendt aktuelle energipriser for alle brændselstyper fx olie, naturgas, brænde og træpiller.\n\nRapportens elpris er anvendt ud fra en gennemsnitsvurdering, da energipriserne varierer dagligt og i forhold til valg af leverandør.\n \nTil beregning af rapportens forbedringsforslag er der anvendt estimerede priser, der kan variere en del fra aktuelle tilbudspriser, afhængig af både regionale forhold og valg af leverandør. \nI forbindelse med rapportens forslag om energiforbedringer, bør man altid søge  sparring med en professionel rådgiver eller leverandør. \nI forhold til energimærkets gyldighedsperiode, vil både prisgrundlag og produktudviklingen kunne ændre sig en del, år for år.",
+        "final_text": "Der er i energimærket anvendt aktuelle energipriser for alle brændselstyper fx olie, naturgas, brænde og træpiller.\n\nRapportens elpris er anvendt ud fra en gennemsnitsvurdering, da energipriserne varierer dagligt og i forhold til valg af leverandør.\n \nTil beregning af rapportens forbedringsforslag er der anvendt estimerede priser, der kan variere en del fra aktuelle tilbudspriser, afhængig af både regionale forhold og valg af leverandør. \nI forbindelse med rapportens forslag om energiforbedringer, bør man altid søge  sparring med en professionel rådgiver eller leverandør. \nI forhold til energimærkets gyldighedsperiode, vil både prisgrundlag og produktudviklingen kunne ændre sig en del, år for år.",
+        "plans_chars": 705,
+        "final_chars": 705,
+        "added_lines": [],
+        "removed_lines": [],
+        "classified_added_lines": []
+      },
+      "OnBuildingDescription": {
+        "plans_text": "De opmålte opvarmede arealer og BBR-arealer, samt opførelsestidspunkt og evt. renoveringstidspunkt, kan ses under baggrundsinformation.\n\nEjendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og XXX bygningstegninger. \n\nDe opmålte opvarmede arealer stemmer overens med BBR-meddelelsen. XXX\nDet opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen. XXX \nDet opmålte opvarmede areal stemmer ikke overens med BBR-meddelelsen. Afvigelsen består i XXX\n\n\nVed bygningsgennemgangen var der ikke adgang til XXX.\n\nFølgende rum XXX er uopvarmet. (vælg desuden en af nedenstående 2 muligheder XXX Slet dette)\n\nArealerne forudsættes jf. gældende Håndbog for energikonsulenter opvarmet med samme opvarmningsform som resten af bygningen, uanset at der ingen varmekilde er, da det vurderes at eksisterende varmeanlæg er tilstrækkelig til at kunne opvarme hele boligen  XXX\n\nArealerne forudsættes jf. gældende Håndbog for energikonsulenter som værende el-opvarmet, da det vurderes at eksisterende varmeanlæg ikke er tilstrækkelig til at kunne opvarme hele boligen. XXX\n\nHvis ikke andet er angivet, så er de faktuelle oplysninger i energimærket baseret på skøn ud fra hvad der visuelt kan konstateres. Oplysningerne er ikke en garanti og kan ikke betragtes som dette, men er angivet for at informere om hvad der er anvendt som grundlag for beregningen.",
+        "final_text": "De opmålte opvarmede arealer og BBR-arealer, samt opførelsestidspunkt og evt. renoveringstidspunkt, kan ses under baggrundsinformation.\n\nEjendommen er kontrolopmålt af energikonsulenten.\n\nDe opmålte opvarmede arealer stemmer overens med BBR-meddelelsen. \n\nHvis ikke andet er angivet, så er de faktuelle oplysninger i energimærket baseret på skøn ud fra hvad der visuelt kan konstateres. Oplysningerne er ikke en garanti og kan ikke betragtes som dette, men er angivet for at informere om hvad der er anvendt som grundlag for beregningen.",
+        "plans_chars": 1377,
+        "final_chars": 537,
+        "added_lines": [
+          "Ejendommen er kontrolopmålt af energikonsulenten.",
+          "De opmålte opvarmede arealer stemmer overens med BBR-meddelelsen."
+        ],
+        "removed_lines": [
+          "Ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og XXX bygningstegninger.",
+          "De opmålte opvarmede arealer stemmer overens med BBR-meddelelsen. XXX",
+          "Det opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen. XXX",
+          "Det opmålte opvarmede areal stemmer ikke overens med BBR-meddelelsen. Afvigelsen består i XXX",
+          "Ved bygningsgennemgangen var der ikke adgang til XXX.",
+          "Følgende rum XXX er uopvarmet. (vælg desuden en af nedenstående 2 muligheder XXX Slet dette)",
+          "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter opvarmet med samme opvarmningsform som resten af bygningen, uanset at der ingen varmekilde er, da det vurderes at eksisterende varmeanlæg er tilstrækkelig til at kunne opvarme hele boligen  XXX",
+          "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter som værende el-opvarmet, da det vurderes at eksisterende varmeanlæg ikke er tilstrækkelig til at kunne opvarme hele boligen. XXX"
+        ],
+        "classified_added_lines": [
+          {
+            "line": "Ejendommen er kontrolopmålt af energikonsulenten.",
+            "hits": []
+          },
+          {
+            "line": "De opmålte opvarmede arealer stemmer overens med BBR-meddelelsen.",
+            "hits": []
+          }
+        ]
+      },
+      "OnDestructiveInspections": {
+        "plans_text": "",
+        "final_text": "",
+        "plans_chars": 0,
+        "final_chars": 0,
+        "added_lines": [],
+        "removed_lines": [],
+        "classified_added_lines": []
+      }
+    }
+  },
+  {
+    "project": "Lunden_3_8464_Galten",
+    "plans_xml": "Lunden_3_8464_Galten.xml",
+    "final_xml": "Lunden_3_8464_Galten final.xml",
+    "json_path": "Lunden_3_8464_Galten.json",
+    "facts": {
+      "year_of_construction": "1969",
+      "year_of_renovation": "1976",
+      "dwelling_area": "146",
+      "commercial_area": "0",
+      "use_code": "120",
+      "building_type": "DetachedBuilding",
+      "building_type_da": "fritliggende enfamilieshus",
+      "floor_count": "1",
+      "housing_units": "1",
+      "json_constructed_year": "1969",
+      "json_renovated_year": "1976",
+      "json_dwelling_area": "146",
+      "json_heated_area": "146",
+      "json_roof_stories_area": "0",
+      "json_regular_stories_area": "146",
+      "json_basement_area": "0",
+      "json_number_of_stories": "1",
+      "json_building_type": "detachedHouse",
+      "json_building_type_da": "fritliggende enfamilieshus",
+      "json_story_types": [
+        "ground"
+      ],
+      "heat_source_raw": "districtHeating",
+      "heat_source_da": "Fjernvarme",
+      "json_stories_localised": [],
+      "json_room_count": 0,
+      "json_room_types": [],
+      "json_has_loft": false,
+      "json_has_basement": false,
+      "json_has_garage": false,
+      "json_has_workshop": false
+    },
+    "fields": {
+      "Additional": {
+        "plans_text": "Bygningsdelenes isoleringsevne er baseret på skøn ud fra registrerede isoleringstykkelser, og er heraf fastlagt ud fra tabeller i gældende håndbog for energikonsulenter, som sammen med gældende DS 418 og f.eks Rockwool Energy Design danner grundlag for beregninger af yderligere konstruktioner.\n\nDer gøres opmærksom på, at forslag vedr. efterisolering af bygningskonstruktioner som f.eks. gulve, lofter og vægge alene er beregnet ud fra et energimæssigt hensyn. Der er i forslagene ikke taget højde for byggetekniske konsekvenser af forslagene. \n\nDet anbefales generelt at kontakte en rådgiver/fagmand, for at få udarbejdet en detaljeret projektbeskrivelse før isolerings- og/eller ombygningsarbejder igangsættes. I forbindelse med rapportens forslag om energiforbedring af tekniske installationer, bør man altid søge teknisk sparring med en professionel rådgiver eller leverandør. I forhold til energimærkets gyldighedsperiode, vil både prisgrundlag og produktudviklingen kunne ændre sig en del, år for år.\n\nVed bygningsgennemgangen forelå udfyldt ejeroplysningsskema. XXX\nVed bygningsgennemgangen forelå ikke et udfyldt ejeroplysningsskema. Det forudsættes hermed, at der ikke er givet tilladelse til destruktive undersøgelser. XXX\n\nFølgende materiale var til rådighed for udarbejdelsen af energimærket:\nBygningstegninger XXX\nTidligere energimærkningsrapport af den XX-XX-XX, med energimærkningsnummer: XXX\nAndet XXX\n\nRenoveringstider, som fremgår ved \"Rentable forslag\", er estimerede tider.\n\nDet er vigtigt at være opmærksom på, at energimæssige forbedringer ikke kun har betydning for bygningens energiforbrug, men også for den daglige komfort, samt for en eventuel gensalgsværdi for ejendommen.  \n                                                                                                                                                                                                                                                               \nSvingende energipriser har ikke betydning for bygningers energimærke, men har indflydelse på energiøkonomien. \n\nVed høje energipriser kan værdien af besparelsesforslag blive større, hvilket betyder, at det kan give økonomisk mening at gennemføre flere forslag inklusiv forslag der kan være rentable, hvis de udføres sammen med andre renoveringer.\n\nVed lave energipriser kan værdien af besparelsesforslag blive mindre og/eller umiddelbart ikke økonomisk rentable. I forbindelse hermed, er det vigtigt at være opmærksom på, at energimæssige forbedringer ikke kun har betydning for bygningens energiforbrug, men også for den daglige komfort, samt for en eventuel gensalgsværdi for ejendommen.",
+        "final_text": "Ejendommen er oprindeligt fra 1969, med en tilbygning i 1976. Størstedelen af klimaskærmen, herunder gulve og ydervægge, står som ved opførelsen. Loftrummet er blevet efterisoleret og der er skiftet vinduer i hele ejendommen.\nDer kunne ved besigtigelsen ikke lokaliseres styring af gulvvarme i badeværelse. Men da gulvet var varmt er der ingen tvivl om der er gulvvarme.\n\nBygningsdelenes isoleringsevne er baseret på skøn ud fra registrerede isoleringstykkelser, og er heraf fastlagt ud fra tabeller i gældende håndbog for energikonsulenter, som sammen med gældende DS 418 og f.eks Rockwool Energy Design danner grundlag for beregninger af yderligere konstruktioner.\n\nDer gøres opmærksom på, at forslag vedr. efterisolering af bygningskonstruktioner som f.eks. gulve, lofter og vægge alene er beregnet ud fra et energimæssigt hensyn. Der er i forslagene ikke taget højde for byggetekniske konsekvenser af forslagene. \n\nDet anbefales generelt at kontakte en rådgiver/fagmand, for at få udarbejdet en detaljeret projektbeskrivelse før isolerings- og/eller ombygningsarbejder igangsættes. I forbindelse med rapportens forslag om energiforbedring af tekniske installationer, bør man altid søge teknisk sparring med en professionel rådgiver eller leverandør. I forhold til energimærkets gyldighedsperiode, vil både prisgrundlag og produktudviklingen kunne ændre sig en del, år for år.\n\nVed bygningsgennemgangen forelå udfyldt ejeroplysningsskema. \n\nFølgende materiale var til rådighed for udarbejdelsen af energimærket:\nBygningstegninger fra opførelsen og tilbygningen.\n\nRenoveringstider, som fremgår ved \"Rentable forslag\", er estimerede tider.\n\nDet er vigtigt at være opmærksom på, at energimæssige forbedringer ikke kun har betydning for bygningens energiforbrug, men også for den daglige komfort, samt for en eventuel gensalgsværdi for ejendommen.  \n                                                                                                                                                                                                                                                               \nSvingende energipriser har ikke betydning for bygningers energimærke, men har indflydelse på energiøkonomien. \n\nVed høje energipriser kan værdien af besparelsesforslag blive større, hvilket betyder, at det kan give økonomisk mening at gennemføre flere forslag inklusiv forslag der kan være rentable, hvis de udføres sammen med andre renoveringer.\n\nVed lave energipriser kan værdien af besparelsesforslag blive mindre og/eller umiddelbart ikke økonomisk rentable. I forbindelse hermed, er det vigtigt at være opmærksom på, at energimæssige forbedringer ikke kun har betydning for bygningens energiforbrug, men også for den daglige komfort, samt for en eventuel gensalgsværdi for ejendommen.",
+        "plans_chars": 2648,
+        "final_chars": 2794,
+        "added_lines": [
+          "Ejendommen er oprindeligt fra 1969, med en tilbygning i 1976. Størstedelen af klimaskærmen, herunder gulve og ydervægge, står som ved opførelsen. Loftrummet er blevet efterisoleret og der er skiftet vinduer i hele ejendommen.",
+          "Der kunne ved besigtigelsen ikke lokaliseres styring af gulvvarme i badeværelse. Men da gulvet var varmt er der ingen tvivl om der er gulvvarme.",
+          "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema.",
+          "Bygningstegninger fra opførelsen og tilbygningen."
+        ],
+        "removed_lines": [
+          "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema. XXX",
+          "Ved bygningsgennemgangen forelå ikke et udfyldt ejeroplysningsskema. Det forudsættes hermed, at der ikke er givet tilladelse til destruktive undersøgelser. XXX",
+          "Bygningstegninger XXX",
+          "Tidligere energimærkningsrapport af den XX-XX-XX, med energimærkningsnummer: XXX",
+          "Andet XXX"
+        ],
+        "classified_added_lines": [
+          {
+            "line": "Ejendommen er oprindeligt fra 1969, med en tilbygning i 1976. Størstedelen af klimaskærmen, herunder gulve og ydervægge, står som ved opførelsen. Loftrummet er blevet efterisoleret og der er skiftet vinduer i hele ejendommen.",
+            "hits": [
+              {
+                "category": "year",
+                "value": "1969",
+                "auto": "yes",
+                "source": "Plans BBR.YearOfConstruction / JSON building.constructedYear"
+              },
+              {
+                "category": "year",
+                "value": "1976",
+                "auto": "yes",
+                "source": "Plans BBR.YearOfRenovation / JSON building.renovatedYear"
+              },
+              {
+                "category": "room_feature",
+                "value": "loft",
+                "auto": "no",
+                "source": "?"
+              }
+            ]
+          },
+          {
+            "line": "Der kunne ved besigtigelsen ikke lokaliseres styring af gulvvarme i badeværelse. Men da gulvet var varmt er der ingen tvivl om der er gulvvarme.",
+            "hits": []
+          },
+          {
+            "line": "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema.",
+            "hits": []
+          },
+          {
+            "line": "Bygningstegninger fra opførelsen og tilbygningen.",
+            "hits": []
+          }
+        ]
+      },
+      "OnEnergyPrices": {
+        "plans_text": "Der er i energimærket anvendt aktuelle energipriser for alle brændselstyper fx olie, naturgas, brænde og træpiller.\n\nRapportens elpris er anvendt ud fra en gennemsnitsvurdering, da energipriserne varierer dagligt og i forhold til valg af leverandør.\n \nTil beregning af rapportens forbedringsforslag er der anvendt estimerede priser, der kan variere en del fra aktuelle tilbudspriser, afhængig af både regionale forhold og valg af leverandør. \nI forbindelse med rapportens forslag om energiforbedringer, bør man altid søge  sparring med en professionel rådgiver eller leverandør. \nI forhold til energimærkets gyldighedsperiode, vil både prisgrundlag og produktudviklingen kunne ændre sig en del, år for år.",
+        "final_text": "Fjernvarmeprisen er i denne rapport fastsat ud fra de tariffer, der var gældende ved energimærkningsrapportens officielle indberetningsdato. Fjernvarmeprisen stammer fra det konkrete fjernvarmeværk: Galten Varmeværk A.m.b.a. \n\nRapportens elpris er anvendt ud fra en gennemsnitsvurdering, da energipriserne varierer dagligt og i forhold til valg af leverandør.\n \nTil beregning af rapportens forbedringsforslag er der anvendt estimerede priser, der kan variere en del fra aktuelle tilbudspriser, afhængig af både regionale forhold og valg af leverandør. \nI forbindelse med rapportens forslag om energiforbedringer, bør man altid søge  sparring med en professionel rådgiver eller leverandør. \nI forhold til energimærkets gyldighedsperiode, vil både prisgrundlag og produktudviklingen kunne ændre sig en del, år for år.",
+        "plans_chars": 705,
+        "final_chars": 815,
+        "added_lines": [
+          "Fjernvarmeprisen er i denne rapport fastsat ud fra de tariffer, der var gældende ved energimærkningsrapportens officielle indberetningsdato. Fjernvarmeprisen stammer fra det konkrete fjernvarmeværk: Galten Varmeværk A.m.b.a."
+        ],
+        "removed_lines": [
+          "Der er i energimærket anvendt aktuelle energipriser for alle brændselstyper fx olie, naturgas, brænde og træpiller."
+        ],
+        "classified_added_lines": [
+          {
+            "line": "Fjernvarmeprisen er i denne rapport fastsat ud fra de tariffer, der var gældende ved energimærkningsrapportens officielle indberetningsdato. Fjernvarmeprisen stammer fra det konkrete fjernvarmeværk: Galten Varmeværk A.m.b.a.",
+            "hits": [
+              {
+                "category": "heat_source",
+                "value": "fjernvarme",
+                "auto": "yes",
+                "source": "JSON.heating.primarySource.sourceType"
+              }
+            ]
+          }
+        ]
+      },
+      "OnBuildingDescription": {
+        "plans_text": "De opmålte opvarmede arealer og BBR-arealer, samt opførelsestidspunkt og evt. renoveringstidspunkt, kan ses under baggrundsinformation.\n\nEjendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og XXX bygningstegninger. \n\nDe opmålte opvarmede arealer stemmer overens med BBR-meddelelsen. XXX\nDet opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen. XXX \nDet opmålte opvarmede areal stemmer ikke overens med BBR-meddelelsen. Afvigelsen består i XXX\n\n\nVed bygningsgennemgangen var der ikke adgang til XXX.\n\nFølgende rum XXX er uopvarmet. (vælg desuden en af nedenstående 2 muligheder XXX Slet dette)\n\nArealerne forudsættes jf. gældende Håndbog for energikonsulenter opvarmet med samme opvarmningsform som resten af bygningen, uanset at der ingen varmekilde er, da det vurderes at eksisterende varmeanlæg er tilstrækkelig til at kunne opvarme hele boligen  XXX\n\nArealerne forudsættes jf. gældende Håndbog for energikonsulenter som værende el-opvarmet, da det vurderes at eksisterende varmeanlæg ikke er tilstrækkelig til at kunne opvarme hele boligen. XXX\n\nHvis ikke andet er angivet, så er de faktuelle oplysninger i energimærket baseret på skøn ud fra hvad der visuelt kan konstateres. Oplysningerne er ikke en garanti og kan ikke betragtes som dette, men er angivet for at informere om hvad der er anvendt som grundlag for beregningen.",
+        "final_text": "De opmålte opvarmede arealer og BBR-arealer, samt opførelsestidspunkt og evt. renoveringstidspunkt, kan ses under baggrundsinformation.\n\nEjendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og bygningstegninger. \n\nDet opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen, hvilket skønnes den oprindelige del er både lidt kortere og smallere end oplyst i tegningsmateriale.\n\nHvis ikke andet er angivet, så er de faktuelle oplysninger i energimærket baseret på skøn ud fra hvad der visuelt kan konstateres. Oplysningerne er ikke en garanti og kan ikke betragtes som dette, men er angivet for at informere om hvad der er anvendt som grundlag for beregningen.",
+        "plans_chars": 1377,
+        "final_chars": 700,
+        "added_lines": [
+          "Ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og bygningstegninger.",
+          "Det opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen, hvilket skønnes den oprindelige del er både lidt kortere og smallere end oplyst i tegningsmateriale."
+        ],
+        "removed_lines": [
+          "Ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og XXX bygningstegninger.",
+          "De opmålte opvarmede arealer stemmer overens med BBR-meddelelsen. XXX",
+          "Det opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen. XXX",
+          "Det opmålte opvarmede areal stemmer ikke overens med BBR-meddelelsen. Afvigelsen består i XXX",
+          "Ved bygningsgennemgangen var der ikke adgang til XXX.",
+          "Følgende rum XXX er uopvarmet. (vælg desuden en af nedenstående 2 muligheder XXX Slet dette)",
+          "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter opvarmet med samme opvarmningsform som resten af bygningen, uanset at der ingen varmekilde er, da det vurderes at eksisterende varmeanlæg er tilstrækkelig til at kunne opvarme hele boligen  XXX",
+          "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter som værende el-opvarmet, da det vurderes at eksisterende varmeanlæg ikke er tilstrækkelig til at kunne opvarme hele boligen. XXX"
+        ],
+        "classified_added_lines": [
+          {
+            "line": "Ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og bygningstegninger.",
+            "hits": []
+          },
+          {
+            "line": "Det opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen, hvilket skønnes den oprindelige del er både lidt kortere og smallere end oplyst i tegningsmateriale.",
+            "hits": []
+          }
+        ]
+      },
+      "OnDestructiveInspections": {
+        "plans_text": "",
+        "final_text": "",
+        "plans_chars": 0,
+        "final_chars": 0,
+        "added_lines": [],
+        "removed_lines": [],
+        "classified_added_lines": []
+      }
+    }
+  },
+  {
+    "project": "Lungstedløkken_15_5250_Odense_SV",
+    "plans_xml": "Lungstedløkken_15_5250_Odense_SV.xml",
+    "final_xml": "Lungstedløkken_15_5250_Odense_SV final.xml",
+    "json_path": "Lungstedløkken_15_5250_Odense_SV.json",
+    "facts": {
+      "year_of_construction": "1976",
+      "year_of_renovation": "1984",
+      "dwelling_area": "177",
+      "commercial_area": "0",
+      "use_code": "120",
+      "building_type": "DetachedBuilding",
+      "building_type_da": "fritliggende enfamilieshus",
+      "floor_count": "1",
+      "housing_units": "1",
+      "json_constructed_year": "1976",
+      "json_renovated_year": "1984",
+      "json_dwelling_area": "177",
+      "json_heated_area": "177",
+      "json_roof_stories_area": "77",
+      "json_regular_stories_area": "100",
+      "json_basement_area": "0",
+      "json_number_of_stories": "1",
+      "json_building_type": "detachedHouse",
+      "json_building_type_da": "fritliggende enfamilieshus",
+      "json_story_types": [
+        "first",
+        "ground"
+      ],
+      "heat_source_raw": "districtHeating",
+      "heat_source_da": "Fjernvarme",
+      "json_stories_localised": [],
+      "json_room_count": 0,
+      "json_room_types": [],
+      "json_has_loft": false,
+      "json_has_basement": false,
+      "json_has_garage": false,
+      "json_has_workshop": false
+    },
+    "fields": {
+      "Additional": {
+        "plans_text": "Bygningsdelenes isoleringsevne er baseret på skøn ud fra registrerede isoleringstykkelser, og er heraf fastlagt ud fra tabeller i gældende håndbog for energikonsulenter, som sammen med gældende DS 418 og f.eks Rockwool Energy Design danner grundlag for beregninger af yderligere konstruktioner.\n\nDer gøres opmærksom på, at forslag vedr. efterisolering af bygningskonstruktioner som f.eks. gulve, lofter og vægge alene er beregnet ud fra et energimæssigt hensyn. Der er i forslagene ikke taget højde for byggetekniske konsekvenser af forslagene. \n\nDet anbefales generelt at kontakte en rådgiver/fagmand, for at få udarbejdet en detaljeret projektbeskrivelse før isolerings- og/eller ombygningsarbejder igangsættes. I forbindelse med rapportens forslag om energiforbedring af tekniske installationer, bør man altid søge teknisk sparring med en professionel rådgiver eller leverandør. I forhold til energimærkets gyldighedsperiode, vil både prisgrundlag og produktudviklingen kunne ændre sig en del, år for år.\n\nVed bygningsgennemgangen forelå udfyldt ejeroplysningsskema. XXX\nVed bygningsgennemgangen forelå ikke et udfyldt ejeroplysningsskema. Det forudsættes hermed, at der ikke er givet tilladelse til destruktive undersøgelser. XXX\n\nFølgende materiale var til rådighed for udarbejdelsen af energimærket:\nBygningstegninger XXX\nTidligere energimærkningsrapport af den XX-XX-XX, med energimærkningsnummer: XXX\nAndet XXX\n\nRenoveringstider, som fremgår ved \"Rentable forslag\", er estimerede tider.\n\nDet er vigtigt at være opmærksom på, at energimæssige forbedringer ikke kun har betydning for bygningens energiforbrug, men også for den daglige komfort, samt for en eventuel gensalgsværdi for ejendommen.  \n                                                                                                                                                                                                                                                               \nSvingende energipriser har ikke betydning for bygningers energimærke, men har indflydelse på energiøkonomien. \n\nVed høje energipriser kan værdien af besparelsesforslag blive større, hvilket betyder, at det kan give økonomisk mening at gennemføre flere forslag inklusiv forslag der kan være rentable, hvis de udføres sammen med andre renoveringer.\n\nVed lave energipriser kan værdien af besparelsesforslag blive mindre og/eller umiddelbart ikke økonomisk rentable. I forbindelse hermed, er det vigtigt at være opmærksom på, at energimæssige forbedringer ikke kun har betydning for bygningens energiforbrug, men også for den daglige komfort, samt for en eventuel gensalgsværdi for ejendommen.",
+        "final_text": "Bygningsdelenes isoleringsevne er baseret på skøn ud fra registrerede isoleringstykkelser, og er heraf fastlagt ud fra tabeller i gældende håndbog for energikonsulenter, som sammen med gældende DS 418 og f.eks Rockwool Energy Design danner grundlag for beregninger af yderligere konstruktioner.\n\nDer gøres opmærksom på, at forslag vedr. efterisolering af bygningskonstruktioner som f.eks. gulve, lofter og vægge alene er beregnet ud fra et energimæssigt hensyn. Der er i forslagene ikke taget højde for byggetekniske konsekvenser af forslagene. \n\nDet anbefales generelt at kontakte en rådgiver/fagmand, for at få udarbejdet en detaljeret projektbeskrivelse før isolerings- og/eller ombygningsarbejder igangsættes. I forbindelse med rapportens forslag om energiforbedring af tekniske installationer, bør man altid søge teknisk sparring med en professionel rådgiver eller leverandør. I forhold til energimærkets gyldighedsperiode, vil både prisgrundlag og produktudviklingen kunne ændre sig en del, år for år.\n\nVed bygningsgennemgangen forelå udfyldt ejeroplysningsskema. \n\nFølgende materiale var til rådighed for udarbejdelsen af energimærket:\nBygningstegninger fra opførelsen dateret 1976.\nTidligere energimærkningsrapport af den 22-03-16, med energimærkningsnummer: 311166410\n\nRenoveringstider, som fremgår ved \"Rentable forslag\", er estimerede tider.\n\nDet er vigtigt at være opmærksom på, at energimæssige forbedringer ikke kun har betydning for bygningens energiforbrug, men også for den daglige komfort, samt for en eventuel gensalgsværdi for ejendommen.  \n                                                                                                                                                                                                                                                               \nSvingende energipriser har ikke betydning for bygningers energimærke, men har indflydelse på energiøkonomien. \n\nVed høje energipriser kan værdien af besparelsesforslag blive større, hvilket betyder, at det kan give økonomisk mening at gennemføre flere forslag inklusiv forslag der kan være rentable, hvis de udføres sammen med andre renoveringer.\n\nVed lave energipriser kan værdien af besparelsesforslag blive mindre og/eller umiddelbart ikke økonomisk rentable. I forbindelse hermed, er det vigtigt at være opmærksom på, at energimæssige forbedringer ikke kun har betydning for bygningens energiforbrug, men også for den daglige komfort, samt for en eventuel gensalgsværdi for ejendommen.",
+        "plans_chars": 2648,
+        "final_chars": 2506,
+        "added_lines": [
+          "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema.",
+          "Bygningstegninger fra opførelsen dateret 1976.",
+          "Tidligere energimærkningsrapport af den 22-03-16, med energimærkningsnummer: 311166410"
+        ],
+        "removed_lines": [
+          "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema. XXX",
+          "Ved bygningsgennemgangen forelå ikke et udfyldt ejeroplysningsskema. Det forudsættes hermed, at der ikke er givet tilladelse til destruktive undersøgelser. XXX",
+          "Bygningstegninger XXX",
+          "Tidligere energimærkningsrapport af den XX-XX-XX, med energimærkningsnummer: XXX",
+          "Andet XXX"
+        ],
+        "classified_added_lines": [
+          {
+            "line": "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema.",
+            "hits": []
+          },
+          {
+            "line": "Bygningstegninger fra opførelsen dateret 1976.",
+            "hits": [
+              {
+                "category": "year",
+                "value": "1976",
+                "auto": "yes",
+                "source": "Plans BBR.YearOfConstruction / JSON building.constructedYear"
+              }
+            ]
+          },
+          {
+            "line": "Tidligere energimærkningsrapport af den 22-03-16, med energimærkningsnummer: 311166410",
+            "hits": []
+          }
+        ]
+      },
+      "OnEnergyPrices": {
+        "plans_text": "Der er i energimærket anvendt aktuelle energipriser for alle brændselstyper fx olie, naturgas, brænde og træpiller.\n\nRapportens elpris er anvendt ud fra en gennemsnitsvurdering, da energipriserne varierer dagligt og i forhold til valg af leverandør.\n \nTil beregning af rapportens forbedringsforslag er der anvendt estimerede priser, der kan variere en del fra aktuelle tilbudspriser, afhængig af både regionale forhold og valg af leverandør. \nI forbindelse med rapportens forslag om energiforbedringer, bør man altid søge  sparring med en professionel rådgiver eller leverandør. \nI forhold til energimærkets gyldighedsperiode, vil både prisgrundlag og produktudviklingen kunne ændre sig en del, år for år.",
+        "final_text": "Rapportens elpris er anvendt ud fra en gennemsnitsvurdering, da energipriserne varierer dagligt og i forhold til valg af leverandør.\n \nTil beregning af rapportens forbedringsforslag er der anvendt estimerede priser, der kan variere en del fra aktuelle tilbudspriser, afhængig af både regionale forhold og valg af leverandør. \nI forbindelse med rapportens forslag om energiforbedringer, bør man altid søge  sparring med en professionel rådgiver eller leverandør. \nI forhold til energimærkets gyldighedsperiode, vil både prisgrundlag og produktudviklingen kunne ændre sig en del, år for år.\n\nFjernvarmeprisen er i denne rapport fastsat ud fra de tariffer, der var gældende ved energimærkningsrapportens officielle indberetningsdato. Fjernvarmeprisen stammer fra det konkrete fjernvarmeværk: Fjernvarme Fyn.",
+        "plans_chars": 705,
+        "final_chars": 804,
+        "added_lines": [
+          "Fjernvarmeprisen er i denne rapport fastsat ud fra de tariffer, der var gældende ved energimærkningsrapportens officielle indberetningsdato. Fjernvarmeprisen stammer fra det konkrete fjernvarmeværk: Fjernvarme Fyn."
+        ],
+        "removed_lines": [
+          "Der er i energimærket anvendt aktuelle energipriser for alle brændselstyper fx olie, naturgas, brænde og træpiller."
+        ],
+        "classified_added_lines": [
+          {
+            "line": "Fjernvarmeprisen er i denne rapport fastsat ud fra de tariffer, der var gældende ved energimærkningsrapportens officielle indberetningsdato. Fjernvarmeprisen stammer fra det konkrete fjernvarmeværk: Fjernvarme Fyn.",
+            "hits": [
+              {
+                "category": "heat_source",
+                "value": "fjernvarme",
+                "auto": "yes",
+                "source": "JSON.heating.primarySource.sourceType"
+              }
+            ]
+          }
+        ]
+      },
+      "OnBuildingDescription": {
+        "plans_text": "De opmålte opvarmede arealer og BBR-arealer, samt opførelsestidspunkt og evt. renoveringstidspunkt, kan ses under baggrundsinformation.\n\nEjendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og XXX bygningstegninger. \n\nDe opmålte opvarmede arealer stemmer overens med BBR-meddelelsen. XXX\nDet opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen. XXX \nDet opmålte opvarmede areal stemmer ikke overens med BBR-meddelelsen. Afvigelsen består i XXX\n\n\nVed bygningsgennemgangen var der ikke adgang til XXX.\n\nFølgende rum XXX er uopvarmet. (vælg desuden en af nedenstående 2 muligheder XXX Slet dette)\n\nArealerne forudsættes jf. gældende Håndbog for energikonsulenter opvarmet med samme opvarmningsform som resten af bygningen, uanset at der ingen varmekilde er, da det vurderes at eksisterende varmeanlæg er tilstrækkelig til at kunne opvarme hele boligen  XXX\n\nArealerne forudsættes jf. gældende Håndbog for energikonsulenter som værende el-opvarmet, da det vurderes at eksisterende varmeanlæg ikke er tilstrækkelig til at kunne opvarme hele boligen. XXX\n\nHvis ikke andet er angivet, så er de faktuelle oplysninger i energimærket baseret på skøn ud fra hvad der visuelt kan konstateres. Oplysningerne er ikke en garanti og kan ikke betragtes som dette, men er angivet for at informere om hvad der er anvendt som grundlag for beregningen.",
+        "final_text": "Bygningen er et fritliggende enfamilieshus med 77 m² udnyttet tagetage, opført i 1976, med et opvarmet areal på 177 m².  Ejendommen har gennemgået diverse isoleringsarbejde gennem tiden.\n\nDe opmålte opvarmede arealer og BBR-arealer, samt opførelsestidspunkt og evt. renoveringstidspunkt, kan ses under baggrundsinformation.\n\nEjendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og bygningstegninger. \n\nDet opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen. Overetagen er opmålt lidt mindre. Skønnes at være grundet tagterrasse er medregnet i beboelse.\n\nHvis ikke andet er angivet, så er de faktuelle oplysninger i energimærket baseret på skøn ud fra hvad der visuelt kan konstateres. Oplysningerne er ikke en garanti og kan ikke betragtes som dette, men er angivet for at informere om hvad der er anvendt som grundlag for beregningen.",
+        "plans_chars": 1377,
+        "final_chars": 882,
+        "added_lines": [
+          "Bygningen er et fritliggende enfamilieshus med 77 m² udnyttet tagetage, opført i 1976, med et opvarmet areal på 177 m².  Ejendommen har gennemgået diverse isoleringsarbejde gennem tiden.",
+          "Ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og bygningstegninger.",
+          "Det opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen. Overetagen er opmålt lidt mindre. Skønnes at være grundet tagterrasse er medregnet i beboelse."
+        ],
+        "removed_lines": [
+          "Ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og XXX bygningstegninger.",
+          "De opmålte opvarmede arealer stemmer overens med BBR-meddelelsen. XXX",
+          "Det opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen. XXX",
+          "Det opmålte opvarmede areal stemmer ikke overens med BBR-meddelelsen. Afvigelsen består i XXX",
+          "Ved bygningsgennemgangen var der ikke adgang til XXX.",
+          "Følgende rum XXX er uopvarmet. (vælg desuden en af nedenstående 2 muligheder XXX Slet dette)",
+          "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter opvarmet med samme opvarmningsform som resten af bygningen, uanset at der ingen varmekilde er, da det vurderes at eksisterende varmeanlæg er tilstrækkelig til at kunne opvarme hele boligen  XXX",
+          "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter som værende el-opvarmet, da det vurderes at eksisterende varmeanlæg ikke er tilstrækkelig til at kunne opvarme hele boligen. XXX"
+        ],
+        "classified_added_lines": [
+          {
+            "line": "Bygningen er et fritliggende enfamilieshus med 77 m² udnyttet tagetage, opført i 1976, med et opvarmet areal på 177 m².  Ejendommen har gennemgået diverse isoleringsarbejde gennem tiden.",
+            "hits": [
+              {
+                "category": "year",
+                "value": "1976",
+                "auto": "yes",
+                "source": "Plans BBR.YearOfConstruction / JSON building.constructedYear"
+              },
+              {
+                "category": "area",
+                "value": "77 m²",
+                "auto": "yes",
+                "source": "JSON building.roofStoriesAreaSquareMeters"
+              },
+              {
+                "category": "area",
+                "value": "177 m²",
+                "auto": "yes",
+                "source": "Plans BBR.DwellingArea"
+              },
+              {
+                "category": "building_type",
+                "value": "fritliggende enfamilieshus",
+                "auto": "yes",
+                "source": "Plans Zone.BuildingType"
+              },
+              {
+                "category": "room_feature",
+                "value": "tagetage",
+                "auto": "yes",
+                "source": "JSON building.roofStoriesAreaSquareMeters>0"
+              }
+            ]
+          },
+          {
+            "line": "Ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og bygningstegninger.",
+            "hits": []
+          },
+          {
+            "line": "Det opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen. Overetagen er opmålt lidt mindre. Skønnes at være grundet tagterrasse er medregnet i beboelse.",
+            "hits": [
+              {
+                "category": "room_feature",
+                "value": "tagterrasse",
+                "auto": "no",
+                "source": "?"
+              }
+            ]
+          }
+        ]
+      },
+      "OnDestructiveInspections": {
+        "plans_text": "",
+        "final_text": "",
+        "plans_chars": 0,
+        "final_chars": 0,
+        "added_lines": [],
+        "removed_lines": [],
+        "classified_added_lines": []
+      }
+    }
+  },
+  {
+    "project": "Møllehøj_15_6400_Sønderborg",
+    "plans_xml": "Møllehøj_15_6400_Sønderborg plans.xml",
+    "final_xml": "Møllehøj_15_6400_Sønderborg final.xml",
+    "json_path": "Møllehøj_15_6400_Sønderborg.json",
+    "facts": {
+      "year_of_construction": "2008",
+      "year_of_renovation": null,
+      "dwelling_area": "135",
+      "commercial_area": "0",
+      "use_code": "120",
+      "building_type": "DetachedBuilding",
+      "building_type_da": "fritliggende enfamilieshus",
+      "floor_count": "1",
+      "housing_units": "1",
+      "json_constructed_year": "2008",
+      "json_renovated_year": null,
+      "json_dwelling_area": "135",
+      "json_heated_area": "135",
+      "json_roof_stories_area": "0",
+      "json_regular_stories_area": "135",
+      "json_basement_area": "0",
+      "json_number_of_stories": "1",
+      "json_building_type": "detachedHouse",
+      "json_building_type_da": "fritliggende enfamilieshus",
+      "json_story_types": [
+        "ground"
+      ],
+      "heat_source_raw": "naturalGasBoiler",
+      "heat_source_da": "naturalGasBoiler",
+      "json_stories_localised": [],
+      "json_room_count": 0,
+      "json_room_types": [],
+      "json_has_loft": false,
+      "json_has_basement": false,
+      "json_has_garage": false,
+      "json_has_workshop": false
+    },
+    "fields": {
+      "Additional": {
+        "plans_text": "Bygningsdelenes isoleringsevne er baseret på skøn ud fra registrerede isoleringstykkelser, og er heraf fastlagt ud fra tabeller i gældende håndbog for energikonsulenter, som sammen med gældende DS 418 og f.eks Rockwool Energy Design danner grundlag for beregninger af yderligere konstruktioner.\n\nDer gøres opmærksom på, at forslag vedr. efterisolering af bygningskonstruktioner som f.eks. gulve, lofter og vægge alene er beregnet ud fra et energimæssigt hensyn. Der er i forslagene ikke taget højde for byggetekniske konsekvenser af forslagene. \n\nDet anbefales generelt at kontakte en rådgiver/fagmand, for at få udarbejdet en detaljeret projektbeskrivelse før isolerings- og/eller ombygningsarbejder igangsættes. I forbindelse med rapportens forslag om energiforbedring af tekniske installationer, bør man altid søge teknisk sparring med en professionel rådgiver eller leverandør. I forhold til energimærkets gyldighedsperiode, vil både prisgrundlag og produktudviklingen kunne ændre sig en del, år for år.\n\nVed bygningsgennemgangen forelå udfyldt ejeroplysningsskema. XXX\nVed bygningsgennemgangen forelå ikke et udfyldt ejeroplysningsskema. Det forudsættes hermed, at der ikke er givet tilladelse til destruktive undersøgelser. XXX\n\nFølgende materiale var til rådighed for udarbejdelsen af energimærket:\nBygningstegninger XXX\nTidligere energimærkningsrapport af den XX-XX-XX, med energimærkningsnummer: XXX\nAndet XXX\n\nRenoveringstider, som fremgår ved \"Rentable forslag\", er estimerede tider.\n\nDet er vigtigt at være opmærksom på, at energimæssige forbedringer ikke kun har betydning for bygningens energiforbrug, men også for den daglige komfort, samt for en eventuel gensalgsværdi for ejendommen.  \n                                                                                                                                                                                                                                                               \nSvingende energipriser har ikke betydning for bygningers energimærke, men har indflydelse på energiøkonomien. \n\nVed høje energipriser kan værdien af besparelsesforslag blive større, hvilket betyder, at det kan give økonomisk mening at gennemføre flere forslag inklusiv forslag der kan være rentable, hvis de udføres sammen med andre renoveringer.\n\nVed lave energipriser kan værdien af besparelsesforslag blive mindre og/eller umiddelbart ikke økonomisk rentable. I forbindelse hermed, er det vigtigt at være opmærksom på, at energimæssige forbedringer ikke kun har betydning for bygningens energiforbrug, men også for den daglige komfort, samt for en eventuel gensalgsværdi for ejendommen.",
+        "final_text": "Bygningsdelenes isoleringsevne er baseret på skøn ud fra registrerede isoleringstykkelser, og er heraf fastlagt ud fra tabeller i gældende håndbog for energikonsulenter, som sammen med gældende DS 418 og f.eks Rockwool Energy Design danner grundlag for beregninger af yderligere konstruktioner.\n\nDer gøres opmærksom på, at forslag vedr. efterisolering af bygningskonstruktioner som f.eks. gulve, lofter og vægge alene er beregnet ud fra et energimæssigt hensyn. Der er i forslagene ikke taget højde for byggetekniske konsekvenser af forslagene. \n\nDet anbefales generelt at kontakte en rådgiver/fagmand, for at få udarbejdet en detaljeret projektbeskrivelse før isolerings- og/eller ombygningsarbejder igangsættes. I forbindelse med rapportens forslag om energiforbedring af tekniske installationer, bør man altid søge teknisk sparring med en professionel rådgiver eller leverandør. I forhold til energimærkets gyldighedsperiode, vil både prisgrundlag og produktudviklingen kunne ændre sig en del, år for år.\n\nFølgende materiale var til rådighed for udarbejdelsen af energimærket:\nUdfyldt ejeroplysningsskema.\nSnit- og plantegninger fra 2008.\n\nVed bygningsgennemgangen forelå der ingen tegningsmateriale eller bygningsbeskrivelser.\n\nRenoveringstider, som fremgår ved \"Rentable forslag\", er estimerede tider.\n\nDet er vigtigt at være opmærksom på, at energimæssige forbedringer ikke kun har betydning for bygningens energiforbrug, men også for den daglige komfort, samt for en eventuel gensalgsværdi for ejendommen.  \n                                                                                                                                                                                                                                                               \nSvingende energipriser har ikke betydning for bygningers energimærke, men har indflydelse på energiøkonomien. \n\nVed høje energipriser kan værdien af besparelsesforslag blive større, hvilket betyder, at det kan give økonomisk mening at gennemføre flere forslag inklusiv forslag der kan være rentable, hvis de udføres sammen med andre renoveringer.\n\nVed lave energipriser kan værdien af besparelsesforslag blive mindre og/eller umiddelbart ikke økonomisk rentable. I forbindelse hermed, er det vigtigt at være opmærksom på, at energimæssige forbedringer ikke kun har betydning for bygningens energiforbrug, men også for den daglige komfort, samt for en eventuel gensalgsværdi for ejendommen.\n\nDet oplyste varmeforbrug stammer fra ejer, og er udelukkende oplyst i kr., hvorfor der ved enheder fremgår 0.\nUdgifter til oplyst varmeforbrug er registeret som variable udgifter, da der ikke foreligger en opgørelse, hvor de faste udgifter er udspecificeret.",
+        "plans_chars": 2648,
+        "final_chars": 2720,
+        "added_lines": [
+          "Udfyldt ejeroplysningsskema.",
+          "Snit- og plantegninger fra 2008.",
+          "Ved bygningsgennemgangen forelå der ingen tegningsmateriale eller bygningsbeskrivelser.",
+          "Det oplyste varmeforbrug stammer fra ejer, og er udelukkende oplyst i kr., hvorfor der ved enheder fremgår 0.",
+          "Udgifter til oplyst varmeforbrug er registeret som variable udgifter, da der ikke foreligger en opgørelse, hvor de faste udgifter er udspecificeret."
+        ],
+        "removed_lines": [
+          "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema. XXX",
+          "Ved bygningsgennemgangen forelå ikke et udfyldt ejeroplysningsskema. Det forudsættes hermed, at der ikke er givet tilladelse til destruktive undersøgelser. XXX",
+          "Bygningstegninger XXX",
+          "Tidligere energimærkningsrapport af den XX-XX-XX, med energimærkningsnummer: XXX",
+          "Andet XXX"
+        ],
+        "classified_added_lines": [
+          {
+            "line": "Udfyldt ejeroplysningsskema.",
+            "hits": []
+          },
+          {
+            "line": "Snit- og plantegninger fra 2008.",
+            "hits": [
+              {
+                "category": "year",
+                "value": "2008",
+                "auto": "yes",
+                "source": "Plans BBR.YearOfConstruction / JSON building.constructedYear"
+              }
+            ]
+          },
+          {
+            "line": "Ved bygningsgennemgangen forelå der ingen tegningsmateriale eller bygningsbeskrivelser.",
+            "hits": []
+          },
+          {
+            "line": "Det oplyste varmeforbrug stammer fra ejer, og er udelukkende oplyst i kr., hvorfor der ved enheder fremgår 0.",
+            "hits": []
+          },
+          {
+            "line": "Udgifter til oplyst varmeforbrug er registeret som variable udgifter, da der ikke foreligger en opgørelse, hvor de faste udgifter er udspecificeret.",
+            "hits": []
+          }
+        ]
+      },
+      "OnEnergyPrices": {
+        "plans_text": "Der er i energimærket anvendt aktuelle energipriser for alle brændselstyper fx olie, naturgas, brænde og træpiller.\n\nRapportens elpris er anvendt ud fra en gennemsnitsvurdering, da energipriserne varierer dagligt og i forhold til valg af leverandør.\n \nTil beregning af rapportens forbedringsforslag er der anvendt estimerede priser, der kan variere en del fra aktuelle tilbudspriser, afhængig af både regionale forhold og valg af leverandør. \nI forbindelse med rapportens forslag om energiforbedringer, bør man altid søge  sparring med en professionel rådgiver eller leverandør. \nI forhold til energimærkets gyldighedsperiode, vil både prisgrundlag og produktudviklingen kunne ændre sig en del, år for år.",
+        "final_text": "Der er i energimærket anvendt aktuelle energipriser for alle brændselstyper fx olie, naturgas, brænde og træpiller.\n\nRapportens elpris er anvendt ud fra en gennemsnitsvurdering, da energipriserne varierer dagligt og i forhold til valg af leverandør.\n \nTil beregning af rapportens forbedringsforslag er der anvendt estimerede priser, der kan variere en del fra aktuelle tilbudspriser, afhængig af både regionale forhold og valg af leverandør. \nI forbindelse med rapportens forslag om energiforbedringer, bør man altid søge  sparring med en professionel rådgiver eller leverandør. \nI forhold til energimærkets gyldighedsperiode, vil både prisgrundlag og produktudviklingen kunne ændre sig en del, år for år.",
+        "plans_chars": 705,
+        "final_chars": 705,
+        "added_lines": [],
+        "removed_lines": [],
+        "classified_added_lines": []
+      },
+      "OnBuildingDescription": {
+        "plans_text": "De opmålte opvarmede arealer og BBR-arealer, samt opførelsestidspunkt og evt. renoveringstidspunkt, kan ses under baggrundsinformation.\n\nEjendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og XXX bygningstegninger. \n\nDe opmålte opvarmede arealer stemmer overens med BBR-meddelelsen. XXX\nDet opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen. XXX \nDet opmålte opvarmede areal stemmer ikke overens med BBR-meddelelsen. Afvigelsen består i XXX\n\n\nVed bygningsgennemgangen var der ikke adgang til XXX.\n\nFølgende rum XXX er uopvarmet. (vælg desuden en af nedenstående 2 muligheder XXX Slet dette)\n\nArealerne forudsættes jf. gældende Håndbog for energikonsulenter opvarmet med samme opvarmningsform som resten af bygningen, uanset at der ingen varmekilde er, da det vurderes at eksisterende varmeanlæg er tilstrækkelig til at kunne opvarme hele boligen  XXX\n\nArealerne forudsættes jf. gældende Håndbog for energikonsulenter som værende el-opvarmet, da det vurderes at eksisterende varmeanlæg ikke er tilstrækkelig til at kunne opvarme hele boligen. XXX\n\nHvis ikke andet er angivet, så er de faktuelle oplysninger i energimærket baseret på skøn ud fra hvad der visuelt kan konstateres. Oplysningerne er ikke en garanti og kan ikke betragtes som dette, men er angivet for at informere om hvad der er anvendt som grundlag for beregningen.",
+        "final_text": "Bygningen er et fritliggende enfamilieshus, opført i 2008 med et opvarmet areal på 133 m². Ejendommen er traditionelt isoleret udfra det gældende bygningsreglement på opførelsestidspunktet. \n\nDet opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen.  \nDet samlede boligareal i BBR-Oversigt er angivet til 135 m². I henhold til vor opmåling er opvarmet areal 133 m².\n\nDe opmålte opvarmede arealer og BBR-arealer, samt opførelsestidspunkt og evt. renoveringstidspunkt, kan ses under baggrundsinformation.\n\nUdestuen er ikke medregnet i det opvarmede areal jf. ”Håndbog for energikonsulenter”, da den er uopvarmet.",
+        "plans_chars": 1377,
+        "final_chars": 641,
+        "added_lines": [
+          "Bygningen er et fritliggende enfamilieshus, opført i 2008 med et opvarmet areal på 133 m². Ejendommen er traditionelt isoleret udfra det gældende bygningsreglement på opførelsestidspunktet.",
+          "Det opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen.",
+          "Det samlede boligareal i BBR-Oversigt er angivet til 135 m². I henhold til vor opmåling er opvarmet areal 133 m².",
+          "Udestuen er ikke medregnet i det opvarmede areal jf. ”Håndbog for energikonsulenter”, da den er uopvarmet."
+        ],
+        "removed_lines": [
+          "Ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og XXX bygningstegninger.",
+          "De opmålte opvarmede arealer stemmer overens med BBR-meddelelsen. XXX",
+          "Det opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen. XXX",
+          "Det opmålte opvarmede areal stemmer ikke overens med BBR-meddelelsen. Afvigelsen består i XXX",
+          "Ved bygningsgennemgangen var der ikke adgang til XXX.",
+          "Følgende rum XXX er uopvarmet. (vælg desuden en af nedenstående 2 muligheder XXX Slet dette)",
+          "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter opvarmet med samme opvarmningsform som resten af bygningen, uanset at der ingen varmekilde er, da det vurderes at eksisterende varmeanlæg er tilstrækkelig til at kunne opvarme hele boligen  XXX",
+          "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter som værende el-opvarmet, da det vurderes at eksisterende varmeanlæg ikke er tilstrækkelig til at kunne opvarme hele boligen. XXX",
+          "Hvis ikke andet er angivet, så er de faktuelle oplysninger i energimærket baseret på skøn ud fra hvad der visuelt kan konstateres. Oplysningerne er ikke en garanti og kan ikke betragtes som dette, men er angivet for at informere om hvad der er anvendt som grundlag for beregningen."
+        ],
+        "classified_added_lines": [
+          {
+            "line": "Bygningen er et fritliggende enfamilieshus, opført i 2008 med et opvarmet areal på 133 m². Ejendommen er traditionelt isoleret udfra det gældende bygningsreglement på opførelsestidspunktet.",
+            "hits": [
+              {
+                "category": "year",
+                "value": "2008",
+                "auto": "yes",
+                "source": "Plans BBR.YearOfConstruction / JSON building.constructedYear"
+              },
+              {
+                "category": "area",
+                "value": "133 m²",
+                "auto": "no",
+                "source": "?"
+              },
+              {
+                "category": "building_type",
+                "value": "fritliggende enfamilieshus",
+                "auto": "yes",
+                "source": "Plans Zone.BuildingType"
+              }
+            ]
+          },
+          {
+            "line": "Det opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen.",
+            "hits": []
+          },
+          {
+            "line": "Det samlede boligareal i BBR-Oversigt er angivet til 135 m². I henhold til vor opmåling er opvarmet areal 133 m².",
+            "hits": [
+              {
+                "category": "area",
+                "value": "135 m²",
+                "auto": "yes",
+                "source": "Plans BBR.DwellingArea"
+              },
+              {
+                "category": "area",
+                "value": "133 m²",
+                "auto": "no",
+                "source": "?"
+              }
+            ]
+          },
+          {
+            "line": "Udestuen er ikke medregnet i det opvarmede areal jf. ”Håndbog for energikonsulenter”, da den er uopvarmet.",
+            "hits": [
+              {
+                "category": "room_feature",
+                "value": "udestue",
+                "auto": "no",
+                "source": "?"
+              }
+            ]
+          }
+        ]
+      },
+      "OnDestructiveInspections": {
+        "plans_text": "",
+        "final_text": "",
+        "plans_chars": 0,
+        "final_chars": 0,
+        "added_lines": [],
+        "removed_lines": [],
+        "classified_added_lines": []
+      }
+    }
+  },
+  {
+    "project": "Nypølsgade_14_6470_Sydals",
+    "plans_xml": "Nypølsgade_14_6470_Sydals.xml",
+    "final_xml": "Nypølsgade_14_6470_Sydals final.xml",
+    "json_path": "Nypølsgade_14_6470_Sydals.json",
+    "facts": {
+      "year_of_construction": "1800",
+      "year_of_renovation": null,
+      "dwelling_area": "190",
+      "commercial_area": "0",
+      "use_code": "120",
+      "building_type": "DetachedBuilding",
+      "building_type_da": "fritliggende enfamilieshus",
+      "floor_count": "1",
+      "housing_units": "1",
+      "json_constructed_year": "1800",
+      "json_renovated_year": null,
+      "json_dwelling_area": "190",
+      "json_heated_area": "190",
+      "json_roof_stories_area": "52",
+      "json_regular_stories_area": "138",
+      "json_basement_area": "0",
+      "json_number_of_stories": "1",
+      "json_building_type": "detachedHouse",
+      "json_building_type_da": "fritliggende enfamilieshus",
+      "json_story_types": [
+        "ground"
+      ],
+      "heat_source_raw": "electricHeating",
+      "heat_source_da": "electricHeating",
+      "json_stories_localised": [],
+      "json_room_count": 0,
+      "json_room_types": [],
+      "json_has_loft": false,
+      "json_has_basement": false,
+      "json_has_garage": false,
+      "json_has_workshop": false
+    },
+    "fields": {
+      "Additional": {
+        "plans_text": "Bygningsdelenes isoleringsevne er baseret på skøn ud fra registrerede isoleringstykkelser, og er heraf fastlagt ud fra tabeller i gældende håndbog for energikonsulenter, som sammen med gældende DS 418 og f.eks Rockwool Energy Design danner grundlag for beregninger af yderligere konstruktioner.\n\nDer gøres opmærksom på, at forslag vedr. efterisolering af bygningskonstruktioner som f.eks. gulve, lofter og vægge alene er beregnet ud fra et energimæssigt hensyn. Der er i forslagene ikke taget højde for byggetekniske konsekvenser af forslagene. \n\nDet anbefales generelt at kontakte en rådgiver/fagmand, for at få udarbejdet en detaljeret projektbeskrivelse før isolerings- og/eller ombygningsarbejder igangsættes. I forbindelse med rapportens forslag om energiforbedring af tekniske installationer, bør man altid søge teknisk sparring med en professionel rådgiver eller leverandør. I forhold til energimærkets gyldighedsperiode, vil både prisgrundlag og produktudviklingen kunne ændre sig en del, år for år.\n\nVed bygningsgennemgangen forelå udfyldt ejeroplysningsskema. XXX\nVed bygningsgennemgangen forelå ikke et udfyldt ejeroplysningsskema. Det forudsættes hermed, at der ikke er givet tilladelse til destruktive undersøgelser. XXX\n\nFølgende materiale var til rådighed for udarbejdelsen af energimærket:\nBygningstegninger XXX\nTidligere energimærkningsrapport af den XX-XX-XX, med energimærkningsnummer: XXX\nAndet XXX\n\nRenoveringstider, som fremgår ved \"Rentable forslag\", er estimerede tider.\n\nDet er vigtigt at være opmærksom på, at energimæssige forbedringer ikke kun har betydning for bygningens energiforbrug, men også for den daglige komfort, samt for en eventuel gensalgsværdi for ejendommen.  \n                                                                                                                                                                                                                                                               \nSvingende energipriser har ikke betydning for bygningers energimærke, men har indflydelse på energiøkonomien. \n\nVed høje energipriser kan værdien af besparelsesforslag blive større, hvilket betyder, at det kan give økonomisk mening at gennemføre flere forslag inklusiv forslag der kan være rentable, hvis de udføres sammen med andre renoveringer.\n\nVed lave energipriser kan værdien af besparelsesforslag blive mindre og/eller umiddelbart ikke økonomisk rentable. I forbindelse hermed, er det vigtigt at være opmærksom på, at energimæssige forbedringer ikke kun har betydning for bygningens energiforbrug, men også for den daglige komfort, samt for en eventuel gensalgsværdi for ejendommen.",
+        "final_text": "Bygningsdelenes isoleringsevne er baseret på skøn ud fra registrerede isoleringstykkelser, og er heraf fastlagt ud fra tabeller i gældende håndbog for energikonsulenter, som sammen med gældende DS 418 og f.eks Rockwool Energy Design danner grundlag for beregninger af yderligere konstruktioner.\n\nDer gøres opmærksom på, at forslag vedr. efterisolering af bygningskonstruktioner som f.eks. gulve, lofter og vægge alene er beregnet ud fra et energimæssigt hensyn. Der er i forslagene ikke taget højde for byggetekniske konsekvenser af forslagene. \n\nDet anbefales generelt at kontakte en rådgiver/fagmand, for at få udarbejdet en detaljeret projektbeskrivelse før isolerings- og/eller ombygningsarbejder igangsættes. I forbindelse med rapportens forslag om energiforbedring af tekniske installationer, bør man altid søge teknisk sparring med en professionel rådgiver eller leverandør. I forhold til energimærkets gyldighedsperiode, vil både prisgrundlag og produktudviklingen kunne ændre sig en del, år for år.\n\nFølgende materiale var til rådighed for udarbejdelsen af energimærket:\nUdfyldt ejeroplysningsskema.\n\nVed bygningsgennemgangen forelå der ingen tegningsmateriale eller bygningsbeskrivelser.\n\nRenoveringstider, som fremgår ved \"Rentable forslag\", er estimerede tider.\n\nDet er vigtigt at være opmærksom på, at energimæssige forbedringer ikke kun har betydning for bygningens energiforbrug, men også for den daglige komfort, samt for en eventuel gensalgsværdi for ejendommen.  \n                                                                                                                                                                                                                                                               \nSvingende energipriser har ikke betydning for bygningers energimærke, men har indflydelse på energiøkonomien. \n\nVed høje energipriser kan værdien af besparelsesforslag blive større, hvilket betyder, at det kan give økonomisk mening at gennemføre flere forslag inklusiv forslag der kan være rentable, hvis de udføres sammen med andre renoveringer.\n\nVed lave energipriser kan værdien af besparelsesforslag blive mindre og/eller umiddelbart ikke økonomisk rentable. I forbindelse hermed, er det vigtigt at være opmærksom på, at energimæssige forbedringer ikke kun har betydning for bygningens energiforbrug, men også for den daglige komfort, samt for en eventuel gensalgsværdi for ejendommen.\n\nDet oplyste varmeforbrug stammer fra ejer, og er udelukkende oplyst i kr. (for el-forbrug), hvorfor der ved enheder fremgår 0.\nI den oplyste udgift til elforbrug indgår tillige elforbrug til husholdning, belysning mv.  Det beregnede forbrug er uden elforbrug til husholdningen, belysning mv, hvilket svarer til ca. 4.000-4.500 kWh for en almindelig husstand. \n\nVed beregningen af det samlede energiforbrug indgår el-forbrug iflg. Bygningsreglementet med en faktor på 1,9 p.g.a. den større CO2-belastning ved elproduktion, hvilket ved el-opvarmede huse medfører at energimærket ofte befinder sig i den nederste ende af energimærkningsskalaen.",
+        "plans_chars": 2648,
+        "final_chars": 3070,
+        "added_lines": [
+          "Udfyldt ejeroplysningsskema.",
+          "Ved bygningsgennemgangen forelå der ingen tegningsmateriale eller bygningsbeskrivelser.",
+          "Det oplyste varmeforbrug stammer fra ejer, og er udelukkende oplyst i kr. (for el-forbrug), hvorfor der ved enheder fremgår 0.",
+          "I den oplyste udgift til elforbrug indgår tillige elforbrug til husholdning, belysning mv.  Det beregnede forbrug er uden elforbrug til husholdningen, belysning mv, hvilket svarer til ca. 4.000-4.500 kWh for en almindelig husstand.",
+          "Ved beregningen af det samlede energiforbrug indgår el-forbrug iflg. Bygningsreglementet med en faktor på 1,9 p.g.a. den større CO2-belastning ved elproduktion, hvilket ved el-opvarmede huse medfører at energimærket ofte befinder sig i den nederste ende af energimærkningsskalaen."
+        ],
+        "removed_lines": [
+          "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema. XXX",
+          "Ved bygningsgennemgangen forelå ikke et udfyldt ejeroplysningsskema. Det forudsættes hermed, at der ikke er givet tilladelse til destruktive undersøgelser. XXX",
+          "Bygningstegninger XXX",
+          "Tidligere energimærkningsrapport af den XX-XX-XX, med energimærkningsnummer: XXX",
+          "Andet XXX"
+        ],
+        "classified_added_lines": [
+          {
+            "line": "Udfyldt ejeroplysningsskema.",
+            "hits": []
+          },
+          {
+            "line": "Ved bygningsgennemgangen forelå der ingen tegningsmateriale eller bygningsbeskrivelser.",
+            "hits": []
+          },
+          {
+            "line": "Det oplyste varmeforbrug stammer fra ejer, og er udelukkende oplyst i kr. (for el-forbrug), hvorfor der ved enheder fremgår 0.",
+            "hits": []
+          },
+          {
+            "line": "I den oplyste udgift til elforbrug indgår tillige elforbrug til husholdning, belysning mv.  Det beregnede forbrug er uden elforbrug til husholdningen, belysning mv, hvilket svarer til ca. 4.000-4.500 kWh for en almindelig husstand.",
+            "hits": []
+          },
+          {
+            "line": "Ved beregningen af det samlede energiforbrug indgår el-forbrug iflg. Bygningsreglementet med en faktor på 1,9 p.g.a. den større CO2-belastning ved elproduktion, hvilket ved el-opvarmede huse medfører at energimærket ofte befinder sig i den nederste ende af energimærkningsskalaen.",
+            "hits": []
+          }
+        ]
+      },
+      "OnEnergyPrices": {
+        "plans_text": "Der er i energimærket anvendt aktuelle energipriser for alle brændselstyper fx olie, naturgas, brænde og træpiller.\n\nRapportens elpris er anvendt ud fra en gennemsnitsvurdering, da energipriserne varierer dagligt og i forhold til valg af leverandør.\n \nTil beregning af rapportens forbedringsforslag er der anvendt estimerede priser, der kan variere en del fra aktuelle tilbudspriser, afhængig af både regionale forhold og valg af leverandør. \nI forbindelse med rapportens forslag om energiforbedringer, bør man altid søge  sparring med en professionel rådgiver eller leverandør. \nI forhold til energimærkets gyldighedsperiode, vil både prisgrundlag og produktudviklingen kunne ændre sig en del, år for år.",
+        "final_text": "Rapportens elpris er anvendt ud fra en gennemsnitsvurdering, da energipriserne varierer dagligt og i forhold til valg af leverandør.\n\nRapportens pris på rummeter træ er anvendt ud fra en gennemsnitsvurdering.\n \nTil beregning af rapportens forbedringsforslag er der anvendt estimerede priser, der kan variere en del fra aktuelle tilbudspriser, afhængig af både regionale forhold og valg af leverandør. \nI forbindelse med rapportens forslag om energiforbedringer, bør man altid søge  sparring med en professionel rådgiver eller leverandør. \nI forhold til energimærkets gyldighedsperiode, vil både prisgrundlag og produktudviklingen kunne ændre sig en del, år for år.",
+        "plans_chars": 705,
+        "final_chars": 664,
+        "added_lines": [
+          "Rapportens pris på rummeter træ er anvendt ud fra en gennemsnitsvurdering."
+        ],
+        "removed_lines": [
+          "Der er i energimærket anvendt aktuelle energipriser for alle brændselstyper fx olie, naturgas, brænde og træpiller."
+        ],
+        "classified_added_lines": [
+          {
+            "line": "Rapportens pris på rummeter træ er anvendt ud fra en gennemsnitsvurdering.",
+            "hits": []
+          }
+        ]
+      },
+      "OnBuildingDescription": {
+        "plans_text": "De opmålte opvarmede arealer og BBR-arealer, samt opførelsestidspunkt og evt. renoveringstidspunkt, kan ses under baggrundsinformation.\n\nEjendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og XXX bygningstegninger. \n\nDe opmålte opvarmede arealer stemmer overens med BBR-meddelelsen. XXX\nDet opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen. XXX \nDet opmålte opvarmede areal stemmer ikke overens med BBR-meddelelsen. Afvigelsen består i XXX\n\n\nVed bygningsgennemgangen var der ikke adgang til XXX.\n\nFølgende rum XXX er uopvarmet. (vælg desuden en af nedenstående 2 muligheder XXX Slet dette)\n\nArealerne forudsættes jf. gældende Håndbog for energikonsulenter opvarmet med samme opvarmningsform som resten af bygningen, uanset at der ingen varmekilde er, da det vurderes at eksisterende varmeanlæg er tilstrækkelig til at kunne opvarme hele boligen  XXX\n\nArealerne forudsættes jf. gældende Håndbog for energikonsulenter som værende el-opvarmet, da det vurderes at eksisterende varmeanlæg ikke er tilstrækkelig til at kunne opvarme hele boligen. XXX\n\nHvis ikke andet er angivet, så er de faktuelle oplysninger i energimærket baseret på skøn ud fra hvad der visuelt kan konstateres. Oplysningerne er ikke en garanti og kan ikke betragtes som dette, men er angivet for at informere om hvad der er anvendt som grundlag for beregningen.",
+        "final_text": "Bygningen er et fritliggende enfamilieshus med udnyttet tagetage, opført i 1800 med et opvarmet areal på 190,3 m². I henhold til ejer er der foretaget væsentlig ombygning/tilbygning i 2011-2019. Ejendommen har gennemgået diverse isoleringsarbejde gennem tiden på loft og ved vinduer, døre, vægge og gulv.\n\nEjendommen er kontrolopmålt af energikonsulenten.   \nDet opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen. \nArealer jfr. BBR: Bebyggede areal: 138 m², opvarmede areal 190 m² heraf 52 m² tagetage.\nArealer jfr. vores opmåling: Bebyggede areal: 128,7 m², opvarmede areal 190,3 m² heraf 61,6 m² tagetage.\n\nDe opmålte opvarmede arealer og BBR-arealer, samt opførelsestidspunkt og evt. renoveringstidspunkt, kan ses under baggrundsinformation.\n\nVed bygningsgennemgangen var der ikke adgang til skunk.\n\nVærksted medregnes til det opvarmede areal.",
+        "plans_chars": 1377,
+        "final_chars": 880,
+        "added_lines": [
+          "Bygningen er et fritliggende enfamilieshus med udnyttet tagetage, opført i 1800 med et opvarmet areal på 190,3 m². I henhold til ejer er der foretaget væsentlig ombygning/tilbygning i 2011-2019. Ejendommen har gennemgået diverse isoleringsarbejde gennem tiden på loft og ved vinduer, døre, vægge og gulv.",
+          "Ejendommen er kontrolopmålt af energikonsulenten.",
+          "Det opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen.",
+          "Arealer jfr. BBR: Bebyggede areal: 138 m², opvarmede areal 190 m² heraf 52 m² tagetage.",
+          "Arealer jfr. vores opmåling: Bebyggede areal: 128,7 m², opvarmede areal 190,3 m² heraf 61,6 m² tagetage.",
+          "Ved bygningsgennemgangen var der ikke adgang til skunk.",
+          "Værksted medregnes til det opvarmede areal."
+        ],
+        "removed_lines": [
+          "Ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og XXX bygningstegninger.",
+          "De opmålte opvarmede arealer stemmer overens med BBR-meddelelsen. XXX",
+          "Det opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen. XXX",
+          "Det opmålte opvarmede areal stemmer ikke overens med BBR-meddelelsen. Afvigelsen består i XXX",
+          "Ved bygningsgennemgangen var der ikke adgang til XXX.",
+          "Følgende rum XXX er uopvarmet. (vælg desuden en af nedenstående 2 muligheder XXX Slet dette)",
+          "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter opvarmet med samme opvarmningsform som resten af bygningen, uanset at der ingen varmekilde er, da det vurderes at eksisterende varmeanlæg er tilstrækkelig til at kunne opvarme hele boligen  XXX",
+          "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter som værende el-opvarmet, da det vurderes at eksisterende varmeanlæg ikke er tilstrækkelig til at kunne opvarme hele boligen. XXX",
+          "Hvis ikke andet er angivet, så er de faktuelle oplysninger i energimærket baseret på skøn ud fra hvad der visuelt kan konstateres. Oplysningerne er ikke en garanti og kan ikke betragtes som dette, men er angivet for at informere om hvad der er anvendt som grundlag for beregningen."
+        ],
+        "classified_added_lines": [
+          {
+            "line": "Bygningen er et fritliggende enfamilieshus med udnyttet tagetage, opført i 1800 med et opvarmet areal på 190,3 m². I henhold til ejer er der foretaget væsentlig ombygning/tilbygning i 2011-2019. Ejendommen har gennemgået diverse isoleringsarbejde gennem tiden på loft og ved vinduer, døre, vægge og gulv.",
+            "hits": [
+              {
+                "category": "year",
+                "value": "1800",
+                "auto": "yes",
+                "source": "Plans BBR.YearOfConstruction / JSON building.constructedYear"
+              },
+              {
+                "category": "year",
+                "value": "2011",
+                "auto": "no",
+                "source": "?"
+              },
+              {
+                "category": "year",
+                "value": "2019",
+                "auto": "no",
+                "source": "?"
+              },
+              {
+                "category": "area",
+                "value": "3 m²",
+                "auto": "no",
+                "source": "?"
+              },
+              {
+                "category": "building_type",
+                "value": "fritliggende enfamilieshus",
+                "auto": "yes",
+                "source": "Plans Zone.BuildingType"
+              },
+              {
+                "category": "room_feature",
+                "value": "tagetage",
+                "auto": "yes",
+                "source": "JSON building.roofStoriesAreaSquareMeters>0"
+              },
+              {
+                "category": "room_feature",
+                "value": "loft",
+                "auto": "yes",
+                "source": "JSON building.roofStoriesAreaSquareMeters>0"
+              }
+            ]
+          },
+          {
+            "line": "Ejendommen er kontrolopmålt af energikonsulenten.",
+            "hits": []
+          },
+          {
+            "line": "Det opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen.",
+            "hits": []
+          },
+          {
+            "line": "Arealer jfr. BBR: Bebyggede areal: 138 m², opvarmede areal 190 m² heraf 52 m² tagetage.",
+            "hits": [
+              {
+                "category": "area",
+                "value": "138 m²",
+                "auto": "yes",
+                "source": "JSON building.regularStoriesAreaSquareMeters"
+              },
+              {
+                "category": "area",
+                "value": "190 m²",
+                "auto": "yes",
+                "source": "Plans BBR.DwellingArea"
+              },
+              {
+                "category": "area",
+                "value": "52 m²",
+                "auto": "yes",
+                "source": "JSON building.roofStoriesAreaSquareMeters"
+              },
+              {
+                "category": "room_feature",
+                "value": "tagetage",
+                "auto": "yes",
+                "source": "JSON building.roofStoriesAreaSquareMeters>0"
+              }
+            ]
+          },
+          {
+            "line": "Arealer jfr. vores opmåling: Bebyggede areal: 128,7 m², opvarmede areal 190,3 m² heraf 61,6 m² tagetage.",
+            "hits": [
+              {
+                "category": "area",
+                "value": "7 m²",
+                "auto": "no",
+                "source": "?"
+              },
+              {
+                "category": "area",
+                "value": "3 m²",
+                "auto": "no",
+                "source": "?"
+              },
+              {
+                "category": "area",
+                "value": "6 m²",
+                "auto": "no",
+                "source": "?"
+              },
+              {
+                "category": "room_feature",
+                "value": "tagetage",
+                "auto": "yes",
+                "source": "JSON building.roofStoriesAreaSquareMeters>0"
+              }
+            ]
+          },
+          {
+            "line": "Ved bygningsgennemgangen var der ikke adgang til skunk.",
+            "hits": []
+          },
+          {
+            "line": "Værksted medregnes til det opvarmede areal.",
+            "hits": [
+              {
+                "category": "room_feature",
+                "value": "værksted",
+                "auto": "no",
+                "source": "?"
+              }
+            ]
+          }
+        ]
+      },
+      "OnDestructiveInspections": {
+        "plans_text": "",
+        "final_text": "",
+        "plans_chars": 0,
+        "final_chars": 0,
+        "added_lines": [],
+        "removed_lines": [],
+        "classified_added_lines": []
+      }
+    }
+  },
+  {
+    "project": "Spangsvej_15_5210_Odense_NV",
+    "plans_xml": "Spangsvej_15_5210_Odense_NV.xml",
+    "final_xml": "Spangsvej_15_5210_Odense_NV final.xml",
+    "json_path": "Spangsvej_15_5210_Odense_NV.json",
+    "facts": {
+      "year_of_construction": "1970",
+      "year_of_renovation": "1979",
+      "dwelling_area": "141",
+      "commercial_area": "0",
+      "use_code": "120",
+      "building_type": "DetachedBuilding",
+      "building_type_da": "fritliggende enfamilieshus",
+      "floor_count": "1",
+      "housing_units": "1",
+      "json_constructed_year": "1970",
+      "json_renovated_year": "1979",
+      "json_dwelling_area": "141",
+      "json_heated_area": "141",
+      "json_roof_stories_area": "0",
+      "json_regular_stories_area": "141",
+      "json_basement_area": "34",
+      "json_number_of_stories": "1",
+      "json_building_type": "detachedHouse",
+      "json_building_type_da": "fritliggende enfamilieshus",
+      "json_story_types": [
+        "basement",
+        "ground"
+      ],
+      "heat_source_raw": "districtHeating",
+      "heat_source_da": "Fjernvarme",
+      "json_stories_localised": [],
+      "json_room_count": 0,
+      "json_room_types": [],
+      "json_has_loft": false,
+      "json_has_basement": true,
+      "json_has_garage": false,
+      "json_has_workshop": false
+    },
+    "fields": {
+      "Additional": {
+        "plans_text": "Bygningsdelenes isoleringsevne er baseret på skøn ud fra registrerede isoleringstykkelser, og er heraf fastlagt ud fra tabeller i gældende håndbog for energikonsulenter, som sammen med gældende DS 418 og f.eks Rockwool Energy Design danner grundlag for beregninger af yderligere konstruktioner.\n\nDer gøres opmærksom på, at forslag vedr. efterisolering af bygningskonstruktioner som f.eks. gulve, lofter og vægge alene er beregnet ud fra et energimæssigt hensyn. Der er i forslagene ikke taget højde for byggetekniske konsekvenser af forslagene. \n\nDet anbefales generelt at kontakte en rådgiver/fagmand, for at få udarbejdet en detaljeret projektbeskrivelse før isolerings- og/eller ombygningsarbejder igangsættes. I forbindelse med rapportens forslag om energiforbedring af tekniske installationer, bør man altid søge teknisk sparring med en professionel rådgiver eller leverandør. I forhold til energimærkets gyldighedsperiode, vil både prisgrundlag og produktudviklingen kunne ændre sig en del, år for år.\n\nVed bygningsgennemgangen forelå udfyldt ejeroplysningsskema. XXX\nVed bygningsgennemgangen forelå ikke et udfyldt ejeroplysningsskema. Det forudsættes hermed, at der ikke er givet tilladelse til destruktive undersøgelser. XXX\n\nFølgende materiale var til rådighed for udarbejdelsen af energimærket:\nBygningstegninger XXX\nTidligere energimærkningsrapport af den XX-XX-XX, med energimærkningsnummer: XXX\nAndet XXX\n\nRenoveringstider, som fremgår ved \"Rentable forslag\", er estimerede tider.\n\nDet er vigtigt at være opmærksom på, at energimæssige forbedringer ikke kun har betydning for bygningens energiforbrug, men også for den daglige komfort, samt for en eventuel gensalgsværdi for ejendommen.  \n                                                                                                                                                                                                                                                               \nSvingende energipriser har ikke betydning for bygningers energimærke, men har indflydelse på energiøkonomien. \n\nVed høje energipriser kan værdien af besparelsesforslag blive større, hvilket betyder, at det kan give økonomisk mening at gennemføre flere forslag inklusiv forslag der kan være rentable, hvis de udføres sammen med andre renoveringer.\n\nVed lave energipriser kan værdien af besparelsesforslag blive mindre og/eller umiddelbart ikke økonomisk rentable. I forbindelse hermed, er det vigtigt at være opmærksom på, at energimæssige forbedringer ikke kun har betydning for bygningens energiforbrug, men også for den daglige komfort, samt for en eventuel gensalgsværdi for ejendommen.",
+        "final_text": "Bygningsdelenes isoleringsevne er baseret på skøn ud fra registrerede isoleringstykkelser, og er heraf fastlagt ud fra tabeller i gældende håndbog for energikonsulenter, som sammen med gældende DS 418 og f.eks Rockwool Energy Design danner grundlag for beregninger af yderligere konstruktioner.\n\nDer gøres opmærksom på, at forslag vedr. efterisolering af bygningskonstruktioner som f.eks. gulve, lofter og vægge alene er beregnet ud fra et energimæssigt hensyn. Der er i forslagene ikke taget højde for byggetekniske konsekvenser af forslagene. \n\nDet anbefales generelt at kontakte en rådgiver/fagmand, for at få udarbejdet en detaljeret projektbeskrivelse før isolerings- og/eller ombygningsarbejder igangsættes. I forbindelse med rapportens forslag om energiforbedring af tekniske installationer, bør man altid søge teknisk sparring med en professionel rådgiver eller leverandør. I forhold til energimærkets gyldighedsperiode, vil både prisgrundlag og produktudviklingen kunne ændre sig en del, år for år.\n\nVed bygningsgennemgangen forelå udfyldt ejeroplysningsskema. \n\nFølgende materiale var til rådighed for udarbejdelsen af energimærket:\nBygningstegninger fra opførelsen dateret 1978 og tilbygning dateret 1979.\n\nRenoveringstider, som fremgår ved \"Rentable forslag\", er estimerede tider.\n\nDet er vigtigt at være opmærksom på, at energimæssige forbedringer ikke kun har betydning for bygningens energiforbrug, men også for den daglige komfort, samt for en eventuel gensalgsværdi for ejendommen.  \n                                                                                                                                                                                                                                                               \nSvingende energipriser har ikke betydning for bygningers energimærke, men har indflydelse på energiøkonomien. \n\nVed høje energipriser kan værdien af besparelsesforslag blive større, hvilket betyder, at det kan give økonomisk mening at gennemføre flere forslag inklusiv forslag der kan være rentable, hvis de udføres sammen med andre renoveringer.\n\nVed lave energipriser kan værdien af besparelsesforslag blive mindre og/eller umiddelbart ikke økonomisk rentable. I forbindelse hermed, er det vigtigt at være opmærksom på, at energimæssige forbedringer ikke kun har betydning for bygningens energiforbrug, men også for den daglige komfort, samt for en eventuel gensalgsværdi for ejendommen.",
+        "plans_chars": 2648,
+        "final_chars": 2446,
+        "added_lines": [
+          "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema.",
+          "Bygningstegninger fra opførelsen dateret 1978 og tilbygning dateret 1979."
+        ],
+        "removed_lines": [
+          "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema. XXX",
+          "Ved bygningsgennemgangen forelå ikke et udfyldt ejeroplysningsskema. Det forudsættes hermed, at der ikke er givet tilladelse til destruktive undersøgelser. XXX",
+          "Bygningstegninger XXX",
+          "Tidligere energimærkningsrapport af den XX-XX-XX, med energimærkningsnummer: XXX",
+          "Andet XXX"
+        ],
+        "classified_added_lines": [
+          {
+            "line": "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema.",
+            "hits": []
+          },
+          {
+            "line": "Bygningstegninger fra opførelsen dateret 1978 og tilbygning dateret 1979.",
+            "hits": [
+              {
+                "category": "year",
+                "value": "1978",
+                "auto": "no",
+                "source": "?"
+              },
+              {
+                "category": "year",
+                "value": "1979",
+                "auto": "yes",
+                "source": "Plans BBR.YearOfRenovation / JSON building.renovatedYear"
+              }
+            ]
+          }
+        ]
+      },
+      "OnEnergyPrices": {
+        "plans_text": "Der er i energimærket anvendt aktuelle energipriser for alle brændselstyper fx olie, naturgas, brænde og træpiller.\n\nRapportens elpris er anvendt ud fra en gennemsnitsvurdering, da energipriserne varierer dagligt og i forhold til valg af leverandør.\n \nTil beregning af rapportens forbedringsforslag er der anvendt estimerede priser, der kan variere en del fra aktuelle tilbudspriser, afhængig af både regionale forhold og valg af leverandør. \nI forbindelse med rapportens forslag om energiforbedringer, bør man altid søge  sparring med en professionel rådgiver eller leverandør. \nI forhold til energimærkets gyldighedsperiode, vil både prisgrundlag og produktudviklingen kunne ændre sig en del, år for år.",
+        "final_text": "Rapportens elpris er anvendt ud fra en gennemsnitsvurdering, da energipriserne varierer dagligt og i forhold til valg af leverandør.\n \nTil beregning af rapportens forbedringsforslag er der anvendt estimerede priser, der kan variere en del fra aktuelle tilbudspriser, afhængig af både regionale forhold og valg af leverandør. \nI forbindelse med rapportens forslag om energiforbedringer, bør man altid søge  sparring med en professionel rådgiver eller leverandør. \nI forhold til energimærkets gyldighedsperiode, vil både prisgrundlag og produktudviklingen kunne ændre sig en del, år for år.\n\nFjernvarmeprisen er i denne rapport fastsat ud fra de tariffer, der var gældende ved energimærkningsrapportens officielle indberetningsdato. Fjernvarmeprisen stammer fra det konkrete fjernvarmeværk: Fjernvarme Fyn.",
+        "plans_chars": 705,
+        "final_chars": 804,
+        "added_lines": [
+          "Fjernvarmeprisen er i denne rapport fastsat ud fra de tariffer, der var gældende ved energimærkningsrapportens officielle indberetningsdato. Fjernvarmeprisen stammer fra det konkrete fjernvarmeværk: Fjernvarme Fyn."
+        ],
+        "removed_lines": [
+          "Der er i energimærket anvendt aktuelle energipriser for alle brændselstyper fx olie, naturgas, brænde og træpiller."
+        ],
+        "classified_added_lines": [
+          {
+            "line": "Fjernvarmeprisen er i denne rapport fastsat ud fra de tariffer, der var gældende ved energimærkningsrapportens officielle indberetningsdato. Fjernvarmeprisen stammer fra det konkrete fjernvarmeværk: Fjernvarme Fyn.",
+            "hits": [
+              {
+                "category": "heat_source",
+                "value": "fjernvarme",
+                "auto": "yes",
+                "source": "JSON.heating.primarySource.sourceType"
+              }
+            ]
+          }
+        ]
+      },
+      "OnBuildingDescription": {
+        "plans_text": "De opmålte opvarmede arealer og BBR-arealer, samt opførelsestidspunkt og evt. renoveringstidspunkt, kan ses under baggrundsinformation.\n\nEjendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og XXX bygningstegninger. \n\nDe opmålte opvarmede arealer stemmer overens med BBR-meddelelsen. XXX\nDet opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen. XXX \nDet opmålte opvarmede areal stemmer ikke overens med BBR-meddelelsen. Afvigelsen består i XXX\n\n\nVed bygningsgennemgangen var der ikke adgang til XXX.\n\nFølgende rum XXX er uopvarmet. (vælg desuden en af nedenstående 2 muligheder XXX Slet dette)\n\nArealerne forudsættes jf. gældende Håndbog for energikonsulenter opvarmet med samme opvarmningsform som resten af bygningen, uanset at der ingen varmekilde er, da det vurderes at eksisterende varmeanlæg er tilstrækkelig til at kunne opvarme hele boligen  XXX\n\nArealerne forudsættes jf. gældende Håndbog for energikonsulenter som værende el-opvarmet, da det vurderes at eksisterende varmeanlæg ikke er tilstrækkelig til at kunne opvarme hele boligen. XXX\n\nHvis ikke andet er angivet, så er de faktuelle oplysninger i energimærket baseret på skøn ud fra hvad der visuelt kan konstateres. Oplysningerne er ikke en garanti og kan ikke betragtes som dette, men er angivet for at informere om hvad der er anvendt som grundlag for beregningen.",
+        "final_text": "Bygningen er et fritliggende enfamilieshus, med 34 m² kælder, opført i 1970 med et opvarmet areal på 175 m². Ejendommen har gennemgået diverse isoleringsarbejde gennem tiden. \n\nDe opmålte opvarmede arealer og BBR-arealer, samt opførelsestidspunkt og evt. renoveringstidspunkt, kan ses under baggrundsinformation.\n\nEjendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og bygningstegninger. \n \nDet opmålte opvarmede areal stemmer ikke overens med BBR-meddelelsen. Afvigelsen består i at kælderen er opvarmet.\n\nHvis ikke andet er angivet, så er de faktuelle oplysninger i energimærket baseret på skøn ud fra hvad der visuelt kan konstateres. Oplysningerne er ikke en garanti og kan ikke betragtes som dette, men er angivet for at informere om hvad der er anvendt som grundlag for beregningen.",
+        "plans_chars": 1377,
+        "final_chars": 803,
+        "added_lines": [
+          "Bygningen er et fritliggende enfamilieshus, med 34 m² kælder, opført i 1970 med et opvarmet areal på 175 m². Ejendommen har gennemgået diverse isoleringsarbejde gennem tiden.",
+          "Ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og bygningstegninger.",
+          "Det opmålte opvarmede areal stemmer ikke overens med BBR-meddelelsen. Afvigelsen består i at kælderen er opvarmet."
+        ],
+        "removed_lines": [
+          "Ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og XXX bygningstegninger.",
+          "De opmålte opvarmede arealer stemmer overens med BBR-meddelelsen. XXX",
+          "Det opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen. XXX",
+          "Det opmålte opvarmede areal stemmer ikke overens med BBR-meddelelsen. Afvigelsen består i XXX",
+          "Ved bygningsgennemgangen var der ikke adgang til XXX.",
+          "Følgende rum XXX er uopvarmet. (vælg desuden en af nedenstående 2 muligheder XXX Slet dette)",
+          "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter opvarmet med samme opvarmningsform som resten af bygningen, uanset at der ingen varmekilde er, da det vurderes at eksisterende varmeanlæg er tilstrækkelig til at kunne opvarme hele boligen  XXX",
+          "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter som værende el-opvarmet, da det vurderes at eksisterende varmeanlæg ikke er tilstrækkelig til at kunne opvarme hele boligen. XXX"
+        ],
+        "classified_added_lines": [
+          {
+            "line": "Bygningen er et fritliggende enfamilieshus, med 34 m² kælder, opført i 1970 med et opvarmet areal på 175 m². Ejendommen har gennemgået diverse isoleringsarbejde gennem tiden.",
+            "hits": [
+              {
+                "category": "year",
+                "value": "1970",
+                "auto": "yes",
+                "source": "Plans BBR.YearOfConstruction / JSON building.constructedYear"
+              },
+              {
+                "category": "area",
+                "value": "34 m²",
+                "auto": "yes",
+                "source": "JSON building.basementAreaSquareMeters"
+              },
+              {
+                "category": "area",
+                "value": "175 m²",
+                "auto": "no",
+                "source": "?"
+              },
+              {
+                "category": "building_type",
+                "value": "fritliggende enfamilieshus",
+                "auto": "yes",
+                "source": "Plans Zone.BuildingType"
+              },
+              {
+                "category": "room_feature",
+                "value": "kælder",
+                "auto": "yes",
+                "source": "JSON building.storyTypes (basement)"
+              }
+            ]
+          },
+          {
+            "line": "Ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og bygningstegninger.",
+            "hits": []
+          },
+          {
+            "line": "Det opmålte opvarmede areal stemmer ikke overens med BBR-meddelelsen. Afvigelsen består i at kælderen er opvarmet.",
+            "hits": [
+              {
+                "category": "room_feature",
+                "value": "kælder",
+                "auto": "yes",
+                "source": "JSON building.storyTypes (basement)"
+              }
+            ]
+          }
+        ]
+      },
+      "OnDestructiveInspections": {
+        "plans_text": "",
+        "final_text": "",
+        "plans_chars": 0,
+        "final_chars": 0,
+        "added_lines": [],
+        "removed_lines": [],
+        "classified_added_lines": []
+      }
+    }
+  },
+  {
+    "project": "Spurvevej_13_7100_Vejle",
+    "plans_xml": "Spurvevej_13_7100_Vejle.xml",
+    "final_xml": "Spurvevej_13_7100_Vejle final.xml",
+    "json_path": "Spurvevej_13_7100_Vejle.json",
+    "facts": {
+      "year_of_construction": "1969",
+      "year_of_renovation": null,
+      "dwelling_area": "180",
+      "commercial_area": "0",
+      "use_code": "120",
+      "building_type": "DetachedBuilding",
+      "building_type_da": "fritliggende enfamilieshus",
+      "floor_count": "1",
+      "housing_units": "1",
+      "json_constructed_year": "1969",
+      "json_renovated_year": null,
+      "json_dwelling_area": "180",
+      "json_heated_area": "180",
+      "json_roof_stories_area": "74",
+      "json_regular_stories_area": "106",
+      "json_basement_area": "106",
+      "json_number_of_stories": "1",
+      "json_building_type": "detachedHouse",
+      "json_building_type_da": "fritliggende enfamilieshus",
+      "json_story_types": [
+        "ground",
+        "basement"
+      ],
+      "heat_source_raw": "districtHeating",
+      "heat_source_da": "Fjernvarme",
+      "json_stories_localised": [],
+      "json_room_count": 0,
+      "json_room_types": [],
+      "json_has_loft": false,
+      "json_has_basement": true,
+      "json_has_garage": false,
+      "json_has_workshop": false
+    },
+    "fields": {
+      "Additional": {
+        "plans_text": "Bygningsdelenes isoleringsevne er baseret på skøn ud fra registrerede isoleringstykkelser, og er heraf fastlagt ud fra tabeller i gældende håndbog for energikonsulenter, som sammen med gældende DS 418 og f.eks Rockwool Energy Design danner grundlag for beregninger af yderligere konstruktioner.\n\nDer gøres opmærksom på, at forslag vedr. efterisolering af bygningskonstruktioner som f.eks. gulve, lofter og vægge alene er beregnet ud fra et energimæssigt hensyn. Der er i forslagene ikke taget højde for byggetekniske konsekvenser af forslagene. \n\nDet anbefales generelt at kontakte en rådgiver/fagmand, for at få udarbejdet en detaljeret projektbeskrivelse før isolerings- og/eller ombygningsarbejder igangsættes. I forbindelse med rapportens forslag om energiforbedring af tekniske installationer, bør man altid søge teknisk sparring med en professionel rådgiver eller leverandør. I forhold til energimærkets gyldighedsperiode, vil både prisgrundlag og produktudviklingen kunne ændre sig en del, år for år.\n\nVed bygningsgennemgangen forelå udfyldt ejeroplysningsskema. XXX\nVed bygningsgennemgangen forelå ikke et udfyldt ejeroplysningsskema. Det forudsættes hermed, at der ikke er givet tilladelse til destruktive undersøgelser. XXX\n\nFølgende materiale var til rådighed for udarbejdelsen af energimærket:\nBygningstegninger XXX\nTidligere energimærkningsrapport af den XX-XX-XX, med energimærkningsnummer: XXX\nAndet XXX\n\nRenoveringstider, som fremgår ved \"Rentable forslag\", er estimerede tider.\n\nDet er vigtigt at være opmærksom på, at energimæssige forbedringer ikke kun har betydning for bygningens energiforbrug, men også for den daglige komfort, samt for en eventuel gensalgsværdi for ejendommen.  \n                                                                                                                                                                                                                                                               \nSvingende energipriser har ikke betydning for bygningers energimærke, men har indflydelse på energiøkonomien. \n\nVed høje energipriser kan værdien af besparelsesforslag blive større, hvilket betyder, at det kan give økonomisk mening at gennemføre flere forslag inklusiv forslag der kan være rentable, hvis de udføres sammen med andre renoveringer.\n\nVed lave energipriser kan værdien af besparelsesforslag blive mindre og/eller umiddelbart ikke økonomisk rentable. I forbindelse hermed, er det vigtigt at være opmærksom på, at energimæssige forbedringer ikke kun har betydning for bygningens energiforbrug, men også for den daglige komfort, samt for en eventuel gensalgsværdi for ejendommen.",
+        "final_text": "Bygningsdelenes isoleringsevne er baseret på skøn ud fra registrerede isoleringstykkelser, og er heraf fastlagt ud fra tabeller i gældende håndbog for energikonsulenter, som sammen med gældende DS 418 og f.eks Rockwool Energy Design danner grundlag for beregninger af yderligere konstruktioner.\n\nDer gøres opmærksom på, at forslag vedr. efterisolering af bygningskonstruktioner som f.eks. gulve, lofter og vægge alene er beregnet ud fra et energimæssigt hensyn. Der er i forslagene ikke taget højde for byggetekniske konsekvenser af forslagene. \n\nDet anbefales generelt at kontakte en rådgiver/fagmand, for at få udarbejdet en detaljeret projektbeskrivelse før isolerings- og/eller ombygningsarbejder igangsættes. I forbindelse med rapportens forslag om energiforbedring af tekniske installationer, bør man altid søge teknisk sparring med en professionel rådgiver eller leverandør. I forhold til energimærkets gyldighedsperiode, vil både prisgrundlag og produktudviklingen kunne ændre sig en del, år for år.\n\nVed bygningsgennemgangen forelå udfyldt ejeroplysningsskema. \n\nFølgende materiale var til rådighed for udarbejdelsen af energimærket:\nUdateret bygningstegninger. \n\nRenoveringstider, som fremgår ved \"Rentable forslag\", er estimerede tider.\n\nDet er vigtigt at være opmærksom på, at energimæssige forbedringer ikke kun har betydning for bygningens energiforbrug, men også for den daglige komfort, samt for en eventuel gensalgsværdi for ejendommen.  \n                                                                                                                                                                                                                                                               \nSvingende energipriser har ikke betydning for bygningers energimærke, men har indflydelse på energiøkonomien. \n\nVed høje energipriser kan værdien af besparelsesforslag blive større, hvilket betyder, at det kan give økonomisk mening at gennemføre flere forslag inklusiv forslag der kan være rentable, hvis de udføres sammen med andre renoveringer.\n\nVed lave energipriser kan værdien af besparelsesforslag blive mindre og/eller umiddelbart ikke økonomisk rentable. I forbindelse hermed, er det vigtigt at være opmærksom på, at energimæssige forbedringer ikke kun har betydning for bygningens energiforbrug, men også for den daglige komfort, samt for en eventuel gensalgsværdi for ejendommen.",
+        "plans_chars": 2648,
+        "final_chars": 2401,
+        "added_lines": [
+          "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema.",
+          "Udateret bygningstegninger."
+        ],
+        "removed_lines": [
+          "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema. XXX",
+          "Ved bygningsgennemgangen forelå ikke et udfyldt ejeroplysningsskema. Det forudsættes hermed, at der ikke er givet tilladelse til destruktive undersøgelser. XXX",
+          "Bygningstegninger XXX",
+          "Tidligere energimærkningsrapport af den XX-XX-XX, med energimærkningsnummer: XXX",
+          "Andet XXX"
+        ],
+        "classified_added_lines": [
+          {
+            "line": "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema.",
+            "hits": []
+          },
+          {
+            "line": "Udateret bygningstegninger.",
+            "hits": []
+          }
+        ]
+      },
+      "OnEnergyPrices": {
+        "plans_text": "Der er i energimærket anvendt aktuelle energipriser for alle brændselstyper fx olie, naturgas, brænde og træpiller.\n\nRapportens elpris er anvendt ud fra en gennemsnitsvurdering, da energipriserne varierer dagligt og i forhold til valg af leverandør.\n \nTil beregning af rapportens forbedringsforslag er der anvendt estimerede priser, der kan variere en del fra aktuelle tilbudspriser, afhængig af både regionale forhold og valg af leverandør. \nI forbindelse med rapportens forslag om energiforbedringer, bør man altid søge  sparring med en professionel rådgiver eller leverandør. \nI forhold til energimærkets gyldighedsperiode, vil både prisgrundlag og produktudviklingen kunne ændre sig en del, år for år.",
+        "final_text": "Fjernvarmeprisen er i denne rapport fastsat ud fra de tariffer, der var gældende ved energimærkningsrapportens officielle indberetningsdato. Fjernvarmeprisen stammer fra det konkrete fjernvarmeværk: Vejle Fjernvarme \n\nRapportens elpris er anvendt ud fra en gennemsnitsvurdering, da energipriserne varierer dagligt og i forhold til valg af leverandør.\n \nTil beregning af rapportens forbedringsforslag er der anvendt estimerede priser, der kan variere en del fra aktuelle tilbudspriser, afhængig af både regionale forhold og valg af leverandør. \nI forbindelse med rapportens forslag om energiforbedringer, bør man altid søge  sparring med en professionel rådgiver eller leverandør. \nI forhold til energimærkets gyldighedsperiode, vil både prisgrundlag og produktudviklingen kunne ændre sig en del, år for år.",
+        "plans_chars": 705,
+        "final_chars": 806,
+        "added_lines": [
+          "Fjernvarmeprisen er i denne rapport fastsat ud fra de tariffer, der var gældende ved energimærkningsrapportens officielle indberetningsdato. Fjernvarmeprisen stammer fra det konkrete fjernvarmeværk: Vejle Fjernvarme"
+        ],
+        "removed_lines": [
+          "Der er i energimærket anvendt aktuelle energipriser for alle brændselstyper fx olie, naturgas, brænde og træpiller."
+        ],
+        "classified_added_lines": [
+          {
+            "line": "Fjernvarmeprisen er i denne rapport fastsat ud fra de tariffer, der var gældende ved energimærkningsrapportens officielle indberetningsdato. Fjernvarmeprisen stammer fra det konkrete fjernvarmeværk: Vejle Fjernvarme",
+            "hits": [
+              {
+                "category": "heat_source",
+                "value": "fjernvarme",
+                "auto": "yes",
+                "source": "JSON.heating.primarySource.sourceType"
+              }
+            ]
+          }
+        ]
+      },
+      "OnBuildingDescription": {
+        "plans_text": "De opmålte opvarmede arealer og BBR-arealer, samt opførelsestidspunkt og evt. renoveringstidspunkt, kan ses under baggrundsinformation.\n\nEjendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og XXX bygningstegninger. \n\nDe opmålte opvarmede arealer stemmer overens med BBR-meddelelsen. XXX\nDet opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen. XXX \nDet opmålte opvarmede areal stemmer ikke overens med BBR-meddelelsen. Afvigelsen består i XXX\n\n\nVed bygningsgennemgangen var der ikke adgang til XXX.\n\nFølgende rum XXX er uopvarmet. (vælg desuden en af nedenstående 2 muligheder XXX Slet dette)\n\nArealerne forudsættes jf. gældende Håndbog for energikonsulenter opvarmet med samme opvarmningsform som resten af bygningen, uanset at der ingen varmekilde er, da det vurderes at eksisterende varmeanlæg er tilstrækkelig til at kunne opvarme hele boligen  XXX\n\nArealerne forudsættes jf. gældende Håndbog for energikonsulenter som værende el-opvarmet, da det vurderes at eksisterende varmeanlæg ikke er tilstrækkelig til at kunne opvarme hele boligen. XXX\n\nHvis ikke andet er angivet, så er de faktuelle oplysninger i energimærket baseret på skøn ud fra hvad der visuelt kan konstateres. Oplysningerne er ikke en garanti og kan ikke betragtes som dette, men er angivet for at informere om hvad der er anvendt som grundlag for beregningen.",
+        "final_text": "De opmålte opvarmede arealer og BBR-arealer, samt opførelsestidspunkt og evt. renoveringstidspunkt, kan ses under baggrundsinformation.\n\nEjendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og bygningstegninger. \n\nDe opmålte opvarmede arealer stemmer overens med BBR-meddelelsen. Dog er kælderen med undtagelse af depotrum medtaget i det opvarmede areal.\n\nHvis ikke andet er angivet, så er de faktuelle oplysninger i energimærket baseret på skøn ud fra hvad der visuelt kan konstateres. Oplysningerne er ikke en garanti og kan ikke betragtes som dette, men er angivet for at informere om hvad der er anvendt som grundlag for beregningen.",
+        "plans_chars": 1377,
+        "final_chars": 651,
+        "added_lines": [
+          "Ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og bygningstegninger.",
+          "De opmålte opvarmede arealer stemmer overens med BBR-meddelelsen. Dog er kælderen med undtagelse af depotrum medtaget i det opvarmede areal."
+        ],
+        "removed_lines": [
+          "Ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og XXX bygningstegninger.",
+          "De opmålte opvarmede arealer stemmer overens med BBR-meddelelsen. XXX",
+          "Det opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen. XXX",
+          "Det opmålte opvarmede areal stemmer ikke overens med BBR-meddelelsen. Afvigelsen består i XXX",
+          "Ved bygningsgennemgangen var der ikke adgang til XXX.",
+          "Følgende rum XXX er uopvarmet. (vælg desuden en af nedenstående 2 muligheder XXX Slet dette)",
+          "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter opvarmet med samme opvarmningsform som resten af bygningen, uanset at der ingen varmekilde er, da det vurderes at eksisterende varmeanlæg er tilstrækkelig til at kunne opvarme hele boligen  XXX",
+          "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter som værende el-opvarmet, da det vurderes at eksisterende varmeanlæg ikke er tilstrækkelig til at kunne opvarme hele boligen. XXX"
+        ],
+        "classified_added_lines": [
+          {
+            "line": "Ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og bygningstegninger.",
+            "hits": []
+          },
+          {
+            "line": "De opmålte opvarmede arealer stemmer overens med BBR-meddelelsen. Dog er kælderen med undtagelse af depotrum medtaget i det opvarmede areal.",
+            "hits": [
+              {
+                "category": "room_feature",
+                "value": "kælder",
+                "auto": "yes",
+                "source": "JSON building.storyTypes (basement)"
+              }
+            ]
+          }
+        ]
+      },
+      "OnDestructiveInspections": {
+        "plans_text": "",
+        "final_text": "",
+        "plans_chars": 0,
+        "final_chars": 0,
+        "added_lines": [],
+        "removed_lines": [],
+        "classified_added_lines": []
+      }
+    }
+  },
+  {
+    "project": "Strandbakken_5_5900_Rudkøbing",
+    "plans_xml": "Strandbakken_5_5900_Rudkøbing.xml",
+    "final_xml": "Strandbakken_5_5900_Rudkøbing final.xml",
+    "json_path": "Strandbakken_5_5900_Rudkøbing.json",
+    "facts": {
+      "year_of_construction": "1937",
+      "year_of_renovation": null,
+      "dwelling_area": "107",
+      "commercial_area": "0",
+      "use_code": "120",
+      "building_type": "DetachedBuilding",
+      "building_type_da": "fritliggende enfamilieshus",
+      "floor_count": "1",
+      "housing_units": "1",
+      "json_constructed_year": "1937",
+      "json_renovated_year": null,
+      "json_dwelling_area": "107",
+      "json_heated_area": "107",
+      "json_roof_stories_area": "45",
+      "json_regular_stories_area": "62",
+      "json_basement_area": "62",
+      "json_number_of_stories": "1",
+      "json_building_type": "detachedHouse",
+      "json_building_type_da": "fritliggende enfamilieshus",
+      "json_story_types": [
+        "ground",
+        "basement",
+        "first"
+      ],
+      "heat_source_raw": "districtHeating",
+      "heat_source_da": "Fjernvarme",
+      "json_stories_localised": [],
+      "json_room_count": 0,
+      "json_room_types": [],
+      "json_has_loft": false,
+      "json_has_basement": true,
+      "json_has_garage": false,
+      "json_has_workshop": false
+    },
+    "fields": {
+      "Additional": {
+        "plans_text": "Bygningsdelenes isoleringsevne er baseret på skøn ud fra registrerede isoleringstykkelser, og er heraf fastlagt ud fra tabeller i gældende håndbog for energikonsulenter, som sammen med gældende DS 418 og f.eks Rockwool Energy Design danner grundlag for beregninger af yderligere konstruktioner.\n\nDer gøres opmærksom på, at forslag vedr. efterisolering af bygningskonstruktioner som f.eks. gulve, lofter og vægge alene er beregnet ud fra et energimæssigt hensyn. Der er i forslagene ikke taget højde for byggetekniske konsekvenser af forslagene. \n\nDet anbefales generelt at kontakte en rådgiver/fagmand, for at få udarbejdet en detaljeret projektbeskrivelse før isolerings- og/eller ombygningsarbejder igangsættes. I forbindelse med rapportens forslag om energiforbedring af tekniske installationer, bør man altid søge teknisk sparring med en professionel rådgiver eller leverandør. I forhold til energimærkets gyldighedsperiode, vil både prisgrundlag og produktudviklingen kunne ændre sig en del, år for år.\n\nVed bygningsgennemgangen forelå udfyldt ejeroplysningsskema. XXX\nVed bygningsgennemgangen forelå ikke et udfyldt ejeroplysningsskema. Det forudsættes hermed, at der ikke er givet tilladelse til destruktive undersøgelser. XXX\n\nFølgende materiale var til rådighed for udarbejdelsen af energimærket:\nBygningstegninger XXX\nTidligere energimærkningsrapport af den XX-XX-XX, med energimærkningsnummer: XXX\nAndet XXX\n\nRenoveringstider, som fremgår ved \"Rentable forslag\", er estimerede tider.\n\nDet er vigtigt at være opmærksom på, at energimæssige forbedringer ikke kun har betydning for bygningens energiforbrug, men også for den daglige komfort, samt for en eventuel gensalgsværdi for ejendommen.  \n                                                                                                                                                                                                                                                               \nSvingende energipriser har ikke betydning for bygningers energimærke, men har indflydelse på energiøkonomien. \n\nVed høje energipriser kan værdien af besparelsesforslag blive større, hvilket betyder, at det kan give økonomisk mening at gennemføre flere forslag inklusiv forslag der kan være rentable, hvis de udføres sammen med andre renoveringer.\n\nVed lave energipriser kan værdien af besparelsesforslag blive mindre og/eller umiddelbart ikke økonomisk rentable. I forbindelse hermed, er det vigtigt at være opmærksom på, at energimæssige forbedringer ikke kun har betydning for bygningens energiforbrug, men også for den daglige komfort, samt for en eventuel gensalgsværdi for ejendommen.",
+        "final_text": "Bygningsdelenes isoleringsevne er baseret på skøn ud fra registrerede isoleringstykkelser, og er heraf fastlagt ud fra tabeller i gældende håndbog for energikonsulenter, som sammen med gældende DS 418 og f.eks Rockwool Energy Design danner grundlag for beregninger af yderligere konstruktioner.\n\nDer gøres opmærksom på, at forslag vedr. efterisolering af bygningskonstruktioner som f.eks. gulve, lofter og vægge alene er beregnet ud fra et energimæssigt hensyn. Der er i forslagene ikke taget højde for byggetekniske konsekvenser af forslagene. \n\nDet anbefales generelt at kontakte en rådgiver/fagmand, for at få udarbejdet en detaljeret projektbeskrivelse før isolerings- og/eller ombygningsarbejder igangsættes. I forbindelse med rapportens forslag om energiforbedring af tekniske installationer, bør man altid søge teknisk sparring med en professionel rådgiver eller leverandør. I forhold til energimærkets gyldighedsperiode, vil både prisgrundlag og produktudviklingen kunne ændre sig en del, år for år.\n\nVed bygningsgennemgangen forelå udfyldt ejeroplysningsskema. \n\nFølgende materiale var til rådighed for udarbejdelsen af energimærket:\nBygningstegninger \nRenoveringstider, som fremgår ved \"Rentable forslag\", er estimerede tider.\n\nDet er vigtigt at være opmærksom på, at energimæssige forbedringer ikke kun har betydning for bygningens energiforbrug, men også for den daglige komfort, samt for en eventuel gensalgsværdi for ejendommen.  \n                                                                                                                                                                                                                                                               \nSvingende energipriser har ikke betydning for bygningers energimærke, men har indflydelse på energiøkonomien. \n\nVed høje energipriser kan værdien af besparelsesforslag blive større, hvilket betyder, at det kan give økonomisk mening at gennemføre flere forslag inklusiv forslag der kan være rentable, hvis de udføres sammen med andre renoveringer.\n\nVed lave energipriser kan værdien af besparelsesforslag blive mindre og/eller umiddelbart ikke økonomisk rentable. I forbindelse hermed, er det vigtigt at være opmærksom på, at energimæssige forbedringer ikke kun har betydning for bygningens energiforbrug, men også for den daglige komfort, samt for en eventuel gensalgsværdi for ejendommen.",
+        "plans_chars": 2648,
+        "final_chars": 2390,
+        "added_lines": [
+          "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema.",
+          "Bygningstegninger"
+        ],
+        "removed_lines": [
+          "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema. XXX",
+          "Ved bygningsgennemgangen forelå ikke et udfyldt ejeroplysningsskema. Det forudsættes hermed, at der ikke er givet tilladelse til destruktive undersøgelser. XXX",
+          "Bygningstegninger XXX",
+          "Tidligere energimærkningsrapport af den XX-XX-XX, med energimærkningsnummer: XXX",
+          "Andet XXX"
+        ],
+        "classified_added_lines": [
+          {
+            "line": "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema.",
+            "hits": []
+          },
+          {
+            "line": "Bygningstegninger",
+            "hits": []
+          }
+        ]
+      },
+      "OnEnergyPrices": {
+        "plans_text": "Der er i energimærket anvendt aktuelle energipriser for alle brændselstyper fx olie, naturgas, brænde og træpiller.\n\nRapportens elpris er anvendt ud fra en gennemsnitsvurdering, da energipriserne varierer dagligt og i forhold til valg af leverandør.\n \nTil beregning af rapportens forbedringsforslag er der anvendt estimerede priser, der kan variere en del fra aktuelle tilbudspriser, afhængig af både regionale forhold og valg af leverandør. \nI forbindelse med rapportens forslag om energiforbedringer, bør man altid søge  sparring med en professionel rådgiver eller leverandør. \nI forhold til energimærkets gyldighedsperiode, vil både prisgrundlag og produktudviklingen kunne ændre sig en del, år for år.",
+        "final_text": "Der er i energimærket anvendt aktuelle energipriser for fjernvarme\n\nRapportens elpris er anvendt ud fra en gennemsnitsvurdering, da energipriserne varierer dagligt og i forhold til valg af leverandør.\n \nTil beregning af rapportens forbedringsforslag er der anvendt estimerede priser, der kan variere en del fra aktuelle tilbudspriser, afhængig af både regionale forhold og valg af leverandør. \nI forbindelse med rapportens forslag om energiforbedringer, bør man altid søge  sparring med en professionel rådgiver eller leverandør. \nI forhold til energimærkets gyldighedsperiode, vil både prisgrundlag og produktudviklingen kunne ændre sig en del, år for år.",
+        "plans_chars": 705,
+        "final_chars": 656,
+        "added_lines": [
+          "Der er i energimærket anvendt aktuelle energipriser for fjernvarme"
+        ],
+        "removed_lines": [
+          "Der er i energimærket anvendt aktuelle energipriser for alle brændselstyper fx olie, naturgas, brænde og træpiller."
+        ],
+        "classified_added_lines": [
+          {
+            "line": "Der er i energimærket anvendt aktuelle energipriser for fjernvarme",
+            "hits": [
+              {
+                "category": "heat_source",
+                "value": "fjernvarme",
+                "auto": "yes",
+                "source": "JSON.heating.primarySource.sourceType"
+              }
+            ]
+          }
+        ]
+      },
+      "OnBuildingDescription": {
+        "plans_text": "De opmålte opvarmede arealer og BBR-arealer, samt opførelsestidspunkt og evt. renoveringstidspunkt, kan ses under baggrundsinformation.\n\nEjendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og XXX bygningstegninger. \n\nDe opmålte opvarmede arealer stemmer overens med BBR-meddelelsen. XXX\nDet opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen. XXX \nDet opmålte opvarmede areal stemmer ikke overens med BBR-meddelelsen. Afvigelsen består i XXX\n\n\nVed bygningsgennemgangen var der ikke adgang til XXX.\n\nFølgende rum XXX er uopvarmet. (vælg desuden en af nedenstående 2 muligheder XXX Slet dette)\n\nArealerne forudsættes jf. gældende Håndbog for energikonsulenter opvarmet med samme opvarmningsform som resten af bygningen, uanset at der ingen varmekilde er, da det vurderes at eksisterende varmeanlæg er tilstrækkelig til at kunne opvarme hele boligen  XXX\n\nArealerne forudsættes jf. gældende Håndbog for energikonsulenter som værende el-opvarmet, da det vurderes at eksisterende varmeanlæg ikke er tilstrækkelig til at kunne opvarme hele boligen. XXX\n\nHvis ikke andet er angivet, så er de faktuelle oplysninger i energimærket baseret på skøn ud fra hvad der visuelt kan konstateres. Oplysningerne er ikke en garanti og kan ikke betragtes som dette, men er angivet for at informere om hvad der er anvendt som grundlag for beregningen.",
+        "final_text": "De opmålte opvarmede arealer og BBR-arealer, samt opførelsestidspunkt og evt. renoveringstidspunkt, kan ses under baggrundsinformation.\n\nEjendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og bygningstegninger. \n\nDe opmålte opvarmede arealer stemmer overens med BBR-meddelelsen.\n\nArealerne forudsættes jf. gældende Håndbog for energikonsulenter opvarmet med samme opvarmningsform som resten af bygningen, uanset at der ingen varmekilde er, da det vurderes at eksisterende varmeanlæg er tilstrækkelig til at kunne opvarme hele boligen \n\nHvis ikke andet er angivet, så er de faktuelle oplysninger i energimærket baseret på skøn ud fra hvad der visuelt kan konstateres. Oplysningerne er ikke en garanti og kan ikke betragtes som dette, men er angivet for at informere om hvad der er anvendt som grundlag for beregningen.",
+        "plans_chars": 1377,
+        "final_chars": 832,
+        "added_lines": [
+          "Ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og bygningstegninger.",
+          "De opmålte opvarmede arealer stemmer overens med BBR-meddelelsen.",
+          "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter opvarmet med samme opvarmningsform som resten af bygningen, uanset at der ingen varmekilde er, da det vurderes at eksisterende varmeanlæg er tilstrækkelig til at kunne opvarme hele boligen"
+        ],
+        "removed_lines": [
+          "Ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og XXX bygningstegninger.",
+          "De opmålte opvarmede arealer stemmer overens med BBR-meddelelsen. XXX",
+          "Det opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen. XXX",
+          "Det opmålte opvarmede areal stemmer ikke overens med BBR-meddelelsen. Afvigelsen består i XXX",
+          "Ved bygningsgennemgangen var der ikke adgang til XXX.",
+          "Følgende rum XXX er uopvarmet. (vælg desuden en af nedenstående 2 muligheder XXX Slet dette)",
+          "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter opvarmet med samme opvarmningsform som resten af bygningen, uanset at der ingen varmekilde er, da det vurderes at eksisterende varmeanlæg er tilstrækkelig til at kunne opvarme hele boligen  XXX",
+          "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter som værende el-opvarmet, da det vurderes at eksisterende varmeanlæg ikke er tilstrækkelig til at kunne opvarme hele boligen. XXX"
+        ],
+        "classified_added_lines": [
+          {
+            "line": "Ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og bygningstegninger.",
+            "hits": []
+          },
+          {
+            "line": "De opmålte opvarmede arealer stemmer overens med BBR-meddelelsen.",
+            "hits": []
+          },
+          {
+            "line": "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter opvarmet med samme opvarmningsform som resten af bygningen, uanset at der ingen varmekilde er, da det vurderes at eksisterende varmeanlæg er tilstrækkelig til at kunne opvarme hele boligen",
+            "hits": []
+          }
+        ]
+      },
+      "OnDestructiveInspections": {
+        "plans_text": "",
+        "final_text": "",
+        "plans_chars": 0,
+        "final_chars": 0,
+        "added_lines": [],
+        "removed_lines": [],
+        "classified_added_lines": []
+      }
+    }
+  },
+  {
+    "project": "Sønderskovvej_5_5932_Humble",
+    "plans_xml": "Sønderskovvej_5_5932_Humble.xml",
+    "final_xml": "Sønderskovvej_5_5932_Humble final.xml",
+    "json_path": "Sønderskovvej_5_5932_Humble.json",
+    "facts": {
+      "year_of_construction": "1850",
+      "year_of_renovation": "1963",
+      "dwelling_area": "100",
+      "commercial_area": "0",
+      "use_code": "120",
+      "building_type": "DetachedBuilding",
+      "building_type_da": "fritliggende enfamilieshus",
+      "floor_count": "1",
+      "housing_units": "1",
+      "json_constructed_year": "1850",
+      "json_renovated_year": "1963",
+      "json_dwelling_area": "100",
+      "json_heated_area": "100",
+      "json_roof_stories_area": "64",
+      "json_regular_stories_area": "100",
+      "json_basement_area": "0",
+      "json_number_of_stories": "1",
+      "json_building_type": "detachedHouse",
+      "json_building_type_da": "fritliggende enfamilieshus",
+      "json_story_types": [
+        "ground"
+      ],
+      "heat_source_raw": "oilBoiler",
+      "heat_source_da": "oilBoiler",
+      "json_stories_localised": [],
+      "json_room_count": 0,
+      "json_room_types": [],
+      "json_has_loft": false,
+      "json_has_basement": false,
+      "json_has_garage": false,
+      "json_has_workshop": false
+    },
+    "fields": {
+      "Additional": {
+        "plans_text": "Bygningsdelenes isoleringsevne er baseret på skøn ud fra registrerede isoleringstykkelser, og er heraf fastlagt ud fra tabeller i gældende håndbog for energikonsulenter, som sammen med gældende DS 418 og f.eks Rockwool Energy Design danner grundlag for beregninger af yderligere konstruktioner.\n\nDer gøres opmærksom på, at forslag vedr. efterisolering af bygningskonstruktioner som f.eks. gulve, lofter og vægge alene er beregnet ud fra et energimæssigt hensyn. Der er i forslagene ikke taget højde for byggetekniske konsekvenser af forslagene. \n\nDet anbefales generelt at kontakte en rådgiver/fagmand, for at få udarbejdet en detaljeret projektbeskrivelse før isolerings- og/eller ombygningsarbejder igangsættes. I forbindelse med rapportens forslag om energiforbedring af tekniske installationer, bør man altid søge teknisk sparring med en professionel rådgiver eller leverandør. I forhold til energimærkets gyldighedsperiode, vil både prisgrundlag og produktudviklingen kunne ændre sig en del, år for år.\n\nVed bygningsgennemgangen forelå udfyldt ejeroplysningsskema. XXX\nVed bygningsgennemgangen forelå ikke et udfyldt ejeroplysningsskema. Det forudsættes hermed, at der ikke er givet tilladelse til destruktive undersøgelser. XXX\n\nFølgende materiale var til rådighed for udarbejdelsen af energimærket:\nBygningstegninger XXX\nTidligere energimærkningsrapport af den XX-XX-XX, med energimærkningsnummer: XXX\nAndet XXX\n\nRenoveringstider, som fremgår ved \"Rentable forslag\", er estimerede tider.\n\nDet er vigtigt at være opmærksom på, at energimæssige forbedringer ikke kun har betydning for bygningens energiforbrug, men også for den daglige komfort, samt for en eventuel gensalgsværdi for ejendommen.  \n                                                                                                                                                                                                                                                               \nSvingende energipriser har ikke betydning for bygningers energimærke, men har indflydelse på energiøkonomien. \n\nVed høje energipriser kan værdien af besparelsesforslag blive større, hvilket betyder, at det kan give økonomisk mening at gennemføre flere forslag inklusiv forslag der kan være rentable, hvis de udføres sammen med andre renoveringer.\n\nVed lave energipriser kan værdien af besparelsesforslag blive mindre og/eller umiddelbart ikke økonomisk rentable. I forbindelse hermed, er det vigtigt at være opmærksom på, at energimæssige forbedringer ikke kun har betydning for bygningens energiforbrug, men også for den daglige komfort, samt for en eventuel gensalgsværdi for ejendommen.",
+        "final_text": "Bygningsdelenes isoleringsevne er baseret på skøn ud fra registrerede isoleringstykkelser, og er heraf fastlagt ud fra tabeller i gældende håndbog for energikonsulenter, som sammen med gældende DS 418 og f.eks Rockwool Energy Design danner grundlag for beregninger af yderligere konstruktioner.\n\nDer gøres opmærksom på, at forslag vedr. efterisolering af bygningskonstruktioner som f.eks. gulve, lofter og vægge alene er beregnet ud fra et energimæssigt hensyn. Der er i forslagene ikke taget højde for byggetekniske konsekvenser af forslagene. \n\nDet anbefales generelt at kontakte en rådgiver/fagmand, for at få udarbejdet en detaljeret projektbeskrivelse før isolerings- og/eller ombygningsarbejder igangsættes. I forbindelse med rapportens forslag om energiforbedring af tekniske installationer, bør man altid søge teknisk sparring med en professionel rådgiver eller leverandør. I forhold til energimærkets gyldighedsperiode, vil både prisgrundlag og produktudviklingen kunne ændre sig en del, år for år.\n\nVed bygningsgennemgangen forelå udfyldt ejeroplysningsskema.\n\nRenoveringstider, som fremgår ved \"Rentable forslag\", er estimerede tider.\n\nDet er vigtigt at være opmærksom på, at energimæssige forbedringer ikke kun har betydning for bygningens energiforbrug, men også for den daglige komfort, samt for en eventuel gensalgsværdi for ejendommen.  \n                                                                                                                                                                                                                                                               \nSvingende energipriser har ikke betydning for bygningers energimærke, men har indflydelse på energiøkonomien. \n\nVed høje energipriser kan værdien af besparelsesforslag blive større, hvilket betyder, at det kan give økonomisk mening at gennemføre flere forslag inklusiv forslag der kan være rentable, hvis de udføres sammen med andre renoveringer.\n\nVed lave energipriser kan værdien af besparelsesforslag blive mindre og/eller umiddelbart ikke økonomisk rentable. I forbindelse hermed, er det vigtigt at være opmærksom på, at energimæssige forbedringer ikke kun har betydning for bygningens energiforbrug, men også for den daglige komfort, samt for en eventuel gensalgsværdi for ejendommen.",
+        "plans_chars": 2648,
+        "final_chars": 2299,
+        "added_lines": [
+          "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema."
+        ],
+        "removed_lines": [
+          "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema. XXX",
+          "Ved bygningsgennemgangen forelå ikke et udfyldt ejeroplysningsskema. Det forudsættes hermed, at der ikke er givet tilladelse til destruktive undersøgelser. XXX",
+          "Følgende materiale var til rådighed for udarbejdelsen af energimærket:",
+          "Bygningstegninger XXX",
+          "Tidligere energimærkningsrapport af den XX-XX-XX, med energimærkningsnummer: XXX",
+          "Andet XXX"
+        ],
+        "classified_added_lines": [
+          {
+            "line": "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema.",
+            "hits": []
+          }
+        ]
+      },
+      "OnEnergyPrices": {
+        "plans_text": "Der er i energimærket anvendt aktuelle energipriser for alle brændselstyper fx olie, naturgas, brænde og træpiller.\n\nRapportens elpris er anvendt ud fra en gennemsnitsvurdering, da energipriserne varierer dagligt og i forhold til valg af leverandør.\n \nTil beregning af rapportens forbedringsforslag er der anvendt estimerede priser, der kan variere en del fra aktuelle tilbudspriser, afhængig af både regionale forhold og valg af leverandør. \nI forbindelse med rapportens forslag om energiforbedringer, bør man altid søge  sparring med en professionel rådgiver eller leverandør. \nI forhold til energimærkets gyldighedsperiode, vil både prisgrundlag og produktudviklingen kunne ændre sig en del, år for år.",
+        "final_text": "Der er i energimærket anvendt aktuelle energipriser for el.\n\nRapportens elpris er anvendt ud fra en gennemsnitsvurdering, da energipriserne varierer dagligt og i forhold til valg af leverandør.\n \nTil beregning af rapportens forbedringsforslag er der anvendt estimerede priser, der kan variere en del fra aktuelle tilbudspriser, afhængig af både regionale forhold og valg af leverandør. \nI forbindelse med rapportens forslag om energiforbedringer, bør man altid søge  sparring med en professionel rådgiver eller leverandør. \nI forhold til energimærkets gyldighedsperiode, vil både prisgrundlag og produktudviklingen kunne ændre sig en del, år for år.",
+        "plans_chars": 705,
+        "final_chars": 649,
+        "added_lines": [
+          "Der er i energimærket anvendt aktuelle energipriser for el."
+        ],
+        "removed_lines": [
+          "Der er i energimærket anvendt aktuelle energipriser for alle brændselstyper fx olie, naturgas, brænde og træpiller."
+        ],
+        "classified_added_lines": [
+          {
+            "line": "Der er i energimærket anvendt aktuelle energipriser for el.",
+            "hits": []
+          }
+        ]
+      },
+      "OnBuildingDescription": {
+        "plans_text": "De opmålte opvarmede arealer og BBR-arealer, samt opførelsestidspunkt og evt. renoveringstidspunkt, kan ses under baggrundsinformation.\n\nEjendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og XXX bygningstegninger. \n\nDe opmålte opvarmede arealer stemmer overens med BBR-meddelelsen. XXX\nDet opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen. XXX \nDet opmålte opvarmede areal stemmer ikke overens med BBR-meddelelsen. Afvigelsen består i XXX\n\n\nVed bygningsgennemgangen var der ikke adgang til XXX.\n\nFølgende rum XXX er uopvarmet. (vælg desuden en af nedenstående 2 muligheder XXX Slet dette)\n\nArealerne forudsættes jf. gældende Håndbog for energikonsulenter opvarmet med samme opvarmningsform som resten af bygningen, uanset at der ingen varmekilde er, da det vurderes at eksisterende varmeanlæg er tilstrækkelig til at kunne opvarme hele boligen  XXX\n\nArealerne forudsættes jf. gældende Håndbog for energikonsulenter som værende el-opvarmet, da det vurderes at eksisterende varmeanlæg ikke er tilstrækkelig til at kunne opvarme hele boligen. XXX\n\nHvis ikke andet er angivet, så er de faktuelle oplysninger i energimærket baseret på skøn ud fra hvad der visuelt kan konstateres. Oplysningerne er ikke en garanti og kan ikke betragtes som dette, men er angivet for at informere om hvad der er anvendt som grundlag for beregningen.",
+        "final_text": "De opmålte opvarmede arealer og BBR-arealer, samt opførelsestidspunkt og evt. renoveringstidspunkt, kan ses under baggrundsinformation.\n\nEjendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og bygningstegninger. \n\nDe opmålte opvarmede arealer stemmer overens med BBR-meddelelsen. \n\nArealerne forudsættes jf. gældende Håndbog for energikonsulenter opvarmet med samme opvarmningsform som resten af bygningen, uanset at der ingen varmekilde er, da det vurderes at eksisterende varmeanlæg er tilstrækkelig til at kunne opvarme hele boligen \n\nHvis ikke andet er angivet, så er de faktuelle oplysninger i energimærket baseret på skøn ud fra hvad der visuelt kan konstateres. Oplysningerne er ikke en garanti og kan ikke betragtes som dette, men er angivet for at informere om hvad der er anvendt som grundlag for beregningen.",
+        "plans_chars": 1377,
+        "final_chars": 833,
+        "added_lines": [
+          "Ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og bygningstegninger.",
+          "De opmålte opvarmede arealer stemmer overens med BBR-meddelelsen.",
+          "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter opvarmet med samme opvarmningsform som resten af bygningen, uanset at der ingen varmekilde er, da det vurderes at eksisterende varmeanlæg er tilstrækkelig til at kunne opvarme hele boligen"
+        ],
+        "removed_lines": [
+          "Ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og XXX bygningstegninger.",
+          "De opmålte opvarmede arealer stemmer overens med BBR-meddelelsen. XXX",
+          "Det opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen. XXX",
+          "Det opmålte opvarmede areal stemmer ikke overens med BBR-meddelelsen. Afvigelsen består i XXX",
+          "Ved bygningsgennemgangen var der ikke adgang til XXX.",
+          "Følgende rum XXX er uopvarmet. (vælg desuden en af nedenstående 2 muligheder XXX Slet dette)",
+          "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter opvarmet med samme opvarmningsform som resten af bygningen, uanset at der ingen varmekilde er, da det vurderes at eksisterende varmeanlæg er tilstrækkelig til at kunne opvarme hele boligen  XXX",
+          "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter som værende el-opvarmet, da det vurderes at eksisterende varmeanlæg ikke er tilstrækkelig til at kunne opvarme hele boligen. XXX"
+        ],
+        "classified_added_lines": [
+          {
+            "line": "Ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og bygningstegninger.",
+            "hits": []
+          },
+          {
+            "line": "De opmålte opvarmede arealer stemmer overens med BBR-meddelelsen.",
+            "hits": []
+          },
+          {
+            "line": "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter opvarmet med samme opvarmningsform som resten af bygningen, uanset at der ingen varmekilde er, da det vurderes at eksisterende varmeanlæg er tilstrækkelig til at kunne opvarme hele boligen",
+            "hits": []
+          }
+        ]
+      },
+      "OnDestructiveInspections": {
+        "plans_text": "",
+        "final_text": "",
+        "plans_chars": 0,
+        "final_chars": 0,
+        "added_lines": [],
+        "removed_lines": [],
+        "classified_added_lines": []
+      }
+    }
+  }
+]

@@ -1,0 +1,1699 @@
+{
+  "projects": [
+    "Ivarsvej_27_5200_Odense_V",
+    "Kirkegyden_15_5270_Odense_N",
+    "Lunden_3_8464_Galten",
+    "Lungstedløkken_15_5250_Odense_SV",
+    "Møllehøj_15_6400_Sønderborg",
+    "Nypølsgade_14_6470_Sydals",
+    "Spangsvej_15_5210_Odense_NV",
+    "Spurvevej_13_7100_Vejle",
+    "Strandbakken_5_5900_Rudkøbing",
+    "Sønderskovvej_5_5932_Humble"
+  ],
+  "summary": {
+    "total_events": 214,
+    "total_unique": 66,
+    "repeated_unique": 24,
+    "repeated_events": 172,
+    "universal_unique": 13
+  },
+  "by_field_action": {
+    "Additional|removed": [
+      {
+        "normalized": "ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema. xxx",
+        "count": 10,
+        "project_count": 10,
+        "projects": [
+          "Ivarsvej_27_5200_Odense_V",
+          "Kirkegyden_15_5270_Odense_N",
+          "Lunden_3_8464_Galten",
+          "Lungstedløkken_15_5250_Odense_SV",
+          "Møllehøj_15_6400_Sønderborg",
+          "Nypølsgade_14_6470_Sydals",
+          "Spangsvej_15_5210_Odense_NV",
+          "Spurvevej_13_7100_Vejle",
+          "Strandbakken_5_5900_Rudkøbing",
+          "Sønderskovvej_5_5932_Humble"
+        ],
+        "examples": [
+          {
+            "project": "Ivarsvej_27_5200_Odense_V",
+            "raw": "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema. XXX"
+          },
+          {
+            "project": "Kirkegyden_15_5270_Odense_N",
+            "raw": "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema. XXX"
+          },
+          {
+            "project": "Lunden_3_8464_Galten",
+            "raw": "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema. XXX"
+          },
+          {
+            "project": "Lungstedløkken_15_5250_Odense_SV",
+            "raw": "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema. XXX"
+          },
+          {
+            "project": "Møllehøj_15_6400_Sønderborg",
+            "raw": "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema. XXX"
+          },
+          {
+            "project": "Nypølsgade_14_6470_Sydals",
+            "raw": "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema. XXX"
+          },
+          {
+            "project": "Spangsvej_15_5210_Odense_NV",
+            "raw": "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema. XXX"
+          },
+          {
+            "project": "Spurvevej_13_7100_Vejle",
+            "raw": "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema. XXX"
+          },
+          {
+            "project": "Strandbakken_5_5900_Rudkøbing",
+            "raw": "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema. XXX"
+          },
+          {
+            "project": "Sønderskovvej_5_5932_Humble",
+            "raw": "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema. XXX"
+          }
+        ]
+      },
+      {
+        "normalized": "ved bygningsgennemgangen forelå ikke et udfyldt ejeroplysningsskema. det forudsættes hermed, at der ikke er givet tilladelse til destruktive undersøgelser. xxx",
+        "count": 10,
+        "project_count": 10,
+        "projects": [
+          "Ivarsvej_27_5200_Odense_V",
+          "Kirkegyden_15_5270_Odense_N",
+          "Lunden_3_8464_Galten",
+          "Lungstedløkken_15_5250_Odense_SV",
+          "Møllehøj_15_6400_Sønderborg",
+          "Nypølsgade_14_6470_Sydals",
+          "Spangsvej_15_5210_Odense_NV",
+          "Spurvevej_13_7100_Vejle",
+          "Strandbakken_5_5900_Rudkøbing",
+          "Sønderskovvej_5_5932_Humble"
+        ],
+        "examples": [
+          {
+            "project": "Ivarsvej_27_5200_Odense_V",
+            "raw": "Ved bygningsgennemgangen forelå ikke et udfyldt ejeroplysningsskema. Det forudsættes hermed, at der ikke er givet tilladelse til destruktive undersøgelser. XXX"
+          },
+          {
+            "project": "Kirkegyden_15_5270_Odense_N",
+            "raw": "Ved bygningsgennemgangen forelå ikke et udfyldt ejeroplysningsskema. Det forudsættes hermed, at der ikke er givet tilladelse til destruktive undersøgelser. XXX"
+          },
+          {
+            "project": "Lunden_3_8464_Galten",
+            "raw": "Ved bygningsgennemgangen forelå ikke et udfyldt ejeroplysningsskema. Det forudsættes hermed, at der ikke er givet tilladelse til destruktive undersøgelser. XXX"
+          },
+          {
+            "project": "Lungstedløkken_15_5250_Odense_SV",
+            "raw": "Ved bygningsgennemgangen forelå ikke et udfyldt ejeroplysningsskema. Det forudsættes hermed, at der ikke er givet tilladelse til destruktive undersøgelser. XXX"
+          },
+          {
+            "project": "Møllehøj_15_6400_Sønderborg",
+            "raw": "Ved bygningsgennemgangen forelå ikke et udfyldt ejeroplysningsskema. Det forudsættes hermed, at der ikke er givet tilladelse til destruktive undersøgelser. XXX"
+          },
+          {
+            "project": "Nypølsgade_14_6470_Sydals",
+            "raw": "Ved bygningsgennemgangen forelå ikke et udfyldt ejeroplysningsskema. Det forudsættes hermed, at der ikke er givet tilladelse til destruktive undersøgelser. XXX"
+          },
+          {
+            "project": "Spangsvej_15_5210_Odense_NV",
+            "raw": "Ved bygningsgennemgangen forelå ikke et udfyldt ejeroplysningsskema. Det forudsættes hermed, at der ikke er givet tilladelse til destruktive undersøgelser. XXX"
+          },
+          {
+            "project": "Spurvevej_13_7100_Vejle",
+            "raw": "Ved bygningsgennemgangen forelå ikke et udfyldt ejeroplysningsskema. Det forudsættes hermed, at der ikke er givet tilladelse til destruktive undersøgelser. XXX"
+          },
+          {
+            "project": "Strandbakken_5_5900_Rudkøbing",
+            "raw": "Ved bygningsgennemgangen forelå ikke et udfyldt ejeroplysningsskema. Det forudsættes hermed, at der ikke er givet tilladelse til destruktive undersøgelser. XXX"
+          },
+          {
+            "project": "Sønderskovvej_5_5932_Humble",
+            "raw": "Ved bygningsgennemgangen forelå ikke et udfyldt ejeroplysningsskema. Det forudsættes hermed, at der ikke er givet tilladelse til destruktive undersøgelser. XXX"
+          }
+        ]
+      },
+      {
+        "normalized": "bygningstegninger xxx",
+        "count": 10,
+        "project_count": 10,
+        "projects": [
+          "Ivarsvej_27_5200_Odense_V",
+          "Kirkegyden_15_5270_Odense_N",
+          "Lunden_3_8464_Galten",
+          "Lungstedløkken_15_5250_Odense_SV",
+          "Møllehøj_15_6400_Sønderborg",
+          "Nypølsgade_14_6470_Sydals",
+          "Spangsvej_15_5210_Odense_NV",
+          "Spurvevej_13_7100_Vejle",
+          "Strandbakken_5_5900_Rudkøbing",
+          "Sønderskovvej_5_5932_Humble"
+        ],
+        "examples": [
+          {
+            "project": "Ivarsvej_27_5200_Odense_V",
+            "raw": "Bygningstegninger XXX"
+          },
+          {
+            "project": "Kirkegyden_15_5270_Odense_N",
+            "raw": "Bygningstegninger XXX"
+          },
+          {
+            "project": "Lunden_3_8464_Galten",
+            "raw": "Bygningstegninger XXX"
+          },
+          {
+            "project": "Lungstedløkken_15_5250_Odense_SV",
+            "raw": "Bygningstegninger XXX"
+          },
+          {
+            "project": "Møllehøj_15_6400_Sønderborg",
+            "raw": "Bygningstegninger XXX"
+          },
+          {
+            "project": "Nypølsgade_14_6470_Sydals",
+            "raw": "Bygningstegninger XXX"
+          },
+          {
+            "project": "Spangsvej_15_5210_Odense_NV",
+            "raw": "Bygningstegninger XXX"
+          },
+          {
+            "project": "Spurvevej_13_7100_Vejle",
+            "raw": "Bygningstegninger XXX"
+          },
+          {
+            "project": "Strandbakken_5_5900_Rudkøbing",
+            "raw": "Bygningstegninger XXX"
+          },
+          {
+            "project": "Sønderskovvej_5_5932_Humble",
+            "raw": "Bygningstegninger XXX"
+          }
+        ]
+      },
+      {
+        "normalized": "tidligere energimærkningsrapport af den xx-xx-xx, med energimærkningsnummer: xxx",
+        "count": 10,
+        "project_count": 10,
+        "projects": [
+          "Ivarsvej_27_5200_Odense_V",
+          "Kirkegyden_15_5270_Odense_N",
+          "Lunden_3_8464_Galten",
+          "Lungstedløkken_15_5250_Odense_SV",
+          "Møllehøj_15_6400_Sønderborg",
+          "Nypølsgade_14_6470_Sydals",
+          "Spangsvej_15_5210_Odense_NV",
+          "Spurvevej_13_7100_Vejle",
+          "Strandbakken_5_5900_Rudkøbing",
+          "Sønderskovvej_5_5932_Humble"
+        ],
+        "examples": [
+          {
+            "project": "Ivarsvej_27_5200_Odense_V",
+            "raw": "Tidligere energimærkningsrapport af den XX-XX-XX, med energimærkningsnummer: XXX"
+          },
+          {
+            "project": "Kirkegyden_15_5270_Odense_N",
+            "raw": "Tidligere energimærkningsrapport af den XX-XX-XX, med energimærkningsnummer: XXX"
+          },
+          {
+            "project": "Lunden_3_8464_Galten",
+            "raw": "Tidligere energimærkningsrapport af den XX-XX-XX, med energimærkningsnummer: XXX"
+          },
+          {
+            "project": "Lungstedløkken_15_5250_Odense_SV",
+            "raw": "Tidligere energimærkningsrapport af den XX-XX-XX, med energimærkningsnummer: XXX"
+          },
+          {
+            "project": "Møllehøj_15_6400_Sønderborg",
+            "raw": "Tidligere energimærkningsrapport af den XX-XX-XX, med energimærkningsnummer: XXX"
+          },
+          {
+            "project": "Nypølsgade_14_6470_Sydals",
+            "raw": "Tidligere energimærkningsrapport af den XX-XX-XX, med energimærkningsnummer: XXX"
+          },
+          {
+            "project": "Spangsvej_15_5210_Odense_NV",
+            "raw": "Tidligere energimærkningsrapport af den XX-XX-XX, med energimærkningsnummer: XXX"
+          },
+          {
+            "project": "Spurvevej_13_7100_Vejle",
+            "raw": "Tidligere energimærkningsrapport af den XX-XX-XX, med energimærkningsnummer: XXX"
+          },
+          {
+            "project": "Strandbakken_5_5900_Rudkøbing",
+            "raw": "Tidligere energimærkningsrapport af den XX-XX-XX, med energimærkningsnummer: XXX"
+          },
+          {
+            "project": "Sønderskovvej_5_5932_Humble",
+            "raw": "Tidligere energimærkningsrapport af den XX-XX-XX, med energimærkningsnummer: XXX"
+          }
+        ]
+      },
+      {
+        "normalized": "andet xxx",
+        "count": 10,
+        "project_count": 10,
+        "projects": [
+          "Ivarsvej_27_5200_Odense_V",
+          "Kirkegyden_15_5270_Odense_N",
+          "Lunden_3_8464_Galten",
+          "Lungstedløkken_15_5250_Odense_SV",
+          "Møllehøj_15_6400_Sønderborg",
+          "Nypølsgade_14_6470_Sydals",
+          "Spangsvej_15_5210_Odense_NV",
+          "Spurvevej_13_7100_Vejle",
+          "Strandbakken_5_5900_Rudkøbing",
+          "Sønderskovvej_5_5932_Humble"
+        ],
+        "examples": [
+          {
+            "project": "Ivarsvej_27_5200_Odense_V",
+            "raw": "Andet XXX"
+          },
+          {
+            "project": "Kirkegyden_15_5270_Odense_N",
+            "raw": "Andet XXX"
+          },
+          {
+            "project": "Lunden_3_8464_Galten",
+            "raw": "Andet XXX"
+          },
+          {
+            "project": "Lungstedløkken_15_5250_Odense_SV",
+            "raw": "Andet XXX"
+          },
+          {
+            "project": "Møllehøj_15_6400_Sønderborg",
+            "raw": "Andet XXX"
+          },
+          {
+            "project": "Nypølsgade_14_6470_Sydals",
+            "raw": "Andet XXX"
+          },
+          {
+            "project": "Spangsvej_15_5210_Odense_NV",
+            "raw": "Andet XXX"
+          },
+          {
+            "project": "Spurvevej_13_7100_Vejle",
+            "raw": "Andet XXX"
+          },
+          {
+            "project": "Strandbakken_5_5900_Rudkøbing",
+            "raw": "Andet XXX"
+          },
+          {
+            "project": "Sønderskovvej_5_5932_Humble",
+            "raw": "Andet XXX"
+          }
+        ]
+      },
+      {
+        "normalized": "følgende materiale var til rådighed for udarbejdelsen af energimærket:",
+        "count": 1,
+        "project_count": 1,
+        "projects": [
+          "Sønderskovvej_5_5932_Humble"
+        ],
+        "examples": [
+          {
+            "project": "Sønderskovvej_5_5932_Humble",
+            "raw": "Følgende materiale var til rådighed for udarbejdelsen af energimærket:"
+          }
+        ]
+      }
+    ],
+    "Additional|added": [
+      {
+        "normalized": "ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema.",
+        "count": 8,
+        "project_count": 8,
+        "projects": [
+          "Ivarsvej_27_5200_Odense_V",
+          "Kirkegyden_15_5270_Odense_N",
+          "Lunden_3_8464_Galten",
+          "Lungstedløkken_15_5250_Odense_SV",
+          "Spangsvej_15_5210_Odense_NV",
+          "Spurvevej_13_7100_Vejle",
+          "Strandbakken_5_5900_Rudkøbing",
+          "Sønderskovvej_5_5932_Humble"
+        ],
+        "examples": [
+          {
+            "project": "Ivarsvej_27_5200_Odense_V",
+            "raw": "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema."
+          },
+          {
+            "project": "Kirkegyden_15_5270_Odense_N",
+            "raw": "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema."
+          },
+          {
+            "project": "Lunden_3_8464_Galten",
+            "raw": "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema."
+          },
+          {
+            "project": "Lungstedløkken_15_5250_Odense_SV",
+            "raw": "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema."
+          },
+          {
+            "project": "Spangsvej_15_5210_Odense_NV",
+            "raw": "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema."
+          },
+          {
+            "project": "Spurvevej_13_7100_Vejle",
+            "raw": "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema."
+          },
+          {
+            "project": "Strandbakken_5_5900_Rudkøbing",
+            "raw": "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema."
+          },
+          {
+            "project": "Sønderskovvej_5_5932_Humble",
+            "raw": "Ved bygningsgennemgangen forelå udfyldt ejeroplysningsskema."
+          }
+        ]
+      },
+      {
+        "normalized": "udfyldt ejeroplysningsskema.",
+        "count": 2,
+        "project_count": 2,
+        "projects": [
+          "Møllehøj_15_6400_Sønderborg",
+          "Nypølsgade_14_6470_Sydals"
+        ],
+        "examples": [
+          {
+            "project": "Møllehøj_15_6400_Sønderborg",
+            "raw": "Udfyldt ejeroplysningsskema."
+          },
+          {
+            "project": "Nypølsgade_14_6470_Sydals",
+            "raw": "Udfyldt ejeroplysningsskema."
+          }
+        ]
+      },
+      {
+        "normalized": "ved bygningsgennemgangen forelå der ingen tegningsmateriale eller bygningsbeskrivelser.",
+        "count": 2,
+        "project_count": 2,
+        "projects": [
+          "Møllehøj_15_6400_Sønderborg",
+          "Nypølsgade_14_6470_Sydals"
+        ],
+        "examples": [
+          {
+            "project": "Møllehøj_15_6400_Sønderborg",
+            "raw": "Ved bygningsgennemgangen forelå der ingen tegningsmateriale eller bygningsbeskrivelser."
+          },
+          {
+            "project": "Nypølsgade_14_6470_Sydals",
+            "raw": "Ved bygningsgennemgangen forelå der ingen tegningsmateriale eller bygningsbeskrivelser."
+          }
+        ]
+      },
+      {
+        "normalized": "bygningstegninger <YEAR>",
+        "count": 1,
+        "project_count": 1,
+        "projects": [
+          "Ivarsvej_27_5200_Odense_V"
+        ],
+        "examples": [
+          {
+            "project": "Ivarsvej_27_5200_Odense_V",
+            "raw": "Bygningstegninger 1951"
+          }
+        ]
+      },
+      {
+        "normalized": "tidligere energimærkningsrapport af den <NUM>. maj <YEAR>, med energimærkningsnummer: <ID>",
+        "count": 1,
+        "project_count": 1,
+        "projects": [
+          "Ivarsvej_27_5200_Odense_V"
+        ],
+        "examples": [
+          {
+            "project": "Ivarsvej_27_5200_Odense_V",
+            "raw": "Tidligere energimærkningsrapport af den 11. maj 2022, med energimærkningsnummer: 311599521"
+          }
+        ]
+      },
+      {
+        "normalized": "tidligere energimærkningsrapport af den <NUM>-<NUM>-<YEAR>, med energimærkningsnummer: <ID>",
+        "count": 1,
+        "project_count": 1,
+        "projects": [
+          "Kirkegyden_15_5270_Odense_N"
+        ],
+        "examples": [
+          {
+            "project": "Kirkegyden_15_5270_Odense_N",
+            "raw": "Tidligere energimærkningsrapport af den 18-10-2007, med energimærkningsnummer: 100051936"
+          }
+        ]
+      },
+      {
+        "normalized": "ejendommen er oprindeligt fra <YEAR>, med en tilbygning i <YEAR>. størstedelen af klimaskærmen, herunder gulve og ydervægge, står som ved opførelsen. loftrummet er blevet efterisoleret og der er skiftet vinduer i hele ejendommen.",
+        "count": 1,
+        "project_count": 1,
+        "projects": [
+          "Lunden_3_8464_Galten"
+        ],
+        "examples": [
+          {
+            "project": "Lunden_3_8464_Galten",
+            "raw": "Ejendommen er oprindeligt fra 1969, med en tilbygning i 1976. Størstedelen af klimaskærmen, herunder gulve og ydervægge, står som ved opførelsen. Loftrummet er blevet efterisoleret og der er skiftet vinduer i hele ejendommen."
+          }
+        ]
+      },
+      {
+        "normalized": "der kunne ved besigtigelsen ikke lokaliseres styring af gulvvarme i badeværelse. men da gulvet var varmt er der ingen tvivl om der er gulvvarme.",
+        "count": 1,
+        "project_count": 1,
+        "projects": [
+          "Lunden_3_8464_Galten"
+        ],
+        "examples": [
+          {
+            "project": "Lunden_3_8464_Galten",
+            "raw": "Der kunne ved besigtigelsen ikke lokaliseres styring af gulvvarme i badeværelse. Men da gulvet var varmt er der ingen tvivl om der er gulvvarme."
+          }
+        ]
+      },
+      {
+        "normalized": "bygningstegninger fra opførelsen og tilbygningen.",
+        "count": 1,
+        "project_count": 1,
+        "projects": [
+          "Lunden_3_8464_Galten"
+        ],
+        "examples": [
+          {
+            "project": "Lunden_3_8464_Galten",
+            "raw": "Bygningstegninger fra opførelsen og tilbygningen."
+          }
+        ]
+      },
+      {
+        "normalized": "bygningstegninger fra opførelsen dateret <YEAR>.",
+        "count": 1,
+        "project_count": 1,
+        "projects": [
+          "Lungstedløkken_15_5250_Odense_SV"
+        ],
+        "examples": [
+          {
+            "project": "Lungstedløkken_15_5250_Odense_SV",
+            "raw": "Bygningstegninger fra opførelsen dateret 1976."
+          }
+        ]
+      },
+      {
+        "normalized": "tidligere energimærkningsrapport af den <DATE>, med energimærkningsnummer: <ID>",
+        "count": 1,
+        "project_count": 1,
+        "projects": [
+          "Lungstedløkken_15_5250_Odense_SV"
+        ],
+        "examples": [
+          {
+            "project": "Lungstedløkken_15_5250_Odense_SV",
+            "raw": "Tidligere energimærkningsrapport af den 22-03-16, med energimærkningsnummer: 311166410"
+          }
+        ]
+      },
+      {
+        "normalized": "snit- og plantegninger fra <YEAR>.",
+        "count": 1,
+        "project_count": 1,
+        "projects": [
+          "Møllehøj_15_6400_Sønderborg"
+        ],
+        "examples": [
+          {
+            "project": "Møllehøj_15_6400_Sønderborg",
+            "raw": "Snit- og plantegninger fra 2008."
+          }
+        ]
+      },
+      {
+        "normalized": "det oplyste varmeforbrug stammer fra ejer, og er udelukkende oplyst i kr., hvorfor der ved enheder fremgår <NUM>.",
+        "count": 1,
+        "project_count": 1,
+        "projects": [
+          "Møllehøj_15_6400_Sønderborg"
+        ],
+        "examples": [
+          {
+            "project": "Møllehøj_15_6400_Sønderborg",
+            "raw": "Det oplyste varmeforbrug stammer fra ejer, og er udelukkende oplyst i kr., hvorfor der ved enheder fremgår 0."
+          }
+        ]
+      },
+      {
+        "normalized": "udgifter til oplyst varmeforbrug er registeret som variable udgifter, da der ikke foreligger en opgørelse, hvor de faste udgifter er udspecificeret.",
+        "count": 1,
+        "project_count": 1,
+        "projects": [
+          "Møllehøj_15_6400_Sønderborg"
+        ],
+        "examples": [
+          {
+            "project": "Møllehøj_15_6400_Sønderborg",
+            "raw": "Udgifter til oplyst varmeforbrug er registeret som variable udgifter, da der ikke foreligger en opgørelse, hvor de faste udgifter er udspecificeret."
+          }
+        ]
+      },
+      {
+        "normalized": "det oplyste varmeforbrug stammer fra ejer, og er udelukkende oplyst i kr. (for el-forbrug), hvorfor der ved enheder fremgår <NUM>.",
+        "count": 1,
+        "project_count": 1,
+        "projects": [
+          "Nypølsgade_14_6470_Sydals"
+        ],
+        "examples": [
+          {
+            "project": "Nypølsgade_14_6470_Sydals",
+            "raw": "Det oplyste varmeforbrug stammer fra ejer, og er udelukkende oplyst i kr. (for el-forbrug), hvorfor der ved enheder fremgår 0."
+          }
+        ]
+      },
+      {
+        "normalized": "i den oplyste udgift til elforbrug indgår tillige elforbrug til husholdning, belysning mv. det beregnede forbrug er uden elforbrug til husholdningen, belysning mv, hvilket svarer til ca. <NUM>-<NUM> kwh for en almindelig husstand.",
+        "count": 1,
+        "project_count": 1,
+        "projects": [
+          "Nypølsgade_14_6470_Sydals"
+        ],
+        "examples": [
+          {
+            "project": "Nypølsgade_14_6470_Sydals",
+            "raw": "I den oplyste udgift til elforbrug indgår tillige elforbrug til husholdning, belysning mv.  Det beregnede forbrug er uden elforbrug til husholdningen, belysning mv, hvilket svarer til ca. 4.000-4.500 kWh for en almindelig husstand."
+          }
+        ]
+      },
+      {
+        "normalized": "ved beregningen af det samlede energiforbrug indgår el-forbrug iflg. bygningsreglementet med en faktor på <NUM> p.g.a. den større co2-belastning ved elproduktion, hvilket ved el-opvarmede huse medfører at energimærket ofte befinder sig i den nederste ende af energimærkningsskalaen.",
+        "count": 1,
+        "project_count": 1,
+        "projects": [
+          "Nypølsgade_14_6470_Sydals"
+        ],
+        "examples": [
+          {
+            "project": "Nypølsgade_14_6470_Sydals",
+            "raw": "Ved beregningen af det samlede energiforbrug indgår el-forbrug iflg. Bygningsreglementet med en faktor på 1,9 p.g.a. den større CO2-belastning ved elproduktion, hvilket ved el-opvarmede huse medfører at energimærket ofte befinder sig i den nederste ende af energimærkningsskalaen."
+          }
+        ]
+      },
+      {
+        "normalized": "bygningstegninger fra opførelsen dateret <YEAR> og tilbygning dateret <YEAR>.",
+        "count": 1,
+        "project_count": 1,
+        "projects": [
+          "Spangsvej_15_5210_Odense_NV"
+        ],
+        "examples": [
+          {
+            "project": "Spangsvej_15_5210_Odense_NV",
+            "raw": "Bygningstegninger fra opførelsen dateret 1978 og tilbygning dateret 1979."
+          }
+        ]
+      },
+      {
+        "normalized": "udateret bygningstegninger.",
+        "count": 1,
+        "project_count": 1,
+        "projects": [
+          "Spurvevej_13_7100_Vejle"
+        ],
+        "examples": [
+          {
+            "project": "Spurvevej_13_7100_Vejle",
+            "raw": "Udateret bygningstegninger."
+          }
+        ]
+      },
+      {
+        "normalized": "bygningstegninger",
+        "count": 1,
+        "project_count": 1,
+        "projects": [
+          "Strandbakken_5_5900_Rudkøbing"
+        ],
+        "examples": [
+          {
+            "project": "Strandbakken_5_5900_Rudkøbing",
+            "raw": "Bygningstegninger"
+          }
+        ]
+      }
+    ],
+    "OnEnergyPrices|removed": [
+      {
+        "normalized": "der er i energimærket anvendt aktuelle energipriser for alle brændselstyper fx olie, naturgas, brænde og træpiller.",
+        "count": 8,
+        "project_count": 8,
+        "projects": [
+          "Ivarsvej_27_5200_Odense_V",
+          "Lunden_3_8464_Galten",
+          "Lungstedløkken_15_5250_Odense_SV",
+          "Nypølsgade_14_6470_Sydals",
+          "Spangsvej_15_5210_Odense_NV",
+          "Spurvevej_13_7100_Vejle",
+          "Strandbakken_5_5900_Rudkøbing",
+          "Sønderskovvej_5_5932_Humble"
+        ],
+        "examples": [
+          {
+            "project": "Ivarsvej_27_5200_Odense_V",
+            "raw": "Der er i energimærket anvendt aktuelle energipriser for alle brændselstyper fx olie, naturgas, brænde og træpiller."
+          },
+          {
+            "project": "Lunden_3_8464_Galten",
+            "raw": "Der er i energimærket anvendt aktuelle energipriser for alle brændselstyper fx olie, naturgas, brænde og træpiller."
+          },
+          {
+            "project": "Lungstedløkken_15_5250_Odense_SV",
+            "raw": "Der er i energimærket anvendt aktuelle energipriser for alle brændselstyper fx olie, naturgas, brænde og træpiller."
+          },
+          {
+            "project": "Nypølsgade_14_6470_Sydals",
+            "raw": "Der er i energimærket anvendt aktuelle energipriser for alle brændselstyper fx olie, naturgas, brænde og træpiller."
+          },
+          {
+            "project": "Spangsvej_15_5210_Odense_NV",
+            "raw": "Der er i energimærket anvendt aktuelle energipriser for alle brændselstyper fx olie, naturgas, brænde og træpiller."
+          },
+          {
+            "project": "Spurvevej_13_7100_Vejle",
+            "raw": "Der er i energimærket anvendt aktuelle energipriser for alle brændselstyper fx olie, naturgas, brænde og træpiller."
+          },
+          {
+            "project": "Strandbakken_5_5900_Rudkøbing",
+            "raw": "Der er i energimærket anvendt aktuelle energipriser for alle brændselstyper fx olie, naturgas, brænde og træpiller."
+          },
+          {
+            "project": "Sønderskovvej_5_5932_Humble",
+            "raw": "Der er i energimærket anvendt aktuelle energipriser for alle brændselstyper fx olie, naturgas, brænde og træpiller."
+          }
+        ]
+      },
+      {
+        "normalized": "rapportens elpris er anvendt ud fra en gennemsnitsvurdering, da energipriserne varierer dagligt og i forhold til valg af leverandør.",
+        "count": 1,
+        "project_count": 1,
+        "projects": [
+          "Ivarsvej_27_5200_Odense_V"
+        ],
+        "examples": [
+          {
+            "project": "Ivarsvej_27_5200_Odense_V",
+            "raw": "Rapportens elpris er anvendt ud fra en gennemsnitsvurdering, da energipriserne varierer dagligt og i forhold til valg af leverandør."
+          }
+        ]
+      },
+      {
+        "normalized": "i forbindelse med rapportens forslag om energiforbedringer, bør man altid søge sparring med en professionel rådgiver eller leverandør.",
+        "count": 1,
+        "project_count": 1,
+        "projects": [
+          "Ivarsvej_27_5200_Odense_V"
+        ],
+        "examples": [
+          {
+            "project": "Ivarsvej_27_5200_Odense_V",
+            "raw": "I forbindelse med rapportens forslag om energiforbedringer, bør man altid søge  sparring med en professionel rådgiver eller leverandør."
+          }
+        ]
+      }
+    ],
+    "OnEnergyPrices|added": [
+      {
+        "normalized": "fjernvarmeprisen er i denne rapport fastsat ud fra de tariffer, der var gældende ved energimærkningsrapportens officielle indberetningsdato. fjernvarmeprisen stammer fra det konkrete fjernvarmeværk: fjernvarme fyn.",
+        "count": 3,
+        "project_count": 3,
+        "projects": [
+          "Ivarsvej_27_5200_Odense_V",
+          "Lungstedløkken_15_5250_Odense_SV",
+          "Spangsvej_15_5210_Odense_NV"
+        ],
+        "examples": [
+          {
+            "project": "Ivarsvej_27_5200_Odense_V",
+            "raw": "Fjernvarmeprisen er i denne rapport fastsat ud fra de tariffer, der var gældende ved energimærkningsrapportens officielle indberetningsdato. Fjernvarmeprisen stammer fra det konkrete fjernvarmeværk: Fjernvarme Fyn."
+          },
+          {
+            "project": "Lungstedløkken_15_5250_Odense_SV",
+            "raw": "Fjernvarmeprisen er i denne rapport fastsat ud fra de tariffer, der var gældende ved energimærkningsrapportens officielle indberetningsdato. Fjernvarmeprisen stammer fra det konkrete fjernvarmeværk: Fjernvarme Fyn."
+          },
+          {
+            "project": "Spangsvej_15_5210_Odense_NV",
+            "raw": "Fjernvarmeprisen er i denne rapport fastsat ud fra de tariffer, der var gældende ved energimærkningsrapportens officielle indberetningsdato. Fjernvarmeprisen stammer fra det konkrete fjernvarmeværk: Fjernvarme Fyn."
+          }
+        ]
+      },
+      {
+        "normalized": "der er i energimærket anvendt aktuelle energipriser for alle brændselstyper fx fjernvarme, olie, naturgas, brænde og træpiller.",
+        "count": 1,
+        "project_count": 1,
+        "projects": [
+          "Ivarsvej_27_5200_Odense_V"
+        ],
+        "examples": [
+          {
+            "project": "Ivarsvej_27_5200_Odense_V",
+            "raw": "Der er i energimærket anvendt aktuelle energipriser for alle brændselstyper fx fjernvarme, olie, naturgas, brænde og træpiller."
+          }
+        ]
+      },
+      {
+        "normalized": "rapportens elpris er anvendt ud fra en gennemsnits vurdering, da energipriserne varierer dagligt og i forhold til valg af leverandør.",
+        "count": 1,
+        "project_count": 1,
+        "projects": [
+          "Ivarsvej_27_5200_Odense_V"
+        ],
+        "examples": [
+          {
+            "project": "Ivarsvej_27_5200_Odense_V",
+            "raw": "Rapportens elpris er anvendt ud fra en gennemsnits vurdering, da energipriserne varierer dagligt og i forhold til valg af leverandør."
+          }
+        ]
+      },
+      {
+        "normalized": "i forbindelse med rapportens forslag om energiforbedringer, bør man altid søge sparring med en professionel rådgiver eller leverandør.",
+        "count": 1,
+        "project_count": 1,
+        "projects": [
+          "Ivarsvej_27_5200_Odense_V"
+        ],
+        "examples": [
+          {
+            "project": "Ivarsvej_27_5200_Odense_V",
+            "raw": "I forbindelse med rapportens forslag om energiforbedringer, bør man altid søge sparring med en professionel rådgiver eller leverandør."
+          }
+        ]
+      },
+      {
+        "normalized": "fjernvarmeprisen er i denne rapport fastsat ud fra de tariffer, der var gældende ved energimærkningsrapportens officielle indberetningsdato. fjernvarmeprisen stammer fra det konkrete fjernvarmeværk: galten varmeværk a.m.b.a.",
+        "count": 1,
+        "project_count": 1,
+        "projects": [
+          "Lunden_3_8464_Galten"
+        ],
+        "examples": [
+          {
+            "project": "Lunden_3_8464_Galten",
+            "raw": "Fjernvarmeprisen er i denne rapport fastsat ud fra de tariffer, der var gældende ved energimærkningsrapportens officielle indberetningsdato. Fjernvarmeprisen stammer fra det konkrete fjernvarmeværk: Galten Varmeværk A.m.b.a."
+          }
+        ]
+      },
+      {
+        "normalized": "rapportens pris på rummeter træ er anvendt ud fra en gennemsnitsvurdering.",
+        "count": 1,
+        "project_count": 1,
+        "projects": [
+          "Nypølsgade_14_6470_Sydals"
+        ],
+        "examples": [
+          {
+            "project": "Nypølsgade_14_6470_Sydals",
+            "raw": "Rapportens pris på rummeter træ er anvendt ud fra en gennemsnitsvurdering."
+          }
+        ]
+      },
+      {
+        "normalized": "fjernvarmeprisen er i denne rapport fastsat ud fra de tariffer, der var gældende ved energimærkningsrapportens officielle indberetningsdato. fjernvarmeprisen stammer fra det konkrete fjernvarmeværk: vejle fjernvarme",
+        "count": 1,
+        "project_count": 1,
+        "projects": [
+          "Spurvevej_13_7100_Vejle"
+        ],
+        "examples": [
+          {
+            "project": "Spurvevej_13_7100_Vejle",
+            "raw": "Fjernvarmeprisen er i denne rapport fastsat ud fra de tariffer, der var gældende ved energimærkningsrapportens officielle indberetningsdato. Fjernvarmeprisen stammer fra det konkrete fjernvarmeværk: Vejle Fjernvarme"
+          }
+        ]
+      },
+      {
+        "normalized": "der er i energimærket anvendt aktuelle energipriser for fjernvarme",
+        "count": 1,
+        "project_count": 1,
+        "projects": [
+          "Strandbakken_5_5900_Rudkøbing"
+        ],
+        "examples": [
+          {
+            "project": "Strandbakken_5_5900_Rudkøbing",
+            "raw": "Der er i energimærket anvendt aktuelle energipriser for fjernvarme"
+          }
+        ]
+      },
+      {
+        "normalized": "der er i energimærket anvendt aktuelle energipriser for el.",
+        "count": 1,
+        "project_count": 1,
+        "projects": [
+          "Sønderskovvej_5_5932_Humble"
+        ],
+        "examples": [
+          {
+            "project": "Sønderskovvej_5_5932_Humble",
+            "raw": "Der er i energimærket anvendt aktuelle energipriser for el."
+          }
+        ]
+      }
+    ],
+    "OnBuildingDescription|removed": [
+      {
+        "normalized": "ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og xxx bygningstegninger.",
+        "count": 10,
+        "project_count": 10,
+        "projects": [
+          "Ivarsvej_27_5200_Odense_V",
+          "Kirkegyden_15_5270_Odense_N",
+          "Lunden_3_8464_Galten",
+          "Lungstedløkken_15_5250_Odense_SV",
+          "Møllehøj_15_6400_Sønderborg",
+          "Nypølsgade_14_6470_Sydals",
+          "Spangsvej_15_5210_Odense_NV",
+          "Spurvevej_13_7100_Vejle",
+          "Strandbakken_5_5900_Rudkøbing",
+          "Sønderskovvej_5_5932_Humble"
+        ],
+        "examples": [
+          {
+            "project": "Ivarsvej_27_5200_Odense_V",
+            "raw": "Ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og XXX bygningstegninger."
+          },
+          {
+            "project": "Kirkegyden_15_5270_Odense_N",
+            "raw": "Ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og XXX bygningstegninger."
+          },
+          {
+            "project": "Lunden_3_8464_Galten",
+            "raw": "Ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og XXX bygningstegninger."
+          },
+          {
+            "project": "Lungstedløkken_15_5250_Odense_SV",
+            "raw": "Ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og XXX bygningstegninger."
+          },
+          {
+            "project": "Møllehøj_15_6400_Sønderborg",
+            "raw": "Ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og XXX bygningstegninger."
+          },
+          {
+            "project": "Nypølsgade_14_6470_Sydals",
+            "raw": "Ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og XXX bygningstegninger."
+          },
+          {
+            "project": "Spangsvej_15_5210_Odense_NV",
+            "raw": "Ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og XXX bygningstegninger."
+          },
+          {
+            "project": "Spurvevej_13_7100_Vejle",
+            "raw": "Ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og XXX bygningstegninger."
+          },
+          {
+            "project": "Strandbakken_5_5900_Rudkøbing",
+            "raw": "Ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og XXX bygningstegninger."
+          },
+          {
+            "project": "Sønderskovvej_5_5932_Humble",
+            "raw": "Ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og XXX bygningstegninger."
+          }
+        ]
+      },
+      {
+        "normalized": "de opmålte opvarmede arealer stemmer overens med bbr-meddelelsen. xxx",
+        "count": 10,
+        "project_count": 10,
+        "projects": [
+          "Ivarsvej_27_5200_Odense_V",
+          "Kirkegyden_15_5270_Odense_N",
+          "Lunden_3_8464_Galten",
+          "Lungstedløkken_15_5250_Odense_SV",
+          "Møllehøj_15_6400_Sønderborg",
+          "Nypølsgade_14_6470_Sydals",
+          "Spangsvej_15_5210_Odense_NV",
+          "Spurvevej_13_7100_Vejle",
+          "Strandbakken_5_5900_Rudkøbing",
+          "Sønderskovvej_5_5932_Humble"
+        ],
+        "examples": [
+          {
+            "project": "Ivarsvej_27_5200_Odense_V",
+            "raw": "De opmålte opvarmede arealer stemmer overens med BBR-meddelelsen. XXX"
+          },
+          {
+            "project": "Kirkegyden_15_5270_Odense_N",
+            "raw": "De opmålte opvarmede arealer stemmer overens med BBR-meddelelsen. XXX"
+          },
+          {
+            "project": "Lunden_3_8464_Galten",
+            "raw": "De opmålte opvarmede arealer stemmer overens med BBR-meddelelsen. XXX"
+          },
+          {
+            "project": "Lungstedløkken_15_5250_Odense_SV",
+            "raw": "De opmålte opvarmede arealer stemmer overens med BBR-meddelelsen. XXX"
+          },
+          {
+            "project": "Møllehøj_15_6400_Sønderborg",
+            "raw": "De opmålte opvarmede arealer stemmer overens med BBR-meddelelsen. XXX"
+          },
+          {
+            "project": "Nypølsgade_14_6470_Sydals",
+            "raw": "De opmålte opvarmede arealer stemmer overens med BBR-meddelelsen. XXX"
+          },
+          {
+            "project": "Spangsvej_15_5210_Odense_NV",
+            "raw": "De opmålte opvarmede arealer stemmer overens med BBR-meddelelsen. XXX"
+          },
+          {
+            "project": "Spurvevej_13_7100_Vejle",
+            "raw": "De opmålte opvarmede arealer stemmer overens med BBR-meddelelsen. XXX"
+          },
+          {
+            "project": "Strandbakken_5_5900_Rudkøbing",
+            "raw": "De opmålte opvarmede arealer stemmer overens med BBR-meddelelsen. XXX"
+          },
+          {
+            "project": "Sønderskovvej_5_5932_Humble",
+            "raw": "De opmålte opvarmede arealer stemmer overens med BBR-meddelelsen. XXX"
+          }
+        ]
+      },
+      {
+        "normalized": "det opmålte opvarmede areal stemmer, med mindre afvigelser, overens med bbr-meddelelsen. xxx",
+        "count": 10,
+        "project_count": 10,
+        "projects": [
+          "Ivarsvej_27_5200_Odense_V",
+          "Kirkegyden_15_5270_Odense_N",
+          "Lunden_3_8464_Galten",
+          "Lungstedløkken_15_5250_Odense_SV",
+          "Møllehøj_15_6400_Sønderborg",
+          "Nypølsgade_14_6470_Sydals",
+          "Spangsvej_15_5210_Odense_NV",
+          "Spurvevej_13_7100_Vejle",
+          "Strandbakken_5_5900_Rudkøbing",
+          "Sønderskovvej_5_5932_Humble"
+        ],
+        "examples": [
+          {
+            "project": "Ivarsvej_27_5200_Odense_V",
+            "raw": "Det opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen. XXX"
+          },
+          {
+            "project": "Kirkegyden_15_5270_Odense_N",
+            "raw": "Det opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen. XXX"
+          },
+          {
+            "project": "Lunden_3_8464_Galten",
+            "raw": "Det opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen. XXX"
+          },
+          {
+            "project": "Lungstedløkken_15_5250_Odense_SV",
+            "raw": "Det opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen. XXX"
+          },
+          {
+            "project": "Møllehøj_15_6400_Sønderborg",
+            "raw": "Det opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen. XXX"
+          },
+          {
+            "project": "Nypølsgade_14_6470_Sydals",
+            "raw": "Det opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen. XXX"
+          },
+          {
+            "project": "Spangsvej_15_5210_Odense_NV",
+            "raw": "Det opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen. XXX"
+          },
+          {
+            "project": "Spurvevej_13_7100_Vejle",
+            "raw": "Det opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen. XXX"
+          },
+          {
+            "project": "Strandbakken_5_5900_Rudkøbing",
+            "raw": "Det opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen. XXX"
+          },
+          {
+            "project": "Sønderskovvej_5_5932_Humble",
+            "raw": "Det opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen. XXX"
+          }
+        ]
+      },
+      {
+        "normalized": "det opmålte opvarmede areal stemmer ikke overens med bbr-meddelelsen. afvigelsen består i xxx",
+        "count": 10,
+        "project_count": 10,
+        "projects": [
+          "Ivarsvej_27_5200_Odense_V",
+          "Kirkegyden_15_5270_Odense_N",
+          "Lunden_3_8464_Galten",
+          "Lungstedløkken_15_5250_Odense_SV",
+          "Møllehøj_15_6400_Sønderborg",
+          "Nypølsgade_14_6470_Sydals",
+          "Spangsvej_15_5210_Odense_NV",
+          "Spurvevej_13_7100_Vejle",
+          "Strandbakken_5_5900_Rudkøbing",
+          "Sønderskovvej_5_5932_Humble"
+        ],
+        "examples": [
+          {
+            "project": "Ivarsvej_27_5200_Odense_V",
+            "raw": "Det opmålte opvarmede areal stemmer ikke overens med BBR-meddelelsen. Afvigelsen består i XXX"
+          },
+          {
+            "project": "Kirkegyden_15_5270_Odense_N",
+            "raw": "Det opmålte opvarmede areal stemmer ikke overens med BBR-meddelelsen. Afvigelsen består i XXX"
+          },
+          {
+            "project": "Lunden_3_8464_Galten",
+            "raw": "Det opmålte opvarmede areal stemmer ikke overens med BBR-meddelelsen. Afvigelsen består i XXX"
+          },
+          {
+            "project": "Lungstedløkken_15_5250_Odense_SV",
+            "raw": "Det opmålte opvarmede areal stemmer ikke overens med BBR-meddelelsen. Afvigelsen består i XXX"
+          },
+          {
+            "project": "Møllehøj_15_6400_Sønderborg",
+            "raw": "Det opmålte opvarmede areal stemmer ikke overens med BBR-meddelelsen. Afvigelsen består i XXX"
+          },
+          {
+            "project": "Nypølsgade_14_6470_Sydals",
+            "raw": "Det opmålte opvarmede areal stemmer ikke overens med BBR-meddelelsen. Afvigelsen består i XXX"
+          },
+          {
+            "project": "Spangsvej_15_5210_Odense_NV",
+            "raw": "Det opmålte opvarmede areal stemmer ikke overens med BBR-meddelelsen. Afvigelsen består i XXX"
+          },
+          {
+            "project": "Spurvevej_13_7100_Vejle",
+            "raw": "Det opmålte opvarmede areal stemmer ikke overens med BBR-meddelelsen. Afvigelsen består i XXX"
+          },
+          {
+            "project": "Strandbakken_5_5900_Rudkøbing",
+            "raw": "Det opmålte opvarmede areal stemmer ikke overens med BBR-meddelelsen. Afvigelsen består i XXX"
+          },
+          {
+            "project": "Sønderskovvej_5_5932_Humble",
+            "raw": "Det opmålte opvarmede areal stemmer ikke overens med BBR-meddelelsen. Afvigelsen består i XXX"
+          }
+        ]
+      },
+      {
+        "normalized": "ved bygningsgennemgangen var der ikke adgang til xxx.",
+        "count": 10,
+        "project_count": 10,
+        "projects": [
+          "Ivarsvej_27_5200_Odense_V",
+          "Kirkegyden_15_5270_Odense_N",
+          "Lunden_3_8464_Galten",
+          "Lungstedløkken_15_5250_Odense_SV",
+          "Møllehøj_15_6400_Sønderborg",
+          "Nypølsgade_14_6470_Sydals",
+          "Spangsvej_15_5210_Odense_NV",
+          "Spurvevej_13_7100_Vejle",
+          "Strandbakken_5_5900_Rudkøbing",
+          "Sønderskovvej_5_5932_Humble"
+        ],
+        "examples": [
+          {
+            "project": "Ivarsvej_27_5200_Odense_V",
+            "raw": "Ved bygningsgennemgangen var der ikke adgang til XXX."
+          },
+          {
+            "project": "Kirkegyden_15_5270_Odense_N",
+            "raw": "Ved bygningsgennemgangen var der ikke adgang til XXX."
+          },
+          {
+            "project": "Lunden_3_8464_Galten",
+            "raw": "Ved bygningsgennemgangen var der ikke adgang til XXX."
+          },
+          {
+            "project": "Lungstedløkken_15_5250_Odense_SV",
+            "raw": "Ved bygningsgennemgangen var der ikke adgang til XXX."
+          },
+          {
+            "project": "Møllehøj_15_6400_Sønderborg",
+            "raw": "Ved bygningsgennemgangen var der ikke adgang til XXX."
+          },
+          {
+            "project": "Nypølsgade_14_6470_Sydals",
+            "raw": "Ved bygningsgennemgangen var der ikke adgang til XXX."
+          },
+          {
+            "project": "Spangsvej_15_5210_Odense_NV",
+            "raw": "Ved bygningsgennemgangen var der ikke adgang til XXX."
+          },
+          {
+            "project": "Spurvevej_13_7100_Vejle",
+            "raw": "Ved bygningsgennemgangen var der ikke adgang til XXX."
+          },
+          {
+            "project": "Strandbakken_5_5900_Rudkøbing",
+            "raw": "Ved bygningsgennemgangen var der ikke adgang til XXX."
+          },
+          {
+            "project": "Sønderskovvej_5_5932_Humble",
+            "raw": "Ved bygningsgennemgangen var der ikke adgang til XXX."
+          }
+        ]
+      },
+      {
+        "normalized": "følgende rum xxx er uopvarmet. (vælg desuden en af nedenstående <NUM> muligheder xxx slet dette)",
+        "count": 10,
+        "project_count": 10,
+        "projects": [
+          "Ivarsvej_27_5200_Odense_V",
+          "Kirkegyden_15_5270_Odense_N",
+          "Lunden_3_8464_Galten",
+          "Lungstedløkken_15_5250_Odense_SV",
+          "Møllehøj_15_6400_Sønderborg",
+          "Nypølsgade_14_6470_Sydals",
+          "Spangsvej_15_5210_Odense_NV",
+          "Spurvevej_13_7100_Vejle",
+          "Strandbakken_5_5900_Rudkøbing",
+          "Sønderskovvej_5_5932_Humble"
+        ],
+        "examples": [
+          {
+            "project": "Ivarsvej_27_5200_Odense_V",
+            "raw": "Følgende rum XXX er uopvarmet. (vælg desuden en af nedenstående 2 muligheder XXX Slet dette)"
+          },
+          {
+            "project": "Kirkegyden_15_5270_Odense_N",
+            "raw": "Følgende rum XXX er uopvarmet. (vælg desuden en af nedenstående 2 muligheder XXX Slet dette)"
+          },
+          {
+            "project": "Lunden_3_8464_Galten",
+            "raw": "Følgende rum XXX er uopvarmet. (vælg desuden en af nedenstående 2 muligheder XXX Slet dette)"
+          },
+          {
+            "project": "Lungstedløkken_15_5250_Odense_SV",
+            "raw": "Følgende rum XXX er uopvarmet. (vælg desuden en af nedenstående 2 muligheder XXX Slet dette)"
+          },
+          {
+            "project": "Møllehøj_15_6400_Sønderborg",
+            "raw": "Følgende rum XXX er uopvarmet. (vælg desuden en af nedenstående 2 muligheder XXX Slet dette)"
+          },
+          {
+            "project": "Nypølsgade_14_6470_Sydals",
+            "raw": "Følgende rum XXX er uopvarmet. (vælg desuden en af nedenstående 2 muligheder XXX Slet dette)"
+          },
+          {
+            "project": "Spangsvej_15_5210_Odense_NV",
+            "raw": "Følgende rum XXX er uopvarmet. (vælg desuden en af nedenstående 2 muligheder XXX Slet dette)"
+          },
+          {
+            "project": "Spurvevej_13_7100_Vejle",
+            "raw": "Følgende rum XXX er uopvarmet. (vælg desuden en af nedenstående 2 muligheder XXX Slet dette)"
+          },
+          {
+            "project": "Strandbakken_5_5900_Rudkøbing",
+            "raw": "Følgende rum XXX er uopvarmet. (vælg desuden en af nedenstående 2 muligheder XXX Slet dette)"
+          },
+          {
+            "project": "Sønderskovvej_5_5932_Humble",
+            "raw": "Følgende rum XXX er uopvarmet. (vælg desuden en af nedenstående 2 muligheder XXX Slet dette)"
+          }
+        ]
+      },
+      {
+        "normalized": "arealerne forudsættes jf. gældende håndbog for energikonsulenter opvarmet med samme opvarmningsform som resten af bygningen, uanset at der ingen varmekilde er, da det vurderes at eksisterende varmeanlæg er tilstrækkelig til at kunne opvarme hele boligen xxx",
+        "count": 10,
+        "project_count": 10,
+        "projects": [
+          "Ivarsvej_27_5200_Odense_V",
+          "Kirkegyden_15_5270_Odense_N",
+          "Lunden_3_8464_Galten",
+          "Lungstedløkken_15_5250_Odense_SV",
+          "Møllehøj_15_6400_Sønderborg",
+          "Nypølsgade_14_6470_Sydals",
+          "Spangsvej_15_5210_Odense_NV",
+          "Spurvevej_13_7100_Vejle",
+          "Strandbakken_5_5900_Rudkøbing",
+          "Sønderskovvej_5_5932_Humble"
+        ],
+        "examples": [
+          {
+            "project": "Ivarsvej_27_5200_Odense_V",
+            "raw": "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter opvarmet med samme opvarmningsform som resten af bygningen, uanset at der ingen varmekilde er, da det vurderes at eksisterende varmeanlæg er tilstrækkelig til at kunne opvarme hele boligen  XXX"
+          },
+          {
+            "project": "Kirkegyden_15_5270_Odense_N",
+            "raw": "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter opvarmet med samme opvarmningsform som resten af bygningen, uanset at der ingen varmekilde er, da det vurderes at eksisterende varmeanlæg er tilstrækkelig til at kunne opvarme hele boligen  XXX"
+          },
+          {
+            "project": "Lunden_3_8464_Galten",
+            "raw": "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter opvarmet med samme opvarmningsform som resten af bygningen, uanset at der ingen varmekilde er, da det vurderes at eksisterende varmeanlæg er tilstrækkelig til at kunne opvarme hele boligen  XXX"
+          },
+          {
+            "project": "Lungstedløkken_15_5250_Odense_SV",
+            "raw": "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter opvarmet med samme opvarmningsform som resten af bygningen, uanset at der ingen varmekilde er, da det vurderes at eksisterende varmeanlæg er tilstrækkelig til at kunne opvarme hele boligen  XXX"
+          },
+          {
+            "project": "Møllehøj_15_6400_Sønderborg",
+            "raw": "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter opvarmet med samme opvarmningsform som resten af bygningen, uanset at der ingen varmekilde er, da det vurderes at eksisterende varmeanlæg er tilstrækkelig til at kunne opvarme hele boligen  XXX"
+          },
+          {
+            "project": "Nypølsgade_14_6470_Sydals",
+            "raw": "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter opvarmet med samme opvarmningsform som resten af bygningen, uanset at der ingen varmekilde er, da det vurderes at eksisterende varmeanlæg er tilstrækkelig til at kunne opvarme hele boligen  XXX"
+          },
+          {
+            "project": "Spangsvej_15_5210_Odense_NV",
+            "raw": "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter opvarmet med samme opvarmningsform som resten af bygningen, uanset at der ingen varmekilde er, da det vurderes at eksisterende varmeanlæg er tilstrækkelig til at kunne opvarme hele boligen  XXX"
+          },
+          {
+            "project": "Spurvevej_13_7100_Vejle",
+            "raw": "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter opvarmet med samme opvarmningsform som resten af bygningen, uanset at der ingen varmekilde er, da det vurderes at eksisterende varmeanlæg er tilstrækkelig til at kunne opvarme hele boligen  XXX"
+          },
+          {
+            "project": "Strandbakken_5_5900_Rudkøbing",
+            "raw": "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter opvarmet med samme opvarmningsform som resten af bygningen, uanset at der ingen varmekilde er, da det vurderes at eksisterende varmeanlæg er tilstrækkelig til at kunne opvarme hele boligen  XXX"
+          },
+          {
+            "project": "Sønderskovvej_5_5932_Humble",
+            "raw": "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter opvarmet med samme opvarmningsform som resten af bygningen, uanset at der ingen varmekilde er, da det vurderes at eksisterende varmeanlæg er tilstrækkelig til at kunne opvarme hele boligen  XXX"
+          }
+        ]
+      },
+      {
+        "normalized": "arealerne forudsættes jf. gældende håndbog for energikonsulenter som værende el-opvarmet, da det vurderes at eksisterende varmeanlæg ikke er tilstrækkelig til at kunne opvarme hele boligen. xxx",
+        "count": 10,
+        "project_count": 10,
+        "projects": [
+          "Ivarsvej_27_5200_Odense_V",
+          "Kirkegyden_15_5270_Odense_N",
+          "Lunden_3_8464_Galten",
+          "Lungstedløkken_15_5250_Odense_SV",
+          "Møllehøj_15_6400_Sønderborg",
+          "Nypølsgade_14_6470_Sydals",
+          "Spangsvej_15_5210_Odense_NV",
+          "Spurvevej_13_7100_Vejle",
+          "Strandbakken_5_5900_Rudkøbing",
+          "Sønderskovvej_5_5932_Humble"
+        ],
+        "examples": [
+          {
+            "project": "Ivarsvej_27_5200_Odense_V",
+            "raw": "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter som værende el-opvarmet, da det vurderes at eksisterende varmeanlæg ikke er tilstrækkelig til at kunne opvarme hele boligen. XXX"
+          },
+          {
+            "project": "Kirkegyden_15_5270_Odense_N",
+            "raw": "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter som værende el-opvarmet, da det vurderes at eksisterende varmeanlæg ikke er tilstrækkelig til at kunne opvarme hele boligen. XXX"
+          },
+          {
+            "project": "Lunden_3_8464_Galten",
+            "raw": "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter som værende el-opvarmet, da det vurderes at eksisterende varmeanlæg ikke er tilstrækkelig til at kunne opvarme hele boligen. XXX"
+          },
+          {
+            "project": "Lungstedløkken_15_5250_Odense_SV",
+            "raw": "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter som værende el-opvarmet, da det vurderes at eksisterende varmeanlæg ikke er tilstrækkelig til at kunne opvarme hele boligen. XXX"
+          },
+          {
+            "project": "Møllehøj_15_6400_Sønderborg",
+            "raw": "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter som værende el-opvarmet, da det vurderes at eksisterende varmeanlæg ikke er tilstrækkelig til at kunne opvarme hele boligen. XXX"
+          },
+          {
+            "project": "Nypølsgade_14_6470_Sydals",
+            "raw": "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter som værende el-opvarmet, da det vurderes at eksisterende varmeanlæg ikke er tilstrækkelig til at kunne opvarme hele boligen. XXX"
+          },
+          {
+            "project": "Spangsvej_15_5210_Odense_NV",
+            "raw": "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter som værende el-opvarmet, da det vurderes at eksisterende varmeanlæg ikke er tilstrækkelig til at kunne opvarme hele boligen. XXX"
+          },
+          {
+            "project": "Spurvevej_13_7100_Vejle",
+            "raw": "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter som værende el-opvarmet, da det vurderes at eksisterende varmeanlæg ikke er tilstrækkelig til at kunne opvarme hele boligen. XXX"
+          },
+          {
+            "project": "Strandbakken_5_5900_Rudkøbing",
+            "raw": "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter som værende el-opvarmet, da det vurderes at eksisterende varmeanlæg ikke er tilstrækkelig til at kunne opvarme hele boligen. XXX"
+          },
+          {
+            "project": "Sønderskovvej_5_5932_Humble",
+            "raw": "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter som værende el-opvarmet, da det vurderes at eksisterende varmeanlæg ikke er tilstrækkelig til at kunne opvarme hele boligen. XXX"
+          }
+        ]
+      },
+      {
+        "normalized": "hvis ikke andet er angivet, så er de faktuelle oplysninger i energimærket baseret på skøn ud fra hvad der visuelt kan konstateres. oplysningerne er ikke en garanti og kan ikke betragtes som dette, men er angivet for at informere om hvad der er anvendt som grundlag for beregningen.",
+        "count": 2,
+        "project_count": 2,
+        "projects": [
+          "Møllehøj_15_6400_Sønderborg",
+          "Nypølsgade_14_6470_Sydals"
+        ],
+        "examples": [
+          {
+            "project": "Møllehøj_15_6400_Sønderborg",
+            "raw": "Hvis ikke andet er angivet, så er de faktuelle oplysninger i energimærket baseret på skøn ud fra hvad der visuelt kan konstateres. Oplysningerne er ikke en garanti og kan ikke betragtes som dette, men er angivet for at informere om hvad der er anvendt som grundlag for beregningen."
+          },
+          {
+            "project": "Nypølsgade_14_6470_Sydals",
+            "raw": "Hvis ikke andet er angivet, så er de faktuelle oplysninger i energimærket baseret på skøn ud fra hvad der visuelt kan konstateres. Oplysningerne er ikke en garanti og kan ikke betragtes som dette, men er angivet for at informere om hvad der er anvendt som grundlag for beregningen."
+          }
+        ]
+      }
+    ],
+    "OnBuildingDescription|added": [
+      {
+        "normalized": "ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og bygningstegninger.",
+        "count": 7,
+        "project_count": 7,
+        "projects": [
+          "Ivarsvej_27_5200_Odense_V",
+          "Lunden_3_8464_Galten",
+          "Lungstedløkken_15_5250_Odense_SV",
+          "Spangsvej_15_5210_Odense_NV",
+          "Spurvevej_13_7100_Vejle",
+          "Strandbakken_5_5900_Rudkøbing",
+          "Sønderskovvej_5_5932_Humble"
+        ],
+        "examples": [
+          {
+            "project": "Ivarsvej_27_5200_Odense_V",
+            "raw": "Ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og bygningstegninger."
+          },
+          {
+            "project": "Lunden_3_8464_Galten",
+            "raw": "Ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og bygningstegninger."
+          },
+          {
+            "project": "Lungstedløkken_15_5250_Odense_SV",
+            "raw": "Ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og bygningstegninger."
+          },
+          {
+            "project": "Spangsvej_15_5210_Odense_NV",
+            "raw": "Ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og bygningstegninger."
+          },
+          {
+            "project": "Spurvevej_13_7100_Vejle",
+            "raw": "Ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og bygningstegninger."
+          },
+          {
+            "project": "Strandbakken_5_5900_Rudkøbing",
+            "raw": "Ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og bygningstegninger."
+          },
+          {
+            "project": "Sønderskovvej_5_5932_Humble",
+            "raw": "Ejendommen er kontrolopmålt af energikonsulenten ud fra stikprøver og bygningstegninger."
+          }
+        ]
+      },
+      {
+        "normalized": "de opmålte opvarmede arealer stemmer overens med bbr-meddelelsen.",
+        "count": 4,
+        "project_count": 4,
+        "projects": [
+          "Ivarsvej_27_5200_Odense_V",
+          "Kirkegyden_15_5270_Odense_N",
+          "Strandbakken_5_5900_Rudkøbing",
+          "Sønderskovvej_5_5932_Humble"
+        ],
+        "examples": [
+          {
+            "project": "Ivarsvej_27_5200_Odense_V",
+            "raw": "De opmålte opvarmede arealer stemmer overens med BBR-meddelelsen."
+          },
+          {
+            "project": "Kirkegyden_15_5270_Odense_N",
+            "raw": "De opmålte opvarmede arealer stemmer overens med BBR-meddelelsen."
+          },
+          {
+            "project": "Strandbakken_5_5900_Rudkøbing",
+            "raw": "De opmålte opvarmede arealer stemmer overens med BBR-meddelelsen."
+          },
+          {
+            "project": "Sønderskovvej_5_5932_Humble",
+            "raw": "De opmålte opvarmede arealer stemmer overens med BBR-meddelelsen."
+          }
+        ]
+      },
+      {
+        "normalized": "ejendommen er kontrolopmålt af energikonsulenten.",
+        "count": 2,
+        "project_count": 2,
+        "projects": [
+          "Kirkegyden_15_5270_Odense_N",
+          "Nypølsgade_14_6470_Sydals"
+        ],
+        "examples": [
+          {
+            "project": "Kirkegyden_15_5270_Odense_N",
+            "raw": "Ejendommen er kontrolopmålt af energikonsulenten."
+          },
+          {
+            "project": "Nypølsgade_14_6470_Sydals",
+            "raw": "Ejendommen er kontrolopmålt af energikonsulenten."
+          }
+        ]
+      },
+      {
+        "normalized": "det opmålte opvarmede areal stemmer, med mindre afvigelser, overens med bbr-meddelelsen.",
+        "count": 2,
+        "project_count": 2,
+        "projects": [
+          "Møllehøj_15_6400_Sønderborg",
+          "Nypølsgade_14_6470_Sydals"
+        ],
+        "examples": [
+          {
+            "project": "Møllehøj_15_6400_Sønderborg",
+            "raw": "Det opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen."
+          },
+          {
+            "project": "Nypølsgade_14_6470_Sydals",
+            "raw": "Det opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen."
+          }
+        ]
+      },
+      {
+        "normalized": "arealerne forudsættes jf. gældende håndbog for energikonsulenter opvarmet med samme opvarmningsform som resten af bygningen, uanset at der ingen varmekilde er, da det vurderes at eksisterende varmeanlæg er tilstrækkelig til at kunne opvarme hele boligen",
+        "count": 2,
+        "project_count": 2,
+        "projects": [
+          "Strandbakken_5_5900_Rudkøbing",
+          "Sønderskovvej_5_5932_Humble"
+        ],
+        "examples": [
+          {
+            "project": "Strandbakken_5_5900_Rudkøbing",
+            "raw": "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter opvarmet med samme opvarmningsform som resten af bygningen, uanset at der ingen varmekilde er, da det vurderes at eksisterende varmeanlæg er tilstrækkelig til at kunne opvarme hele boligen"
+          },
+          {
+            "project": "Sønderskovvej_5_5932_Humble",
+            "raw": "Arealerne forudsættes jf. gældende Håndbog for energikonsulenter opvarmet med samme opvarmningsform som resten af bygningen, uanset at der ingen varmekilde er, da det vurderes at eksisterende varmeanlæg er tilstrækkelig til at kunne opvarme hele boligen"
+          }
+        ]
+      },
+      {
+        "normalized": "det opmålte opvarmede areal stemmer, med mindre afvigelser, overens med bbr-meddelelsen, hvilket skønnes den oprindelige del er både lidt kortere og smallere end oplyst i tegningsmateriale.",
+        "count": 1,
+        "project_count": 1,
+        "projects": [
+          "Lunden_3_8464_Galten"
+        ],
+        "examples": [
+          {
+            "project": "Lunden_3_8464_Galten",
+            "raw": "Det opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen, hvilket skønnes den oprindelige del er både lidt kortere og smallere end oplyst i tegningsmateriale."
+          }
+        ]
+      },
+      {
+        "normalized": "bygningen er et fritliggende enfamilieshus med <NUM> m² udnyttet tagetage, opført i <YEAR>, med et opvarmet areal på <NUM> m². ejendommen har gennemgået diverse isoleringsarbejde gennem tiden.",
+        "count": 1,
+        "project_count": 1,
+        "projects": [
+          "Lungstedløkken_15_5250_Odense_SV"
+        ],
+        "examples": [
+          {
+            "project": "Lungstedløkken_15_5250_Odense_SV",
+            "raw": "Bygningen er et fritliggende enfamilieshus med 77 m² udnyttet tagetage, opført i 1976, med et opvarmet areal på 177 m².  Ejendommen har gennemgået diverse isoleringsarbejde gennem tiden."
+          }
+        ]
+      },
+      {
+        "normalized": "det opmålte opvarmede areal stemmer, med mindre afvigelser, overens med bbr-meddelelsen. overetagen er opmålt lidt mindre. skønnes at være grundet tagterrasse er medregnet i beboelse.",
+        "count": 1,
+        "project_count": 1,
+        "projects": [
+          "Lungstedløkken_15_5250_Odense_SV"
+        ],
+        "examples": [
+          {
+            "project": "Lungstedløkken_15_5250_Odense_SV",
+            "raw": "Det opmålte opvarmede areal stemmer, med mindre afvigelser, overens med BBR-meddelelsen. Overetagen er opmålt lidt mindre. Skønnes at være grundet tagterrasse er medregnet i beboelse."
+          }
+        ]
+      },
+      {
+        "normalized": "bygningen er et fritliggende enfamilieshus, opført i <YEAR> med et opvarmet areal på <NUM> m². ejendommen er traditionelt isoleret udfra det gældende bygningsreglement på opførelsestidspunktet.",
+        "count": 1,
+        "project_count": 1,
+        "projects": [
+          "Møllehøj_15_6400_Sønderborg"
+        ],
+        "examples": [
+          {
+            "project": "Møllehøj_15_6400_Sønderborg",
+            "raw": "Bygningen er et fritliggende enfamilieshus, opført i 2008 med et opvarmet areal på 133 m². Ejendommen er traditionelt isoleret udfra det gældende bygningsreglement på opførelsestidspunktet."
+          }
+        ]
+      },
+      {
+        "normalized": "det samlede boligareal i bbr-oversigt er angivet til <NUM> m². i henhold til vor opmåling er opvarmet areal <NUM> m².",
+        "count": 1,
+        "project_count": 1,
+        "projects": [
+          "Møllehøj_15_6400_Sønderborg"
+        ],
+        "examples": [
+          {
+            "project": "Møllehøj_15_6400_Sønderborg",
+            "raw": "Det samlede boligareal i BBR-Oversigt er angivet til 135 m². I henhold til vor opmåling er opvarmet areal 133 m²."
+          }
+        ]
+      },
+      {
+        "normalized": "udestuen er ikke medregnet i det opvarmede areal jf. ”håndbog for energikonsulenter”, da den er uopvarmet.",
+        "count": 1,
+        "project_count": 1,
+        "projects": [
+          "Møllehøj_15_6400_Sønderborg"
+        ],
+        "examples": [
+          {
+            "project": "Møllehøj_15_6400_Sønderborg",
+            "raw": "Udestuen er ikke medregnet i det opvarmede areal jf. ”Håndbog for energikonsulenter”, da den er uopvarmet."
+          }
+        ]
+      },
+      {
+        "normalized": "bygningen er et fritliggende enfamilieshus med udnyttet tagetage, opført i <YEAR> med et opvarmet areal på <NUM> m². i henhold til ejer er der foretaget væsentlig ombygning/tilbygning i <YEAR>-<YEAR>. ejendommen har gennemgået diverse isoleringsarbejde gennem tiden på loft og ved vinduer, døre, vægge og gulv.",
+        "count": 1,
+        "project_count": 1,
+        "projects": [
+          "Nypølsgade_14_6470_Sydals"
+        ],
+        "examples": [
+          {
+            "project": "Nypølsgade_14_6470_Sydals",
+            "raw": "Bygningen er et fritliggende enfamilieshus med udnyttet tagetage, opført i 1800 med et opvarmet areal på 190,3 m². I henhold til ejer er der foretaget væsentlig ombygning/tilbygning i 2011-2019. Ejendommen har gennemgået diverse isoleringsarbejde gennem tiden på loft og ved vinduer, døre, vægge og gulv."
+          }
+        ]
+      },
+      {
+        "normalized": "arealer jfr. bbr: bebyggede areal: <NUM> m², opvarmede areal <NUM> m² heraf <NUM> m² tagetage.",
+        "count": 1,
+        "project_count": 1,
+        "projects": [
+          "Nypølsgade_14_6470_Sydals"
+        ],
+        "examples": [
+          {
+            "project": "Nypølsgade_14_6470_Sydals",
+            "raw": "Arealer jfr. BBR: Bebyggede areal: 138 m², opvarmede areal 190 m² heraf 52 m² tagetage."
+          }
+        ]
+      },
+      {
+        "normalized": "arealer jfr. vores opmåling: bebyggede areal: <NUM> m², opvarmede areal <NUM> m² heraf <NUM> m² tagetage.",
+        "count": 1,
+        "project_count": 1,
+        "projects": [
+          "Nypølsgade_14_6470_Sydals"
+        ],
+        "examples": [
+          {
+            "project": "Nypølsgade_14_6470_Sydals",
+            "raw": "Arealer jfr. vores opmåling: Bebyggede areal: 128,7 m², opvarmede areal 190,3 m² heraf 61,6 m² tagetage."
+          }
+        ]
+      },
+      {
+        "normalized": "ved bygningsgennemgangen var der ikke adgang til skunk.",
+        "count": 1,
+        "project_count": 1,
+        "projects": [
+          "Nypølsgade_14_6470_Sydals"
+        ],
+        "examples": [
+          {
+            "project": "Nypølsgade_14_6470_Sydals",
+            "raw": "Ved bygningsgennemgangen var der ikke adgang til skunk."
+          }
+        ]
+      },
+      {
+        "normalized": "værksted medregnes til det opvarmede areal.",
+        "count": 1,
+        "project_count": 1,
+        "projects": [
+          "Nypølsgade_14_6470_Sydals"
+        ],
+        "examples": [
+          {
+            "project": "Nypølsgade_14_6470_Sydals",
+            "raw": "Værksted medregnes til det opvarmede areal."
+          }
+        ]
+      },
+      {
+        "normalized": "bygningen er et fritliggende enfamilieshus, med <NUM> m² kælder, opført i <YEAR> med et opvarmet areal på <NUM> m². ejendommen har gennemgået diverse isoleringsarbejde gennem tiden.",
+        "count": 1,
+        "project_count": 1,
+        "projects": [
+          "Spangsvej_15_5210_Odense_NV"
+        ],
+        "examples": [
+          {
+            "project": "Spangsvej_15_5210_Odense_NV",
+            "raw": "Bygningen er et fritliggende enfamilieshus, med 34 m² kælder, opført i 1970 med et opvarmet areal på 175 m². Ejendommen har gennemgået diverse isoleringsarbejde gennem tiden."
+          }
+        ]
+      },
+      {
+        "normalized": "det opmålte opvarmede areal stemmer ikke overens med bbr-meddelelsen. afvigelsen består i at kælderen er opvarmet.",
+        "count": 1,
+        "project_count": 1,
+        "projects": [
+          "Spangsvej_15_5210_Odense_NV"
+        ],
+        "examples": [
+          {
+            "project": "Spangsvej_15_5210_Odense_NV",
+            "raw": "Det opmålte opvarmede areal stemmer ikke overens med BBR-meddelelsen. Afvigelsen består i at kælderen er opvarmet."
+          }
+        ]
+      },
+      {
+        "normalized": "de opmålte opvarmede arealer stemmer overens med bbr-meddelelsen. dog er kælderen med undtagelse af depotrum medtaget i det opvarmede areal.",
+        "count": 1,
+        "project_count": 1,
+        "projects": [
+          "Spurvevej_13_7100_Vejle"
+        ],
+        "examples": [
+          {
+            "project": "Spurvevej_13_7100_Vejle",
+            "raw": "De opmålte opvarmede arealer stemmer overens med BBR-meddelelsen. Dog er kælderen med undtagelse af depotrum medtaget i det opvarmede areal."
+          }
+        ]
+      }
+    ]
+  }
+}

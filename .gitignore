@@ -61,7 +61,6 @@ venv.bak/
 .DS_Store
 
 # Project specific
-experiments/
 *.log
 *.tmp
 component_data.json
